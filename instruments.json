@@ -29031,6 +29031,12 @@
       "isin": null
     },
     {
+      "key": "JPWR.H:CAD",
+      "name": "Jade Power Trust",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "JRS:USD",
       "name": "Nuveen Real Estate Income Fund",
       "currency": "USD",
@@ -56833,6 +56839,12 @@
       "name": "Wartsila OYJ Abp",
       "currency": "EUR",
       "isin": "FI0009003727"
+    },
+    {
+      "key": "WRX:CAD",
+      "name": "Western Resources Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "WS:USD",
