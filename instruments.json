@@ -1137,6 +1137,12 @@
       "isin": null
     },
     {
+      "key": "AAC:USD",
+      "name": "Ares Acquisition Corp III",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AACG:USD",
       "name": "ATA Creativity Global",
       "currency": "USD",
@@ -3285,6 +3291,12 @@
       "isin": null
     },
     {
+      "key": "ALBIOP:EUR",
+      "name": "Biosynex",
+      "currency": "EUR",
+      "isin": "FR0011005933"
+    },
+    {
       "key": "ALBLDP:EUR",
       "name": "Bilendi SA",
       "currency": "EUR",
@@ -3633,6 +3645,12 @@
       "isin": "DK0015250344"
     },
     {
+      "key": "ALMDGP:EUR",
+      "name": "MGI Digital Graphic Technology",
+      "currency": "EUR",
+      "isin": "FR0010353888"
+    },
+    {
       "key": "ALMDTP:EUR",
       "name": "MEDIAN Technologies SACA",
       "currency": "EUR",
@@ -3673,6 +3691,12 @@
       "name": "ALNG ASA",
       "currency": "NOK",
       "isin": "NO0010607971"
+    },
+    {
+      "key": "ALNOVP:EUR",
+      "name": "Novacyt SA",
+      "currency": "EUR",
+      "isin": "FR0010397232"
     },
     {
       "key": "ALNT:USD",
@@ -3813,6 +3837,12 @@
       "isin": null
     },
     {
+      "key": "ALTAIP:EUR",
+      "name": "LightOn SAS",
+      "currency": "EUR",
+      "isin": "FR0013230950"
+    },
+    {
       "key": "ALTAP:EUR",
       "name": "Altarea SCA",
       "currency": "EUR",
@@ -3829,6 +3859,12 @@
       "name": "Alta Equipment Group Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "ALTHEP:EUR",
+      "name": "Theraclion SA",
+      "currency": "EUR",
+      "isin": "FR0010120402"
     },
     {
       "key": "ALTHXP:EUR",
@@ -3877,6 +3913,12 @@
       "name": "Alussa Energy Acquisition Corp II",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "ALUNIP:EUR",
+      "name": "Unify Group",
+      "currency": "EUR",
+      "isin": "FR0010820274"
     },
     {
       "key": "ALV:CAD",
@@ -5979,6 +6021,12 @@
       "isin": "GB00BNG2M159"
     },
     {
+      "key": "ATTO:USD",
+      "name": "Attovia Therapeutics Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ATTS:SEK",
       "name": "Attendo AB",
       "currency": "SEK",
@@ -6433,6 +6481,12 @@
       "name": "Ashoka Whiteoak Emerging Markets Trust PLC",
       "currency": "GBP",
       "isin": "GB00BMZR7D19"
+    },
+    {
+      "key": "AWI:CAD",
+      "name": "Advent Awi Holdings Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "AWI:USD",
@@ -12357,6 +12411,12 @@
       "isin": "GB00BF044593"
     },
     {
+      "key": "CLIC:CAD",
+      "name": "X Terra Resources Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CLIG:GBP",
       "name": "City of London Investment Group PLC",
       "currency": "GBP",
@@ -13501,6 +13561,12 @@
       "name": "CPH Group AG",
       "currency": "CHF",
       "isin": "CH0001624714"
+    },
+    {
+      "key": "CPI:CAD",
+      "name": "Carlton Precious Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "CPI:GBP",
@@ -37731,6 +37797,12 @@
       "isin": null
     },
     {
+      "key": "NWGL:USD",
+      "name": "CL Workshop Group Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "NWL:USD",
       "name": "Newell Brands Inc",
       "currency": "USD",
@@ -44325,6 +44397,12 @@
       "isin": null
     },
     {
+      "key": "RLYB:USD",
+      "name": "Rallybio Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "RLYG:CAD",
       "name": "Riley Gold Corp",
       "currency": "CAD",
@@ -44449,6 +44527,12 @@
       "name": "Rightmove PLC",
       "currency": "GBP",
       "isin": "GB00BGDT3G23"
+    },
+    {
+      "key": "RNA:USD",
+      "name": "Atrium Therapeutics Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "RNAC:USD",
@@ -44987,6 +45071,12 @@
     {
       "key": "RTG:CAD",
       "name": "RTG Mining Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "RTH:CAD",
+      "name": "Rathdowney Resources Ltd",
       "currency": "CAD",
       "isin": null
     },
@@ -49749,6 +49839,12 @@
       "isin": null
     },
     {
+      "key": "SUNE:USD",
+      "name": "SUNation Energy Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SUNNZ:CHF",
       "name": "Sunrise Communications AG",
       "currency": "CHF",
@@ -51124,7 +51220,7 @@
     },
     {
       "key": "TGE:USD",
-      "name": "The Generation Essentials Group",
+      "name": "Generation Essentials Group (The)",
       "currency": "USD",
       "isin": null
     },
@@ -57222,6 +57318,12 @@
       "key": "XTD:CAD",
       "name": "TDB Split Corp., Class A Shares",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "XTER:USD",
+      "name": "Karman Line Acquisition Corp",
+      "currency": "USD",
       "isin": null
     },
     {
