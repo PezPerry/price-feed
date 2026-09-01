@@ -1587,6 +1587,12 @@
       "isin": null
     },
     {
+      "key": "AC8:GBP",
+      "name": "Acceler8 Ventures PLC",
+      "currency": "GBP",
+      "isin": "JE00BNG2DL20"
+    },
+    {
       "key": "ACA:USD",
       "name": "Arcosa Inc",
       "currency": "USD",
