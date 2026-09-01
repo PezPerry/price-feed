@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-08-28",
+  "as_of": "2026-09-01",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -4227,12 +4227,6 @@
       "isin": "GB0004536594"
     },
     {
-      "key": "AMS:USD",
-      "name": "American Shared Hospital Services",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AMSC:USD",
       "name": "American Superconductor Corp",
       "currency": "USD",
@@ -5835,6 +5829,12 @@
       "isin": null
     },
     {
+      "key": "ATLQ:USD",
+      "name": "Jab Acquisition Corp I",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ATLX:USD",
       "name": "Atlas Lithium Corp",
       "currency": "USD",
@@ -6244,6 +6244,12 @@
     },
     {
       "key": "AVB:USD",
+      "name": "AvalonBay Communities Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "AVB#1:USD",
       "name": "AvalonBay Communities Inc",
       "currency": "USD",
       "isin": null
@@ -19737,6 +19743,12 @@
       "isin": null
     },
     {
+      "key": "FBRX#1:USD",
+      "name": "Forte Biosciences Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "FBYD:USD",
       "name": "Falcon's Beyond Global Inc",
       "currency": "USD",
@@ -19981,6 +19993,12 @@
       "name": "Federal Bank Ltd",
       "currency": "USD",
       "isin": "XS0229331755"
+    },
+    {
+      "key": "FEED:USD",
+      "name": "ENvue Medical Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "FEIM:USD",
@@ -23919,12 +23937,6 @@
       "isin": null
     },
     {
-      "key": "GT:CAD",
-      "name": "GT Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GT:USD",
       "name": "Goodyear Tire & Rubber Co (The)",
       "currency": "USD",
@@ -24529,12 +24541,6 @@
       "name": "HBX Group International PLC",
       "currency": "EUR",
       "isin": "GB00BNXJB679"
-    },
-    {
-      "key": "HC:CAD",
-      "name": "Hypercharge Networks Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "HCA:USD",
@@ -26848,7 +26854,7 @@
     },
     {
       "key": "IHG:USD",
-      "name": "InterContinental Hotels Group PLC",
+      "name": "Intercontinental Hotels Group PLC",
       "currency": "USD",
       "isin": "GB00BHJYC057"
     },
@@ -30897,6 +30903,12 @@
       "isin": null
     },
     {
+      "key": "LGCL:USD",
+      "name": "Lucas GC Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "LGCY:USD",
       "name": "Legacy Education Inc",
       "currency": "USD",
@@ -30976,7 +30988,7 @@
     },
     {
       "key": "LGVN:USD",
-      "name": "Longeveron LLC",
+      "name": "Longeveron Inc",
       "currency": "USD",
       "isin": null
     },
@@ -52773,6 +52785,12 @@
       "isin": "FR0000120271"
     },
     {
+      "key": "TTG:CAD",
+      "name": "Trans Canada Gold Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "TTG:GBP",
       "name": "TT Electronics PLC",
       "currency": "GBP",
@@ -57711,12 +57729,6 @@
       "isin": null
     },
     {
-      "key": "ZEO:USD",
-      "name": "Zeo Energy Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "ZEPP:USD",
       "name": "Zepp Health Corp",
       "currency": "USD",
@@ -57851,6 +57863,12 @@
     {
       "key": "ZOMD:CAD",
       "name": "Zoomd Technologies Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "ZON:CAD",
+      "name": "Zonte Metals Inc",
       "currency": "CAD",
       "isin": null
     },
