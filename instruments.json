@@ -6267,12 +6267,6 @@
       "isin": null
     },
     {
-      "key": "AVCR:CAD",
-      "name": "Avricore Health Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AVCT:GBP",
       "name": "Avacta Group PLC",
       "currency": "GBP",
@@ -7749,12 +7743,6 @@
       "isin": null
     },
     {
-      "key": "BFRG:USD",
-      "name": "BullFrog AI Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BFRI:USD",
       "name": "Biofrontera Inc",
       "currency": "USD",
@@ -8773,12 +8761,6 @@
       "name": "Banijay Group NV",
       "currency": "EUR",
       "isin": "NL0015000X07"
-    },
-    {
-      "key": "BNKK:USD",
-      "name": "Bonk Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "BNKR:CAD",
@@ -11825,12 +11807,6 @@
     {
       "key": "CHA:USD",
       "name": "Chagee Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CHAI:USD",
-      "name": "Core AI Holdings",
       "currency": "USD",
       "isin": null
     },
@@ -23351,12 +23327,6 @@
     {
       "key": "GOTU:USD",
       "name": "Gaotu Techedu Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GP:USD",
-      "name": "GreenPower Motor Co",
       "currency": "USD",
       "isin": null
     },
@@ -58020,12 +57990,6 @@
       "key": "ZYME:USD",
       "name": "Zymeworks Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "ZYUS:CAD",
-      "name": "Zyus Life Sciences Corp",
-      "currency": "CAD",
       "isin": null
     }
   ]
