@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-01",
+  "as_of": "2026-09-02",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -2215,6 +2215,12 @@
       "name": "Adyen NV",
       "currency": "EUR",
       "isin": "NL0012969182"
+    },
+    {
+      "key": "ADZ:CAD",
+      "name": "Adamera Minerals Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "AE:CAD",
@@ -6281,12 +6287,6 @@
     {
       "key": "AVAV:USD",
       "name": "AeroVironment Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "AVB#1:USD",
-      "name": "AvalonBay Communities Inc",
       "currency": "USD",
       "isin": null
     },
@@ -19785,12 +19785,6 @@
       "isin": null
     },
     {
-      "key": "FBRX#1:USD",
-      "name": "Forte Biosciences Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FBYD:USD",
       "name": "Falcon's Beyond Global Inc",
       "currency": "USD",
@@ -20035,12 +20029,6 @@
       "name": "Federal Bank Ltd",
       "currency": "USD",
       "isin": "XS0229331755"
-    },
-    {
-      "key": "FEED:USD",
-      "name": "ENvue Medical Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "FEIM:USD",
@@ -25137,12 +25125,6 @@
       "isin": null
     },
     {
-      "key": "HKPD:USD",
-      "name": "Cellyan Biotechnology Co Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "HL:USD",
       "name": "Hecla Mining Co",
       "currency": "USD",
@@ -26884,7 +26866,7 @@
     },
     {
       "key": "IHG:USD",
-      "name": "Intercontinental Hotels Group PLC",
+      "name": "InterContinental Hotels Group PLC",
       "currency": "USD",
       "isin": "GB00BHJYC057"
     },
@@ -30927,12 +30909,6 @@
       "isin": null
     },
     {
-      "key": "LGCL:USD",
-      "name": "Lucas GC Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "LGCY:USD",
       "name": "Legacy Education Inc",
       "currency": "USD",
@@ -31031,6 +31007,12 @@
     {
       "key": "LHAI:USD",
       "name": "Linkhome Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "LHSW:USD",
+      "name": "Lianhe Sowell International Group Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -32707,12 +32689,6 @@
       "name": "Mediobanca Banca di Credito Finanziario SpA",
       "currency": "EUR",
       "isin": "IT0000062957"
-    },
-    {
-      "key": "MBO:CAD",
-      "name": "Mobio Technologies Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "MBOT:USD",
@@ -37971,6 +37947,12 @@
       "isin": "GB0002910429"
     },
     {
+      "key": "NYRB:EUR",
+      "name": "Nyrstar NV",
+      "currency": "EUR",
+      "isin": "BE0974294267"
+    },
+    {
       "key": "NYT:USD",
       "name": "New York Times Co (The)",
       "currency": "USD",
@@ -42927,6 +42909,12 @@
       "isin": null
     },
     {
+      "key": "QST:CAD",
+      "name": "Questor Technology Inc.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "QTCOMH:EUR",
       "name": "QT Group Oyj",
       "currency": "EUR",
@@ -45177,12 +45165,6 @@
       "isin": null
     },
     {
-      "key": "RW:CAD",
-      "name": "Renoworks Software Inc.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RWA:GBP",
       "name": "Robert Walters PLC",
       "currency": "GBP",
@@ -47369,6 +47351,12 @@
     {
       "key": "SIND:USD",
       "name": "Sinda Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SINT:USD",
+      "name": "SINTX Technologies Inc",
       "currency": "USD",
       "isin": null
     },
@@ -52259,6 +52247,12 @@
     {
       "key": "TRBC:CAD",
       "name": "Tribeca Resources Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "TRBE:CAD",
+      "name": "Tribe Property Technologies Inc",
       "currency": "CAD",
       "isin": null
     },
