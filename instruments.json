@@ -1503,6 +1503,12 @@
       "isin": "FR0010557264"
     },
     {
+      "key": "ABR:CAD",
+      "name": "Arbor Metals Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "ABR:USD",
       "name": "Arbor Realty Trust Inc",
       "currency": "USD",
@@ -8247,6 +8253,12 @@
       "isin": null
     },
     {
+      "key": "BIRD:CAD",
+      "name": "Thunderbird Minerals Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BIRD:USD",
       "name": "Smartbird Inc",
       "currency": "USD",
@@ -11639,6 +11651,12 @@
     {
       "key": "CFG:USD",
       "name": "Citizens Financial Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "CFG-E:USD",
+      "name": "Citizens Financial Group Inc Pref E",
       "currency": "USD",
       "isin": null
     },
@@ -19335,6 +19353,12 @@
       "isin": null
     },
     {
+      "key": "EWAV:USD",
+      "name": "East West Ave Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "EWBC:USD",
       "name": "East West Bancorp Inc",
       "currency": "USD",
@@ -22137,6 +22161,12 @@
       "isin": null
     },
     {
+      "key": "GCOM:CAD",
+      "name": "Green Shift Commodities Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GCP:GBP",
       "name": "GCP Infrastructure Investments Ltd",
       "currency": "GBP",
@@ -22152,6 +22182,12 @@
       "key": "GCTS:USD",
       "name": "GCT Semiconductor Holding Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "GCV:CAD",
+      "name": "Golden Star Capital Ventures Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -25533,6 +25569,12 @@
       "isin": null
     },
     {
+      "key": "HOS:USD",
+      "name": "Hornbeck Offshore Services Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "HOTD:EUR",
       "name": "HOCHTIEF AG",
       "currency": "EUR",
@@ -26866,7 +26908,7 @@
     },
     {
       "key": "IHG:USD",
-      "name": "InterContinental Hotels Group PLC",
+      "name": "Intercontinental Hotels Group PLC",
       "currency": "USD",
       "isin": "GB00BHJYC057"
     },
@@ -45165,6 +45207,12 @@
       "isin": null
     },
     {
+      "key": "RW:CAD",
+      "name": "Renoworks Software Inc.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "RWA:GBP",
       "name": "Robert Walters PLC",
       "currency": "GBP",
@@ -53865,6 +53913,12 @@
       "isin": null
     },
     {
+      "key": "USB-Q:USD",
+      "name": "US Bancorp Pref Q",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "USCB:USD",
       "name": "USCB Financial Holdings Inc",
       "currency": "USD",
@@ -54999,6 +55053,12 @@
       "isin": null
     },
     {
+      "key": "VNO-N:USD",
+      "name": "Vornado Realty Trust Pref N",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "VNOM:USD",
       "name": "Viper Energy Partners LP",
       "currency": "USD",
@@ -55139,6 +55199,12 @@
     {
       "key": "VOYA:USD",
       "name": "ING US Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "VOYA-B:USD",
+      "name": "Voya Financial Inc Pref B",
       "currency": "USD",
       "isin": null
     },
@@ -55967,6 +56033,12 @@
     {
       "key": "WFC:USD",
       "name": "Wells Fargo & Co",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "WFC-A:USD",
+      "name": "Wells Fargo & Co Pref A",
       "currency": "USD",
       "isin": null
     },
