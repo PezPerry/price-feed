@@ -166,7 +166,7 @@
     },
     {
       "key": "0H3Q:EUR",
-      "name": "Deutsche Post AG DHL Group",
+      "name": "DHL AG",
       "currency": "EUR",
       "isin": "DE0005552004"
     },
@@ -36234,6 +36234,12 @@
       "key": "NFG:USD",
       "name": "National Fuel Gas Co",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "NFGC:CAD",
+      "name": "New Found Gold Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
