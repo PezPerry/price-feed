@@ -1503,12 +1503,6 @@
       "isin": "FR0010557264"
     },
     {
-      "key": "ABR:CAD",
-      "name": "Arbor Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "ABR:USD",
       "name": "Arbor Realty Trust Inc",
       "currency": "USD",
@@ -6291,12 +6285,6 @@
       "isin": null
     },
     {
-      "key": "AVB:USD",
-      "name": "AvalonBay Communities Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AVB#1:USD",
       "name": "AvalonBay Communities Inc",
       "currency": "USD",
@@ -7416,12 +7404,6 @@
       "key": "BCTX:USD",
       "name": "BriaCell Therapeutics Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BCU:CAD",
-      "name": "Bell Copper Corporation",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -19803,12 +19785,6 @@
       "isin": null
     },
     {
-      "key": "FBRX:USD",
-      "name": "Forte Biosciences Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FBRX#1:USD",
       "name": "Forte Biosciences Inc",
       "currency": "USD",
@@ -20225,12 +20201,6 @@
     {
       "key": "FFOX:CAD",
       "name": "Firefox Gold Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "FFU:CAD",
-      "name": "F4 Uranium Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -22176,12 +22146,6 @@
       "key": "GCO:USD",
       "name": "Genesco Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GCOM:CAD",
-      "name": "Green Shift Commodities Ltd",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -28395,12 +28359,6 @@
       "isin": null
     },
     {
-      "key": "JAB:USD",
-      "name": "Jab Acquisition Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "JACK:USD",
       "name": "Jack in the Box Inc",
       "currency": "USD",
@@ -31077,12 +31035,6 @@
       "isin": null
     },
     {
-      "key": "LHSW:USD",
-      "name": "Lianhe Sowell International Group Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "LHX:USD",
       "name": "L3Harris Technologies Inc",
       "currency": "USD",
@@ -33723,12 +33675,6 @@
       "isin": "CH0003390066"
     },
     {
-      "key": "MILA:GBP",
-      "name": "Mila Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BD4FCK53"
-    },
-    {
       "key": "MILDES:SEK",
       "name": "Mildef Group AB",
       "currency": "SEK",
@@ -33738,12 +33684,6 @@
       "key": "MIM:CAD",
       "name": "Mimedia Holdings Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "MIMI:USD",
-      "name": "Mint Inc Ltd",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -42981,12 +42921,6 @@
       "isin": null
     },
     {
-      "key": "QST:CAD",
-      "name": "Questor Technology Inc.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "QTCOMH:EUR",
       "name": "QT Group Oyj",
       "currency": "EUR",
@@ -47433,12 +47367,6 @@
       "isin": null
     },
     {
-      "key": "SINT:USD",
-      "name": "SINTX Technologies Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SINTS:SEK",
       "name": "SinterCast AB",
       "currency": "SEK",
@@ -49563,12 +49491,6 @@
       "isin": "CH1175448666"
     },
     {
-      "key": "STMP:CAD",
-      "name": "Stamper Oil And Gas Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "STN:CAD",
       "name": "Stantec Inc",
       "currency": "CAD",
@@ -51345,12 +51267,6 @@
       "isin": null
     },
     {
-      "key": "THH:USD",
-      "name": "TryHard Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "THM:CAD",
       "name": "Thunder Mountain Gold Inc",
       "currency": "CAD",
@@ -52387,12 +52303,6 @@
       "name": "Trex Company Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "TRGE:EUR",
-      "name": "Tubos Reunidos SA",
-      "currency": "EUR",
-      "isin": "ES0180850416"
     },
     {
       "key": "TRGP:USD",
@@ -54463,12 +54373,6 @@
       "name": "Veidekke ASA",
       "currency": "NOK",
       "isin": "NO0005806802"
-    },
-    {
-      "key": "VEL:GBP",
-      "name": "Velocity Composites PLC",
-      "currency": "GBP",
-      "isin": "GB00BF339H01"
     },
     {
       "key": "VEL:USD",
@@ -58033,12 +57937,6 @@
       "name": "Zotefoams PLC",
       "currency": "GBP",
       "isin": "GB0009896605"
-    },
-    {
-      "key": "ZTG:USD",
-      "name": "Zenta Group Co",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "ZTO:USD",
