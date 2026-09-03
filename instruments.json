@@ -7305,6 +7305,12 @@
       "isin": null
     },
     {
+      "key": "BCG:EUR",
+      "name": "Baltic Classifieds Group PLC",
+      "currency": "EUR",
+      "isin": "GB00BN44P254"
+    },
+    {
       "key": "BCG:GBP",
       "name": "Baltic Classifieds Group PLC",
       "currency": "GBP",
@@ -22369,6 +22375,12 @@
       "name": "Gemfields Group Ltd",
       "currency": "GBP",
       "isin": "GG00BG0KTL52"
+    },
+    {
+      "key": "GEMD:GBP",
+      "name": "Gem Diamonds Ltd",
+      "currency": "GBP",
+      "isin": "VGG379591065"
     },
     {
       "key": "GEMG:CAD",
@@ -50956,7 +50968,7 @@
     },
     {
       "key": "TENG:GBP",
-      "name": "Ten Lifestyle Group PLC",
+      "name": "Ten Technologies Group PLC",
       "currency": "GBP",
       "isin": "GB00BF188X60"
     },
