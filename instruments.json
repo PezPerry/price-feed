@@ -31665,12 +31665,6 @@
       "isin": "GB00BM9CLS53"
     },
     {
-      "key": "LOT:CAD",
-      "name": "Tomagold Corporation",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "LOT:USD",
       "name": "Lotus Technology Inc",
       "currency": "USD",
@@ -36234,12 +36228,6 @@
       "key": "NFE:USD",
       "name": "New Fortress Energy LLC",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "NFG:CAD",
-      "name": "NEW Found Gold Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -42801,12 +42789,6 @@
       "isin": null
     },
     {
-      "key": "QHE:GBP",
-      "name": "Quantum Helium Ltd",
-      "currency": "GBP",
-      "isin": "AU0000473282"
-    },
-    {
       "key": "QLEP:USD",
       "name": "Quantum Leap Acquisition Corp",
       "currency": "USD",
@@ -43983,12 +43965,6 @@
       "isin": "FR0000121121"
     },
     {
-      "key": "RFX:CAD",
-      "name": "Reeflex Solutions Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RFX:GBP",
       "name": "Ramsdens Holdings PLC",
       "currency": "GBP",
@@ -44405,12 +44381,6 @@
     {
       "key": "RMBS:USD",
       "name": "Rambus Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "RMCF:USD",
-      "name": "Rocky Mountain Chocolate Factory Inc",
       "currency": "USD",
       "isin": null
     },
@@ -50467,12 +50437,6 @@
       "name": "TAO Synergies Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "TAP:GBP",
-      "name": "Tap Global Group PLC",
-      "currency": "GBP",
-      "isin": "GB00BMVSDN09"
     },
     {
       "key": "TAP:USD",
