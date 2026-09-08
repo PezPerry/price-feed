@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-07",
+  "as_of": "2026-09-08",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -8985,6 +8985,12 @@
       "isin": null
     },
     {
+      "key": "BOCA:CAD",
+      "name": "Bocana Resources Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BODI:USD",
       "name": "The Beachbody Company Inc",
       "currency": "USD",
@@ -12765,6 +12771,12 @@
       "isin": null
     },
     {
+      "key": "CMCT:USD",
+      "name": "CIM Commercial Trust Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CMCX:GBP",
       "name": "CMC Markets PLC",
       "currency": "GBP",
@@ -14037,16 +14049,16 @@
       "isin": null
     },
     {
+      "key": "CRNOBS:SEK",
+      "name": "Cereno Scientific AB",
+      "currency": "SEK",
+      "isin": "SE0008241558"
+    },
+    {
       "key": "CRNT:USD",
       "name": "Ceragon Networks Ltd",
       "currency": "USD",
       "isin": "IL0010851660"
-    },
-    {
-      "key": "CRNX:USD",
-      "name": "Crinetics Pharmaceuticals Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "CRON:CAD",
@@ -16799,6 +16811,12 @@
     {
       "key": "DTSQ:USD",
       "name": "DT Cloud Star Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "DTSS:USD",
+      "name": "Datasea Intelligent Technology Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -20037,6 +20055,12 @@
       "isin": null
     },
     {
+      "key": "FDAM:EUR",
+      "name": "Fidia SpA",
+      "currency": "EUR",
+      "isin": "IT0005654683"
+    },
+    {
       "key": "FDBC:USD",
       "name": "Fidelity D&D Bancorp Inc",
       "currency": "USD",
@@ -22227,6 +22251,12 @@
       "isin": null
     },
     {
+      "key": "GCDT:USD",
+      "name": "Green Circle Decarbonize Technology Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "GCL:GBP",
       "name": "Geiger Counter Ltd",
       "currency": "GBP",
@@ -23461,6 +23491,12 @@
       "name": "Acushnet Holdings Corp",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "GOMXS:SEK",
+      "name": "GomSpace Group AB",
+      "currency": "SEK",
+      "isin": "SE0008348304"
     },
     {
       "key": "GOOD:USD",
@@ -24711,6 +24747,12 @@
       "isin": "GB00BNXJB679"
     },
     {
+      "key": "HC:CAD",
+      "name": "Hypercharge Networks Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "HCA:USD",
       "name": "HCA Healthcare Inc",
       "currency": "USD",
@@ -25411,12 +25453,6 @@
       "name": "H Lundbeck A/S",
       "currency": "DKK",
       "isin": "DK0061804770"
-    },
-    {
-      "key": "HLX:USD",
-      "name": "Helix Energy Solutions Group Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "HLXC:USD",
@@ -27315,12 +27351,6 @@
       "isin": null
     },
     {
-      "key": "IMR:CAD",
-      "name": "Imetal Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "IMRX:USD",
       "name": "Immuneering Corp",
       "currency": "USD",
@@ -28081,12 +28111,6 @@
       "name": "IQM Quantum Computers Oyj",
       "currency": "EUR",
       "isin": "FI4000602354"
-    },
-    {
-      "key": "IQST:USD",
-      "name": "iQSTEL Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "IQV:USD",
@@ -29179,6 +29203,12 @@
       "name": "Kinross Gold Corp.",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "K33S:SEK",
+      "name": "K33 AB",
+      "currency": "SEK",
+      "isin": "SE0007614722"
     },
     {
       "key": "KABEBS:SEK",
@@ -31801,6 +31831,12 @@
       "name": "Lords Group Trading PLC",
       "currency": "GBP",
       "isin": "GB00BM9CLS53"
+    },
+    {
+      "key": "LOT:CAD",
+      "name": "Tomagold Corporation",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "LOT:USD",
@@ -38127,12 +38163,6 @@
       "isin": "GB0002910429"
     },
     {
-      "key": "NYRB:EUR",
-      "name": "Nyrstar NV",
-      "currency": "EUR",
-      "isin": "BE0974294267"
-    },
-    {
       "key": "NYT:USD",
       "name": "New York Times Co (The)",
       "currency": "USD",
@@ -41223,6 +41253,12 @@
       "isin": null
     },
     {
+      "key": "PLAG:USD",
+      "name": "Planet Green Holdings Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "PLAN:CAD",
       "name": "Progressive Planet Solutions Inc",
       "currency": "CAD",
@@ -43092,12 +43128,6 @@
       "key": "QSR:USD",
       "name": "Restaurant Brands International Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "QST:CAD",
-      "name": "Questor Technology Inc.",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -46673,6 +46703,12 @@
     {
       "key": "SEG:USD",
       "name": "Seaport Entertainment Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SEGG:USD",
+      "name": "Sports Entertainment Gaming Global Corp",
       "currency": "USD",
       "isin": null
     },
@@ -53907,6 +53943,12 @@
       "isin": null
     },
     {
+      "key": "UPC:USD",
+      "name": "Universe Pharmaceuticals Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "UPL:GBP",
       "name": "Upland Resources Ltd",
       "currency": "GBP",
@@ -55699,12 +55741,6 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
-    },
-    {
-      "key": "VUX:CAD",
-      "name": "Vital Energy Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "VUZI:USD",
@@ -57651,6 +57687,12 @@
       "isin": null
     },
     {
+      "key": "YFI:CAD",
+      "name": "Edgewater Wireless Systems Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "YGR:CAD",
       "name": "Yangarra Resources Ltd",
       "currency": "CAD",
@@ -58181,12 +58223,6 @@
     {
       "key": "ZSTK:USD",
       "name": "ZeroStack Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "ZTEK:USD",
-      "name": "Zentek Ltd",
       "currency": "USD",
       "isin": null
     },
