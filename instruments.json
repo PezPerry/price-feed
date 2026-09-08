@@ -9957,6 +9957,12 @@
       "isin": null
     },
     {
+      "key": "BTT:CAD",
+      "name": "Bitterroot Resources Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BTU:USD",
       "name": "Peabody Energy Corp",
       "currency": "USD",
@@ -22311,12 +22317,6 @@
       "isin": null
     },
     {
-      "key": "GCV:CAD",
-      "name": "Golden Star Capital Ventures Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GD:USD",
       "name": "General Dynamics Corp",
       "currency": "USD",
@@ -27070,7 +27070,7 @@
     },
     {
       "key": "IHG:USD",
-      "name": "Intercontinental Hotels Group PLC",
+      "name": "InterContinental Hotels Group PLC",
       "currency": "USD",
       "isin": "GB00BHJYC057"
     },
@@ -40248,6 +40248,12 @@
       "key": "PBYI:USD",
       "name": "Puma Biotechnology Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PCA:CAD",
+      "name": "Phoenix Metals Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
