@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-03T13:25:20+01:00",
-  "as_of": "2026-09-02",
-  "captured_at": "2026-09-03T13:05:00+01:00",
+  "generated_at": "2026-09-08T14:44:24+01:00",
+  "as_of": "2026-09-07",
+  "captured_at": "2026-09-08T14:43:00+01:00",
   "source": "sharescope-web",
-  "instrument_count": 9757
+  "instrument_count": 9783
 }
