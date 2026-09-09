@@ -3333,6 +3333,12 @@
       "isin": "FR0004174233"
     },
     {
+      "key": "ALBPSP:EUR",
+      "name": "Biophytis SA",
+      "currency": "EUR",
+      "isin": "FR001400OLP5"
+    },
+    {
       "key": "ALC:CAD",
       "name": "Algoma Central",
       "currency": "CAD",
@@ -22919,6 +22925,12 @@
     {
       "key": "GGI:CAD",
       "name": "Garibaldi Resources Corp.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "GGM:CAD",
+      "name": "Granada Gold Mine Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -47349,6 +47361,12 @@
       "isin": null
     },
     {
+      "key": "SGLY:USD",
+      "name": "Singularity Future Technology Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SGML:CAD",
       "name": "Sigma Lithium Corporation",
       "currency": "CAD",
@@ -51897,12 +51915,6 @@
       "isin": "GB00BCDBXK43"
     },
     {
-      "key": "TIN:CAD",
-      "name": "Tincorp Metals Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "TINCB:EUR",
       "name": "TINC Comm VA",
       "currency": "EUR",
@@ -55993,6 +56005,12 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
+    },
+    {
+      "key": "VUX:CAD",
+      "name": "Vital Energy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "VUZI:USD",
