@@ -53745,6 +53745,12 @@
       "isin": null
     },
     {
+      "key": "UOG:GBP",
+      "name": "United Oil & Gas PLC",
+      "currency": "GBP",
+      "isin": "GB00BYX0MB92"
+    },
+    {
       "key": "UONEK:USD",
       "name": "Urban One Inc",
       "currency": "USD",
@@ -55579,6 +55585,12 @@
       "name": "VVT Med Inc",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "VVV:GBP",
+      "name": "VVV Sports Ltd",
+      "currency": "GBP",
+      "isin": "VGG9470B1004"
     },
     {
       "key": "VVV:USD",
