@@ -4209,12 +4209,6 @@
       "isin": null
     },
     {
-      "key": "AMOD:USD",
-      "name": "Alpha Modus Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AMP:EUR",
       "name": "Dassault Aviation SA",
       "currency": "EUR",
@@ -9585,12 +9579,6 @@
       "isin": "NL0010776944"
     },
     {
-      "key": "BRNS:USD",
-      "name": "Barinthus Biotherapeutics PLC",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BRO:CAD",
       "name": "Barksdale Resources Corp",
       "currency": "CAD",
@@ -14229,6 +14217,12 @@
       "isin": null
     },
     {
+      "key": "CRWN:CAD",
+      "name": "Crown Capital Partners Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CRWN:GBP",
       "name": "Albion Crown VCT PLC",
       "currency": "GBP",
@@ -15108,12 +15102,6 @@
       "key": "CYBE:CAD",
       "name": "Cybercatch Holdings Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "CYCN:USD",
-      "name": "Cyclerion Therapeutics Inc",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -16893,12 +16881,6 @@
       "isin": null
     },
     {
-      "key": "DTSS:USD",
-      "name": "Datasea Intelligent Technology Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "DTVL:USD",
       "name": "Dish TV India Ltd",
       "currency": "USD",
@@ -17581,12 +17563,6 @@
       "name": "EDX Medical Group PLC",
       "currency": "GBP",
       "isin": "GB00BNDMJS47"
-    },
-    {
-      "key": "EDY:CAD",
-      "name": "Eddy Smart Home Solutions Ltd",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "EE:USD",
@@ -29631,12 +29607,6 @@
       "isin": null
     },
     {
-      "key": "KDSX:CAD",
-      "name": "Kadestone Capital Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "KE:USD",
       "name": "Kimball Electronics Inc",
       "currency": "USD",
@@ -34506,12 +34476,6 @@
       "key": "MNR:USD",
       "name": "Mach Natural Resources LP",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "MNRG:CAD",
-      "name": "Monumental Energy Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -47091,12 +47055,6 @@
       "isin": null
     },
     {
-      "key": "SES:CAD",
-      "name": "Secure Energy Services Inc.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "SES:USD",
       "name": "SES AI Corp",
       "currency": "USD",
@@ -47275,12 +47233,6 @@
       "name": "Software Circle PLC",
       "currency": "GBP",
       "isin": "GB0009638130"
-    },
-    {
-      "key": "SFWL:USD",
-      "name": "Shengfeng Development Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SFZNZ:CHF",
@@ -50565,12 +50517,6 @@
       "isin": "FR0004180578"
     },
     {
-      "key": "SWT:GBP",
-      "name": "Switch Metals PLC",
-      "currency": "GBP",
-      "isin": "GB00BNRR5980"
-    },
-    {
       "key": "SWVL:USD",
       "name": "Swvl Holdings Corp",
       "currency": "USD",
@@ -53791,12 +53737,6 @@
       "name": "UBM Development AG",
       "currency": "EUR",
       "isin": "AT0000815402"
-    },
-    {
-      "key": "UCAR:USD",
-      "name": "U Power Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "UCB:USD",
