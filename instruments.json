@@ -4215,6 +4215,12 @@
       "isin": null
     },
     {
+      "key": "AMOD:USD",
+      "name": "Alpha Modus Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AMP:EUR",
       "name": "Dassault Aviation SA",
       "currency": "EUR",
@@ -34902,6 +34908,12 @@
       "key": "MQ:USD",
       "name": "Marqeta Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MQM:CAD",
+      "name": "Metalquest Mining Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
