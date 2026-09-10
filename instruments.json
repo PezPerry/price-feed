@@ -16335,6 +16335,12 @@
       "isin": "GB00B1CKQ739"
     },
     {
+      "key": "DNM:GBP",
+      "name": "Dianomi PLC",
+      "currency": "GBP",
+      "isin": "GB00BLH32M40"
+    },
+    {
       "key": "DNMX:USD",
       "name": "Dynamix Corporation III",
       "currency": "USD",
@@ -34027,6 +34033,12 @@
       "name": "Mikron Holding AG",
       "currency": "CHF",
       "isin": "CH0003390066"
+    },
+    {
+      "key": "MILA:GBP",
+      "name": "Mila Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BD4FCK53"
     },
     {
       "key": "MILDES:SEK",
@@ -57040,7 +57052,7 @@
     },
     {
       "key": "WRKS:GBP",
-      "name": "TheWorks.co.uk PLC",
+      "name": "TheWorks PLC",
       "currency": "GBP",
       "isin": "GB00BF5HBF20"
     },
