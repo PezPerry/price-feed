@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-09",
+  "as_of": "2026-09-10",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -4035,6 +4035,12 @@
       "isin": null
     },
     {
+      "key": "AMAC:USD",
+      "name": "AMR Resources Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AMAL:USD",
       "name": "Amalgamated Financial Corp",
       "currency": "USD",
@@ -4887,12 +4893,6 @@
       "isin": null
     },
     {
-      "key": "APRE:USD",
-      "name": "Aprea Therapeutics Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "APRO:NOK",
       "name": "Appear ASA",
       "currency": "NOK",
@@ -4943,12 +4943,6 @@
     {
       "key": "APYX:USD",
       "name": "Apyx Medical Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "AQMS:USD",
-      "name": "Aqua Metals Inc",
       "currency": "USD",
       "isin": null
     },
@@ -6105,6 +6099,12 @@
       "isin": "SE0007666110"
     },
     {
+      "key": "ATTT:USD",
+      "name": "Atlas Trinity Tech Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ATX:CAD",
       "name": "Atex Resources Inc",
       "currency": "CAD",
@@ -6738,6 +6738,12 @@
       "key": "AZEM:CAD",
       "name": "Arizona Eagle Mining Corp",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "AZI:USD",
+      "name": "Autozi Internet Technology (Global) Ltd",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -8571,6 +8577,12 @@
       "isin": null
     },
     {
+      "key": "BLINBS:SEK",
+      "name": "Blincvision AB",
+      "currency": "SEK",
+      "isin": "SE0009806045"
+    },
+    {
       "key": "BLIV:USD",
       "name": "BeLive Holdings",
       "currency": "USD",
@@ -9103,12 +9115,6 @@
       "name": "Bonava AB",
       "currency": "SEK",
       "isin": "SE0008091581"
-    },
-    {
-      "key": "BONE:CAD",
-      "name": "Boron One Holdings Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BONEXS:SEK",
@@ -16299,6 +16305,12 @@
       "isin": null
     },
     {
+      "key": "DMYDBS:SEK",
+      "name": "DIAMYD MEDICAL AB",
+      "currency": "SEK",
+      "isin": "SE0005162880"
+    },
+    {
       "key": "DNA:USD",
       "name": "Ginkgo Bioworks Holdings Inc",
       "currency": "USD",
@@ -16887,6 +16899,12 @@
       "isin": null
     },
     {
+      "key": "DTSS:USD",
+      "name": "Datasea Intelligent Technology Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "DTVL:USD",
       "name": "Dish TV India Ltd",
       "currency": "USD",
@@ -16993,12 +17011,6 @@
       "name": "Deutsche Wohnen SE",
       "currency": "EUR",
       "isin": "DE000A0HN5C6"
-    },
-    {
-      "key": "DWS:CAD",
-      "name": "Diamond Estates Wines And Spirits Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "DWSD:EUR",
@@ -22485,12 +22497,6 @@
       "isin": "FR0000044471"
     },
     {
-      "key": "GDTC:USD",
-      "name": "CytoMed Therapeutics Ltd",
-      "currency": "USD",
-      "isin": "SGXZ17669631"
-    },
-    {
       "key": "GDV:CAD",
       "name": "Global Dividend Growth Split Corp",
       "currency": "CAD",
@@ -24745,6 +24751,12 @@
       "name": "Havila Shipping ASA",
       "currency": "NOK",
       "isin": "NO0010257728"
+    },
+    {
+      "key": "HAVO:NOK",
+      "name": "HAV Group ASA",
+      "currency": "NOK",
+      "isin": "NO0010931918"
     },
     {
       "key": "HAWD:EUR",
@@ -28269,6 +28281,12 @@
       "isin": "FI4000602354"
     },
     {
+      "key": "IQST:USD",
+      "name": "iQSTEL Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "IQV:USD",
       "name": "IQVIA Holdings Inc",
       "currency": "USD",
@@ -29610,6 +29628,12 @@
       "key": "KDP:USD",
       "name": "Keurig Dr Pepper Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "KDSX:CAD",
+      "name": "Kadestone Capital Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -33288,6 +33312,12 @@
       "key": "MCTA:USD",
       "name": "Charming Medical Ltd",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MCU.H:CAD",
+      "name": "Mega Copper Ltd",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -42963,12 +42993,6 @@
       "isin": null
     },
     {
-      "key": "PVIS:CAD",
-      "name": "Parvis Invest Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "PVL:USD",
       "name": "Permianville Royalty Trust",
       "currency": "USD",
@@ -52545,6 +52569,12 @@
       "isin": "DE0007461006"
     },
     {
+      "key": "TPET:USD",
+      "name": "Trio Petroleum Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "TPFG:GBP",
       "name": "Property Franchise Group (The) PLC",
       "currency": "GBP",
@@ -55255,12 +55285,6 @@
       "name": "Vivendi SE",
       "currency": "EUR",
       "isin": "FR0000127771"
-    },
-    {
-      "key": "VIZ:CAD",
-      "name": "Visionary Gold Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "VKP:EUR",
