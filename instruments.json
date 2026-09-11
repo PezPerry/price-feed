@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-10",
+  "as_of": "2026-09-11",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -6249,6 +6249,12 @@
       "isin": null
     },
     {
+      "key": "AURO:CAD",
+      "name": "Auro Metals Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "AURR:GBP",
       "name": "Aurrigo International PLC",
       "currency": "GBP",
@@ -7043,6 +7049,12 @@
     {
       "key": "BANX:USD",
       "name": "StoneCastle Financial Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BAOS:USD",
+      "name": "Baosheng Media Group Holdings Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -8337,12 +8349,6 @@
       "isin": null
     },
     {
-      "key": "BIRD:CAD",
-      "name": "Thunderbird Minerals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "BIRD:USD",
       "name": "Smartbird Inc",
       "currency": "USD",
@@ -9030,6 +9036,12 @@
       "key": "BOC:USD",
       "name": "Boston Omaha Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BOCA:CAD",
+      "name": "Bocana Resources Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -14175,6 +14187,12 @@
       "isin": "JE00B6Y3DV84"
     },
     {
+      "key": "CRTM:GBP",
+      "name": "Critical Metals PLC",
+      "currency": "GBP",
+      "isin": "GB00BPP06126"
+    },
+    {
       "key": "CRTO:USD",
       "name": "Criteo SA",
       "currency": "USD",
@@ -16497,6 +16515,12 @@
       "isin": "SE0007691613"
     },
     {
+      "key": "DONES:SEK",
+      "name": "Done.ai Group AB",
+      "currency": "SEK",
+      "isin": "SE0010546911"
+    },
+    {
       "key": "DOO:CAD",
       "name": "BRP Inc",
       "currency": "CAD",
@@ -16555,6 +16579,12 @@
       "name": "Amdocs Ltd",
       "currency": "USD",
       "isin": "GB0022569080"
+    },
+    {
+      "key": "DOXAS:SEK",
+      "name": "Doxa AB",
+      "currency": "SEK",
+      "isin": "SE0005624756"
     },
     {
       "key": "DOYU:USD",
@@ -17169,6 +17199,12 @@
       "isin": "FR0014008VX5"
     },
     {
+      "key": "EARN:GBP",
+      "name": "EARNZ PLC",
+      "currency": "GBP",
+      "isin": "GB00BRC2TB67"
+    },
+    {
       "key": "EARN:USD",
       "name": "Ellington Residential Mortgage REIT",
       "currency": "USD",
@@ -17310,6 +17346,12 @@
       "key": "ECL:USD",
       "name": "Ecolab Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ECM:CAD",
+      "name": "Ecolomondo Corporation",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -18977,6 +19019,12 @@
     {
       "key": "ERD:CAD",
       "name": "Erdene Resource Development Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "ERDA:CAD",
+      "name": "Erda Resource Opportunities Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -26865,6 +26913,12 @@
       "isin": null
     },
     {
+      "key": "ICOPM:EUR",
+      "name": "ICOP SpA",
+      "currency": "EUR",
+      "isin": "IT0001214433"
+    },
+    {
       "key": "ICOSM:EUR",
       "name": "Intercos SpA",
       "currency": "EUR",
@@ -29261,6 +29315,12 @@
     {
       "key": "JUGR:CAD",
       "name": "Juggernaut Exploration Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "JUN.A:CAD",
+      "name": "Juno International Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -38367,12 +38427,6 @@
       "isin": "GB0002910429"
     },
     {
-      "key": "NYRB:EUR",
-      "name": "Nyrstar NV",
-      "currency": "EUR",
-      "isin": "BE0974294267"
-    },
-    {
       "key": "NYT:USD",
       "name": "New York Times Co (The)",
       "currency": "USD",
@@ -42963,6 +43017,12 @@
       "isin": null
     },
     {
+      "key": "PVIS:CAD",
+      "name": "Parvis Invest Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "PVL:USD",
       "name": "Permianville Royalty Trust",
       "currency": "USD",
@@ -45417,12 +45477,6 @@
       "isin": null
     },
     {
-      "key": "RTH:CAD",
-      "name": "Rathdowney Resources Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RTO:GBP",
       "name": "Rentokil Initial PLC",
       "currency": "GBP",
@@ -46913,6 +46967,12 @@
     {
       "key": "SEG:USD",
       "name": "Seaport Entertainment Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SEGG:USD",
+      "name": "Sports Entertainment Gaming Global Corp",
       "currency": "USD",
       "isin": null
     },
@@ -50289,6 +50349,12 @@
       "isin": null
     },
     {
+      "key": "SVCT:GBP",
+      "name": "Seneca Growth Capital VCT PLC B",
+      "currency": "GBP",
+      "isin": "GB00BG13MH08"
+    },
+    {
       "key": "SVE:CAD",
       "name": "Silver One Resources Inc",
       "currency": "CAD",
@@ -51501,6 +51567,12 @@
       "isin": null
     },
     {
+      "key": "TG:CAD",
+      "name": "Trifecta Gold Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "TG:USD",
       "name": "Tredegar Corp",
       "currency": "USD",
@@ -52243,6 +52315,12 @@
       "name": "Tennant Co",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "TND:GBP",
+      "name": "Tandem Group PLC",
+      "currency": "GBP",
+      "isin": "GB00B460T373"
     },
     {
       "key": "TNDM:USD",
@@ -55233,6 +55311,12 @@
       "isin": "FR0000127771"
     },
     {
+      "key": "VIZ:CAD",
+      "name": "Visionary Gold Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "VKP:EUR",
       "name": "Vallourec SACA",
       "currency": "EUR",
@@ -57681,6 +57765,12 @@
       "isin": null
     },
     {
+      "key": "XSG:GBP",
+      "name": "Xeros Technology Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BMGYBJ57"
+    },
+    {
       "key": "XSLL:USD",
       "name": "Xsolla Spac 1",
       "currency": "USD",
@@ -58518,6 +58608,12 @@
       "key": "ZYME:USD",
       "name": "Zymeworks Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ZYUS:CAD",
+      "name": "Zyus Life Sciences Corp",
+      "currency": "CAD",
       "isin": null
     }
   ]
