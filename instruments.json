@@ -4323,6 +4323,12 @@
       "isin": "GB0004536594"
     },
     {
+      "key": "AMS:USD",
+      "name": "American Shared Hospital Services",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AMSC:USD",
       "name": "American Superconductor Corp",
       "currency": "USD",
@@ -23245,6 +23251,12 @@
       "name": "MJ Gleeson PLC",
       "currency": "GBP",
       "isin": "GB00BRKD9Z53"
+    },
+    {
+      "key": "GLE:USD",
+      "name": "Global Engine Group Holding Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "GLED:USD",
@@ -43047,6 +43059,12 @@
       "isin": null
     },
     {
+      "key": "PWER:CAD",
+      "name": "Global Power Solutions Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "PWI:CAD",
       "name": "Sustainable Power Infra Split Corp CL A",
       "currency": "CAD",
@@ -45477,6 +45495,12 @@
       "isin": null
     },
     {
+      "key": "RTH:CAD",
+      "name": "Rathdowney Resources Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "RTO:GBP",
       "name": "Rentokil Initial PLC",
       "currency": "GBP",
@@ -45629,6 +45653,12 @@
     {
       "key": "RVX:CAD",
       "name": "Resverlogix Corp.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "RW:CAD",
+      "name": "Renoworks Software Inc.",
       "currency": "CAD",
       "isin": null
     },
