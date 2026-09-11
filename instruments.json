@@ -2049,12 +2049,6 @@
       "isin": "GB00BNZGNM64"
     },
     {
-      "key": "ADG:CAD",
-      "name": "Arcus Development Group Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "ADGM:USD",
       "name": "Adagio Medical Holdings Inc",
       "currency": "USD",
@@ -14229,12 +14223,6 @@
       "isin": null
     },
     {
-      "key": "CRWN:CAD",
-      "name": "Crown Capital Partners Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CRWN:GBP",
       "name": "Albion Crown VCT PLC",
       "currency": "GBP",
@@ -17322,12 +17310,6 @@
       "key": "ECL:USD",
       "name": "Ecolab Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "ECM:CAD",
-      "name": "Ecolomondo Corporation",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -22653,12 +22635,6 @@
       "isin": "GG00BMF1JR16"
     },
     {
-      "key": "GENK:USD",
-      "name": "GEN Restaurant Group Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "GENL:GBP",
       "name": "Genel Energy PLC",
       "currency": "GBP",
@@ -23305,12 +23281,6 @@
       "name": "Gaming and Leisure Properties Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "GLR:GBP",
-      "name": "Galileo Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00B115T142"
     },
     {
       "key": "GLRE:USD",
@@ -25026,12 +24996,6 @@
       "key": "HDRN:USD",
       "name": "Hadron Energy Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "HDRO:CAD",
-      "name": "Primary Hydrogen Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -31409,12 +31373,6 @@
     {
       "key": "LHAI:USD",
       "name": "Linkhome Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "LHSW:USD",
-      "name": "Lianhe Sowell International Group Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -43017,12 +42975,6 @@
       "isin": null
     },
     {
-      "key": "PVLP:EUR",
-      "name": "Plastiques Du Val De Loire",
-      "currency": "EUR",
-      "isin": "FR0013252186"
-    },
-    {
       "key": "PVN:GBP",
       "name": "ProVen VCT PLC",
       "currency": "GBP",
@@ -43031,12 +42983,6 @@
     {
       "key": "PVT:CAD",
       "name": "Pivotree Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "PWER:CAD",
-      "name": "Global Power Solutions Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -43722,12 +43668,6 @@
       "key": "RAY:CAD",
       "name": "Stingray Group Inc Svv",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "RAY:USD",
-      "name": "Raytech Holding Ltd",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -50347,12 +50287,6 @@
       "name": "Silvaco Group Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "SVCT:GBP",
-      "name": "Seneca Growth Capital VCT PLC B",
-      "currency": "GBP",
-      "isin": "GB00BG13MH08"
     },
     {
       "key": "SVE:CAD",
