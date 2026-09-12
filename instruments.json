@@ -1785,12 +1785,6 @@
       "isin": "BE0003764785"
     },
     {
-      "key": "ACL:CAD",
-      "name": "ACL Construction Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "ACLNZ:CHF",
       "name": "Accelleron Industries AG",
       "currency": "CHF",
@@ -14247,6 +14241,12 @@
       "isin": null
     },
     {
+      "key": "CRWN:CAD",
+      "name": "Crown Capital Partners Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CRWN:GBP",
       "name": "Albion Crown VCT PLC",
       "currency": "GBP",
@@ -15139,12 +15139,6 @@
       "name": "China Yuchai International Ltd",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "CYG:CAD",
-      "name": "Cygnus Metals Limited",
-      "currency": "CAD",
-      "isin": "AU000000CY57"
     },
     {
       "key": "CYH:USD",
@@ -21045,12 +21039,6 @@
       "isin": null
     },
     {
-      "key": "FNC:CAD",
-      "name": "Fancamp Exploration Ltd.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "FND:USD",
       "name": "Floor & Decor Holdings Inc",
       "currency": "USD",
@@ -22395,12 +22383,6 @@
       "isin": null
     },
     {
-      "key": "GCDT:USD",
-      "name": "Green Circle Decarbonize Technology Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "GCGR:USD",
       "name": "General Catalyst Global Resilience Merger Corp",
       "currency": "USD",
@@ -22920,12 +22902,6 @@
       "key": "GGAL:USD",
       "name": "Grupo Financiero Galicia SA",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GGAU:CAD",
-      "name": "Galactic Gold Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -30513,12 +30489,6 @@
       "isin": null
     },
     {
-      "key": "KRSA:USD",
-      "name": "Korsana Biosciences Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "KRSP:USD",
       "name": "Rice Acquisition Corporation 3",
       "currency": "USD",
@@ -33351,12 +33321,6 @@
       "isin": null
     },
     {
-      "key": "MCU.H:CAD",
-      "name": "Mega Copper Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "MCY:USD",
       "name": "Mercury General Corp",
       "currency": "USD",
@@ -34938,12 +34902,6 @@
       "key": "MQ:USD",
       "name": "Marqeta Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "MQM:CAD",
-      "name": "Metalquest Mining Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -36673,12 +36631,6 @@
       "name": "Next Biometrics Group ASA",
       "currency": "NOK",
       "isin": "NO0013740142"
-    },
-    {
-      "key": "NFD.A:CAD",
-      "name": "Northfield Capital Corp., CL.A, RV",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "NFE:USD",
@@ -38473,12 +38425,6 @@
       "name": "Realty Income Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "O5GD:EUR",
-      "name": "CPI Property Group SA",
-      "currency": "EUR",
-      "isin": "LU0251710041"
     },
     {
       "key": "OABI:USD",
@@ -41221,12 +41167,6 @@
       "name": "Phathom Pharmaceuticals",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "PHE:GBP",
-      "name": "Powerhouse Energy Group PLC",
-      "currency": "GBP",
-      "isin": "GB00B4WQVY43"
     },
     {
       "key": "PHG:USD",
@@ -45225,12 +45165,6 @@
       "isin": "ES0157261019"
     },
     {
-      "key": "ROX:CAD",
-      "name": "Canstar Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "ROZ:CHF",
       "name": "Roche Holding AG",
       "currency": "CHF",
@@ -47391,12 +47325,6 @@
       "isin": null
     },
     {
-      "key": "SGLY:USD",
-      "name": "Singularity Future Technology Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SGML:CAD",
       "name": "Sigma Lithium Corporation",
       "currency": "CAD",
@@ -48763,12 +48691,6 @@
       "name": "Sparebank 1 Ostfold Akershus",
       "currency": "NOK",
       "isin": "NO0010285562"
-    },
-    {
-      "key": "SOAR:USD",
-      "name": "Volato Group Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SOBIS:SEK",
@@ -56041,12 +55963,6 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
-    },
-    {
-      "key": "VUX:CAD",
-      "name": "Vital Energy Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "VUZI:USD",
