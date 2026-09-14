@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-11",
+  "as_of": "2026-09-14",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -1633,6 +1633,12 @@
       "name": "Credit Agricole SA",
       "currency": "EUR",
       "isin": "FR0000045072"
+    },
+    {
+      "key": "ACARIS:SEK",
+      "name": "Acarix AB",
+      "currency": "SEK",
+      "isin": "SE0009268717"
     },
     {
       "key": "ACASTS:SEK",
@@ -9645,6 +9651,12 @@
       "isin": null
     },
     {
+      "key": "BRTM:USD",
+      "name": "B&R Technology Merger Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BRUN:USD",
       "name": "Boost Run Inc",
       "currency": "USD",
@@ -16923,12 +16935,6 @@
       "isin": null
     },
     {
-      "key": "DTSS:USD",
-      "name": "Datasea Intelligent Technology Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "DTVL:USD",
       "name": "Dish TV India Ltd",
       "currency": "USD",
@@ -22521,6 +22527,12 @@
       "isin": "FR0000044471"
     },
     {
+      "key": "GDTC:USD",
+      "name": "CytoMed Therapeutics Ltd",
+      "currency": "USD",
+      "isin": "SGXZ17669631"
+    },
+    {
       "key": "GDV:CAD",
       "name": "Global Dividend Growth Split Corp",
       "currency": "CAD",
@@ -23061,6 +23073,12 @@
       "isin": null
     },
     {
+      "key": "GIGAO:NOK",
+      "name": "Gigante Salmon AS",
+      "currency": "NOK",
+      "isin": "NO0011013765"
+    },
+    {
       "key": "GIGM:USD",
       "name": "GigaMedia Ltd",
       "currency": "USD",
@@ -23317,6 +23335,12 @@
       "name": "Gaming and Leisure Properties Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "GLR:GBP",
+      "name": "Galileo Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00B115T142"
     },
     {
       "key": "GLRE:USD",
@@ -24510,12 +24534,6 @@
       "key": "GX:CAD",
       "name": "Guardian Exploration Inc.",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "GXAI:USD",
-      "name": "Gaxos.ai Inc",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -29382,6 +29400,12 @@
       "key": "JZR:CAD",
       "name": "JZR Gold Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "JZXN:USD",
+      "name": "Jiuzi Holdings Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -38457,12 +38481,6 @@
       "isin": null
     },
     {
-      "key": "OBAI:USD",
-      "name": "Our Bond Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "OBCKD:EUR",
       "name": "Ottobock SE & Co KGaA",
       "currency": "EUR",
@@ -38689,6 +38707,12 @@
       "name": "Orion Engineered Carbons SA",
       "currency": "USD",
       "isin": "LU1092234845"
+    },
+    {
+      "key": "OEG.H:CAD",
+      "name": "Onenergy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "OEMBS:SEK",
@@ -41169,6 +41193,12 @@
       "isin": null
     },
     {
+      "key": "PHE:GBP",
+      "name": "Powerhouse Energy Group PLC",
+      "currency": "GBP",
+      "isin": "GB00B4WQVY43"
+    },
+    {
       "key": "PHG:USD",
       "name": "Koninklijke Philips Electronics NV",
       "currency": "USD",
@@ -42966,12 +42996,6 @@
       "key": "PVH:USD",
       "name": "Phillips-Van Heusen Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "PVIS:CAD",
-      "name": "Parvis Invest Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -48693,6 +48717,12 @@
       "isin": "NO0010285562"
     },
     {
+      "key": "SOAR:USD",
+      "name": "Volato Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SOBIS:SEK",
       "name": "Swedish Orphan Biovitrum AB",
       "currency": "SEK",
@@ -50515,6 +50545,12 @@
       "name": "Sword Group",
       "currency": "EUR",
       "isin": "FR0004180578"
+    },
+    {
+      "key": "SWRD:USD",
+      "name": "Stewards Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "SWVL:USD",
@@ -58271,12 +58307,6 @@
     {
       "key": "ZENB:USD",
       "name": "Zenith Bank PLC",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "ZEO:USD",
-      "name": "Zeo Energy Corp",
       "currency": "USD",
       "isin": null
     },
