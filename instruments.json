@@ -13791,6 +13791,12 @@
       "isin": null
     },
     {
+      "key": "CPS:CAD",
+      "name": "Canadian Premium Sand Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CPS:USD",
       "name": "Cooper-Standard Holdings Inc",
       "currency": "USD",
@@ -23135,6 +23141,12 @@
     {
       "key": "GIS:USD",
       "name": "General Mills Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "GITS:USD",
+      "name": "Global Interactive Technologies Inc",
       "currency": "USD",
       "isin": null
     },
@@ -45187,6 +45199,12 @@
       "name": "Laboratorios Farmaceuticos Rovi SA",
       "currency": "EUR",
       "isin": "ES0157261019"
+    },
+    {
+      "key": "ROX:CAD",
+      "name": "Canstar Resources Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "ROZ:CHF",
