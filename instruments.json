@@ -51597,6 +51597,12 @@
       "isin": null
     },
     {
+      "key": "THAT:GBP",
+      "name": "Thalia Therapeutics PLC",
+      "currency": "GBP",
+      "isin": "GB00BYW8QM32"
+    },
+    {
       "key": "THC:USD",
       "name": "Tenet Healthcare Corp",
       "currency": "USD",
