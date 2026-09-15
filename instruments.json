@@ -1593,12 +1593,6 @@
       "isin": null
     },
     {
-      "key": "AC8:GBP",
-      "name": "Acceler8 Ventures PLC",
-      "currency": "GBP",
-      "isin": "JE00BNG2DL20"
-    },
-    {
       "key": "ACA:USD",
       "name": "Arcosa Inc",
       "currency": "USD",
@@ -5421,12 +5415,6 @@
       "isin": null
     },
     {
-      "key": "ARX:CAD",
-      "name": "ARC Resources Ltd.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "ARX:USD",
       "name": "Accelerant Holdings",
       "currency": "USD",
@@ -5773,12 +5761,6 @@
       "name": "OAO Tatneft",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "ATAI:USD",
-      "name": "Atai Beckley NV",
-      "currency": "USD",
-      "isin": "NL0015000DX5"
     },
     {
       "key": "ATAT:USD",
@@ -7059,12 +7041,6 @@
       "isin": null
     },
     {
-      "key": "BAOS:USD",
-      "name": "Baosheng Media Group Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BAP:USD",
       "name": "Credicorp Ltd",
       "currency": "USD",
@@ -7884,12 +7860,6 @@
       "key": "BFLY:USD",
       "name": "Butterfly Network Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BFM:CAD",
-      "name": "Bedford Metals Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -14256,12 +14226,6 @@
       "key": "CRWD:USD",
       "name": "CrowdStrike Holdings Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CRWN:CAD",
-      "name": "Crown Capital Partners Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -22947,12 +22911,6 @@
       "isin": null
     },
     {
-      "key": "GGM:CAD",
-      "name": "Granada Gold Mine Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GGO:CAD",
       "name": "Galleon Gold Corp",
       "currency": "CAD",
@@ -26331,12 +26289,6 @@
       "isin": null
     },
     {
-      "key": "HUBC:USD",
-      "name": "Hub Cyber Security Ltd",
-      "currency": "USD",
-      "isin": "IL0012415878"
-    },
-    {
       "key": "HUBG:USD",
       "name": "Hub Group Inc",
       "currency": "USD",
@@ -26599,12 +26551,6 @@
       "name": "MindWalk Holdings Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "HYG:GBP",
-      "name": "Seneca Growth Capital VCT PLC",
-      "currency": "GBP",
-      "isin": "GB0031256109"
     },
     {
       "key": "HYLB:EUR",
@@ -43035,12 +42981,6 @@
       "isin": null
     },
     {
-      "key": "PWER:CAD",
-      "name": "Global Power Solutions Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "PWI:CAD",
       "name": "Sustainable Power Infra Split Corp CL A",
       "currency": "CAD",
@@ -43205,12 +43145,6 @@
     {
       "key": "QBTS:USD",
       "name": "D-Wave Quantum Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "QCLS:USD",
-      "name": "Q/C Technologies Inc",
       "currency": "USD",
       "isin": null
     },
@@ -50349,12 +50283,6 @@
       "isin": null
     },
     {
-      "key": "SVCT:GBP",
-      "name": "Seneca Growth Capital VCT PLC B",
-      "currency": "GBP",
-      "isin": "GB00BG13MH08"
-    },
-    {
       "key": "SVE:CAD",
       "name": "Silver One Resources Inc",
       "currency": "CAD",
@@ -52705,12 +52633,6 @@
       "name": "APEX Tech Acquisition Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "TRADS:SEK",
-      "name": "TradeDoubler AB",
-      "currency": "SEK",
-      "isin": "SE0001552357"
     },
     {
       "key": "TRAK:USD",
