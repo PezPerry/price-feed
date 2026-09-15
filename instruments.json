@@ -7035,6 +7035,12 @@
       "isin": null
     },
     {
+      "key": "BAOS:USD",
+      "name": "Baosheng Media Group Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BAP:USD",
       "name": "Credicorp Ltd",
       "currency": "USD",
@@ -7476,6 +7482,12 @@
       "key": "BCTX:USD",
       "name": "BriaCell Therapeutics Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BCU:CAD",
+      "name": "Bell Copper Corporation",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -58259,6 +58271,12 @@
     {
       "key": "ZENB:USD",
       "name": "Zenith Bank PLC",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ZEO:USD",
+      "name": "Zeo Energy Corp",
       "currency": "USD",
       "isin": null
     },
