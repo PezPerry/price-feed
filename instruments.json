@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-14",
+  "as_of": "2026-09-15",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -4315,12 +4315,6 @@
       "name": "Advanced Medical Solutions Group PLC",
       "currency": "GBP",
       "isin": "GB0004536594"
-    },
-    {
-      "key": "AMS:USD",
-      "name": "American Shared Hospital Services",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "AMSC:USD",
@@ -17541,6 +17535,12 @@
       "isin": "LU1048328220"
     },
     {
+      "key": "EDRY:USD",
+      "name": "EuroDry Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "EDSA:USD",
       "name": "Edesa Biotech",
       "currency": "USD",
@@ -26553,6 +26553,12 @@
       "isin": null
     },
     {
+      "key": "HYG:GBP",
+      "name": "Seneca Growth Capital VCT PLC",
+      "currency": "GBP",
+      "isin": "GB0031256109"
+    },
+    {
       "key": "HYLB:EUR",
       "name": "Hyloris Pharmaceuticals SA",
       "currency": "EUR",
@@ -31817,12 +31823,6 @@
     {
       "key": "LMT:USD",
       "name": "Lockheed Martin Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "LNAI:USD",
-      "name": "Lunai Bioworks Inc",
       "currency": "USD",
       "isin": null
     },
@@ -38583,6 +38583,12 @@
       "isin": "NL0010558797"
     },
     {
+      "key": "OCLT:USD",
+      "name": "OceanLight Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "OCO:CAD",
       "name": "Oroco Resource Corp.",
       "currency": "CAD",
@@ -43881,12 +43887,6 @@
       "isin": "IT0004931496"
     },
     {
-      "key": "RCT:CAD",
-      "name": "Rochester Resources Ltd.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RCT:USD",
       "name": "RedCloud Holdings PLC",
       "currency": "USD",
@@ -44251,6 +44251,12 @@
       "name": "Retail Estates NV",
       "currency": "EUR",
       "isin": "BE0003720340"
+    },
+    {
+      "key": "RETO:USD",
+      "name": "ReTo Eco-Solutions Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "REVB:GBP",
@@ -44808,6 +44814,12 @@
       "key": "RML:CAD",
       "name": "Rusoro Mining Ltd",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "RML:USD",
+      "name": "Resolution Minerals Ltd American Depository Receipt",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -45563,12 +45575,6 @@
     {
       "key": "RVX:CAD",
       "name": "Resverlogix Corp.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "RW:CAD",
-      "name": "Renoworks Software Inc.",
       "currency": "CAD",
       "isin": null
     },
@@ -48459,12 +48465,6 @@
       "isin": "GB00B2PDGW16"
     },
     {
-      "key": "SMXT:USD",
-      "name": "SolarMax Technology Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SMY:CAD",
       "name": "Search Minerals Inc.",
       "currency": "CAD",
@@ -49350,6 +49350,12 @@
       "key": "SRG:USD",
       "name": "Seritage Growth Properties",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SRGE:CAD",
+      "name": "Surge Digital Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -51498,12 +51504,6 @@
       "key": "TFX:USD",
       "name": "Teleflex Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "TG:CAD",
-      "name": "Trifecta Gold Ltd",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -54801,6 +54801,12 @@
       "isin": null
     },
     {
+      "key": "VEEA:USD",
+      "name": "Veea Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "VEEV:USD",
       "name": "Veeva Systems Inc",
       "currency": "USD",
@@ -55945,6 +55951,12 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
+    },
+    {
+      "key": "VUX:CAD",
+      "name": "Vital Energy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "VUZI:USD",
@@ -57282,12 +57294,6 @@
       "key": "WVM:CAD",
       "name": "West Vault Mining Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "WVVI:USD",
-      "name": "Willamette Valley Vineyards Inc",
-      "currency": "USD",
       "isin": null
     },
     {
