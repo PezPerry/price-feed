@@ -17163,6 +17163,12 @@
       "isin": "FR0014008VX5"
     },
     {
+      "key": "EARN:GBP",
+      "name": "EARNZ PLC",
+      "currency": "GBP",
+      "isin": "GB00BRC2TB67"
+    },
+    {
       "key": "EARN:USD",
       "name": "Ellington Residential Mortgage REIT",
       "currency": "USD",
@@ -31135,6 +31141,12 @@
       "name": "Lennar Corp Class B",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "LEND:GBP",
+      "name": "Sancus Lending Group Ltd",
+      "currency": "GBP",
+      "isin": "GB00B0CL3P62"
     },
     {
       "key": "LENZ:USD",
