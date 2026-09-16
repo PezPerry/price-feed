@@ -4203,12 +4203,6 @@
       "isin": null
     },
     {
-      "key": "AMOD:USD",
-      "name": "Alpha Modus Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AMP:EUR",
       "name": "Dassault Aviation SA",
       "currency": "EUR",
@@ -8155,12 +8149,6 @@
       "name": "Big Technologies PLC",
       "currency": "GBP",
       "isin": "GB00BN2TR932"
-    },
-    {
-      "key": "BIGG:CAD",
-      "name": "Bigg Digital Assets Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BIIB:USD",
@@ -14235,6 +14223,12 @@
       "isin": null
     },
     {
+      "key": "CRWN:CAD",
+      "name": "Crown Capital Partners Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CRWN:GBP",
       "name": "Albion Crown VCT PLC",
       "currency": "GBP",
@@ -15207,12 +15201,6 @@
       "isin": null
     },
     {
-      "key": "D6HD:EUR",
-      "name": "Datagroup SE",
-      "currency": "EUR",
-      "isin": "DE000A41YEV7"
-    },
-    {
       "key": "DAAQ:USD",
       "name": "Digital Asset Acquisition Corp",
       "currency": "USD",
@@ -15253,12 +15241,6 @@
       "name": "Delta Air Lines Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "DALM:EUR",
-      "name": "Datalogic SpA",
-      "currency": "EUR",
-      "isin": "IT0004053440"
     },
     {
       "key": "DAMD:EUR",
@@ -17179,12 +17161,6 @@
       "name": "Euroapi SA",
       "currency": "EUR",
       "isin": "FR0014008VX5"
-    },
-    {
-      "key": "EARN:GBP",
-      "name": "EARNZ PLC",
-      "currency": "GBP",
-      "isin": "GB00BRC2TB67"
     },
     {
       "key": "EARN:USD",
@@ -20001,12 +19977,6 @@
       "isin": null
     },
     {
-      "key": "FBLG:USD",
-      "name": "FibroBiologics Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FBNC:USD",
       "name": "First Bancorp NC",
       "currency": "USD",
@@ -20331,22 +20301,10 @@
       "isin": "NL0015001FS8"
     },
     {
-      "key": "FERA:EUR",
-      "name": "Ferrovial NV",
-      "currency": "EUR",
-      "isin": "NL0015001FS8"
-    },
-    {
       "key": "FERA:USD",
       "name": "Fifth Era Acquisition Corp I",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "FERE:EUR",
-      "name": "Ferrovial NV",
-      "currency": "EUR",
-      "isin": "NL0015001FS8"
     },
     {
       "key": "FERG:USD",
@@ -23979,12 +23937,6 @@
       "isin": null
     },
     {
-      "key": "GRML:USD",
-      "name": "Greenland Mines Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "GRMN:USD",
       "name": "Garmin Ltd",
       "currency": "USD",
@@ -24019,12 +23971,6 @@
       "name": "Brazil Potash Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "GROC:GBP",
-      "name": "Greenroc Strategic Materials PLC",
-      "currency": "GBP",
-      "isin": "GB00BLD3C518"
     },
     {
       "key": "GROV:USD",
@@ -24899,12 +24845,6 @@
     {
       "key": "HCAC:USD",
       "name": "Hall Chadwick Acquisition Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "HCAI:USD",
-      "name": "Huachen AI Parking Management Technology Holding Co Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -27957,12 +27897,6 @@
       "isin": null
     },
     {
-      "key": "INUV:USD",
-      "name": "Inuvo Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "INV:GBP",
       "name": "Investment Company (The) PLC",
       "currency": "GBP",
@@ -28099,12 +28033,6 @@
       "name": "Seco SpA",
       "currency": "EUR",
       "isin": "IT0005438046"
-    },
-    {
-      "key": "IOTR:USD",
-      "name": "iOThree Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "IOVA:USD",
@@ -31207,12 +31135,6 @@
       "name": "Lennar Corp Class B",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "LEND:GBP",
-      "name": "Sancus Lending Group Ltd",
-      "currency": "GBP",
-      "isin": "GB00B0CL3P62"
     },
     {
       "key": "LENZ:USD",
@@ -34875,12 +34797,6 @@
       "isin": null
     },
     {
-      "key": "MPU:USD",
-      "name": "Mega Matrix Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MPV:USD",
       "name": "Babson Capital Participating Investors Trust",
       "currency": "USD",
@@ -37605,12 +37521,6 @@
       "isin": "GB00BD7XPJ64"
     },
     {
-      "key": "NRSN:USD",
-      "name": "NeuroSense Therapeutics Ltd",
-      "currency": "USD",
-      "isin": "IL0011809592"
-    },
-    {
       "key": "NRT:USD",
       "name": "North European Oil",
       "currency": "USD",
@@ -39393,12 +39303,6 @@
       "isin": "FI4000410881"
     },
     {
-      "key": "OPTT:USD",
-      "name": "Ocean Power Technologies Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "OPTU:USD",
       "name": "Optimum Communications Inc",
       "currency": "USD",
@@ -40605,12 +40509,6 @@
       "isin": null
     },
     {
-      "key": "PCTN:GBP",
-      "name": "Picton Property Income Ltd",
-      "currency": "GBP",
-      "isin": "GB00B0LCW208"
-    },
-    {
       "key": "PCTY:USD",
       "name": "Paylocity Holding Corp",
       "currency": "USD",
@@ -41489,12 +41387,6 @@
     {
       "key": "PLAB:USD",
       "name": "Photronics Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "PLAG:USD",
-      "name": "Planet Green Holdings Corp",
       "currency": "USD",
       "isin": null
     },
@@ -47979,12 +47871,6 @@
       "isin": null
     },
     {
-      "key": "SKP:CAD",
-      "name": "Strikepoint Gold Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "SKP:EUR",
       "name": "SEB SA",
       "currency": "EUR",
@@ -54117,12 +54003,6 @@
       "isin": null
     },
     {
-      "key": "UOG:GBP",
-      "name": "United Oil & Gas PLC",
-      "currency": "GBP",
-      "isin": "GB00BYX0MB92"
-    },
-    {
       "key": "UONEK:USD",
       "name": "Urban One Inc",
       "currency": "USD",
@@ -54265,12 +54145,6 @@
       "name": "Unibail-Rodamco-Westfield",
       "currency": "EUR",
       "isin": "FR0013326246"
-    },
-    {
-      "key": "URZ:CAD",
-      "name": "URZ Energy Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "USA:CAD",
