@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-15",
+  "as_of": "2026-09-16",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -16203,6 +16203,12 @@
       "isin": null
     },
     {
+      "key": "DLXY:USD",
+      "name": "Delixy Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "DLY:USD",
       "name": "DoubleLine Yield Opportunities Fund",
       "currency": "USD",
@@ -16889,6 +16895,12 @@
     {
       "key": "DTSQ:USD",
       "name": "DT Cloud Star Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "DTSS:USD",
+      "name": "Datasea Intelligent Technology Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -17845,6 +17857,12 @@
       "name": "EJF Investments Ltd",
       "currency": "GBP",
       "isin": "JE00BF0D1M25"
+    },
+    {
+      "key": "EK:CAD",
+      "name": "Everkind Wellness Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "EKF:GBP",
@@ -19983,6 +20001,12 @@
       "isin": null
     },
     {
+      "key": "FBLG:USD",
+      "name": "FibroBiologics Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "FBNC:USD",
       "name": "First Bancorp NC",
       "currency": "USD",
@@ -21415,6 +21439,12 @@
       "name": "Frontline Ltd",
       "currency": "USD",
       "isin": "CY0200352116"
+    },
+    {
+      "key": "FROG:CAD",
+      "name": "Bullfrog Gold Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "FROG:USD",
@@ -31773,6 +31803,12 @@
       "isin": null
     },
     {
+      "key": "LNAI:USD",
+      "name": "Lunai Bioworks Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "LNAP:EUR",
       "name": "LNA Sante SA",
       "currency": "EUR",
@@ -32502,6 +32538,12 @@
       "key": "LX:USD",
       "name": "LexinFintech Holdings Ltd",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "LXE:CAD",
+      "name": "Latin Explore Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -33431,6 +33473,12 @@
     {
       "key": "MEDP:USD",
       "name": "Medpace Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MEDS:USD",
+      "name": "DataMeds AI Inc",
       "currency": "USD",
       "isin": null
     },
@@ -34805,6 +34853,12 @@
     {
       "key": "MPTI:USD",
       "name": "M-tron Industries Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MPU:USD",
+      "name": "Mega Matrix Corp",
       "currency": "USD",
       "isin": null
     },
@@ -38436,6 +38490,12 @@
       "key": "OBT:USD",
       "name": "Orange County Bancorp, Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "OBUL:CAD",
+      "name": "ONE Bullion Limited",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -43067,6 +43127,12 @@
     {
       "key": "QBTS:USD",
       "name": "D-Wave Quantum Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "QCLS:USD",
+      "name": "Q/C Technologies Inc",
       "currency": "USD",
       "isin": null
     },
@@ -48529,6 +48595,12 @@
       "name": "Senstar Technologies Ltd",
       "currency": "USD",
       "isin": "IL0010829161"
+    },
+    {
+      "key": "SNTI:USD",
+      "name": "Senti Biosciences Holdings Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "SNTIAO:NOK",
@@ -54015,6 +54087,12 @@
       "isin": null
     },
     {
+      "key": "UOG:GBP",
+      "name": "United Oil & Gas PLC",
+      "currency": "GBP",
+      "isin": "GB00BYX0MB92"
+    },
+    {
       "key": "UONEK:USD",
       "name": "Urban One Inc",
       "currency": "USD",
@@ -58363,6 +58441,12 @@
       "name": "Zotefoams PLC",
       "currency": "GBP",
       "isin": "GB0009896605"
+    },
+    {
+      "key": "ZTG:USD",
+      "name": "Zenta Group Co",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "ZTO:USD",
