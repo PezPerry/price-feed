@@ -9099,6 +9099,12 @@
       "isin": "SE0008091581"
     },
     {
+      "key": "BONE:CAD",
+      "name": "Boron One Holdings Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BONEXS:SEK",
       "name": "BoneSupport Holding AB",
       "currency": "SEK",
@@ -30453,6 +30459,12 @@
       "isin": null
     },
     {
+      "key": "KRSA:USD",
+      "name": "Korsana Biosciences Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "KRSP:USD",
       "name": "Rice Acquisition Corporation 3",
       "currency": "USD",
@@ -33001,6 +33013,12 @@
       "name": "Masterbeef Group",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "MBAI:USD",
+      "name": "MBody AI Ltd",
+      "currency": "USD",
+      "isin": "IL0011336851"
     },
     {
       "key": "MBBD:EUR",
@@ -35880,6 +35898,12 @@
       "key": "NAM:CAD",
       "name": "NEW Age Metals Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "NAMI:USD",
+      "name": "Jinxin Technology Holding Co",
+      "currency": "USD",
       "isin": null
     },
     {
