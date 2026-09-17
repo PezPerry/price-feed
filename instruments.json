@@ -38409,6 +38409,12 @@
       "isin": "DE000BCK2223"
     },
     {
+      "key": "OBD:GBP",
+      "name": "Oxford BioDynamics PLC",
+      "currency": "GBP",
+      "isin": "GB00BD5H8572"
+    },
+    {
       "key": "OBDC:USD",
       "name": "Blue Owl Capital Corp",
       "currency": "USD",
