@@ -6525,12 +6525,6 @@
       "isin": "GB00BMZR7D19"
     },
     {
-      "key": "AWI:CAD",
-      "name": "Advent Awi Holdings Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AWI:USD",
       "name": "Armstrong World Industries Inc",
       "currency": "USD",
@@ -7029,12 +7023,6 @@
       "isin": null
     },
     {
-      "key": "BAOS:USD",
-      "name": "Baosheng Media Group Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BAP:USD",
       "name": "Credicorp Ltd",
       "currency": "USD",
@@ -7476,12 +7464,6 @@
       "key": "BCTX:USD",
       "name": "BriaCell Therapeutics Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BCU:CAD",
-      "name": "Bell Copper Corporation",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -14226,12 +14208,6 @@
       "key": "CRWD:USD",
       "name": "CrowdStrike Holdings Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CRWN:CAD",
-      "name": "Crown Capital Partners Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -23115,12 +23091,6 @@
       "isin": null
     },
     {
-      "key": "GITS:USD",
-      "name": "Global Interactive Technologies Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "GIVNZ:CHF",
       "name": "Givaudan SA",
       "currency": "CHF",
@@ -26547,12 +26517,6 @@
       "isin": null
     },
     {
-      "key": "HYG:GBP",
-      "name": "Seneca Growth Capital VCT PLC",
-      "currency": "GBP",
-      "isin": "GB0031256109"
-    },
-    {
       "key": "HYLB:EUR",
       "name": "Hyloris Pharmaceuticals SA",
       "currency": "EUR",
@@ -27349,12 +27313,6 @@
       "name": "Imperial Brands PLC",
       "currency": "GBP",
       "isin": "GB0004544929"
-    },
-    {
-      "key": "IMC:GBP",
-      "name": "IMC Exploration Group PLC",
-      "currency": "GBP",
-      "isin": "IE00B6WC2H62"
     },
     {
       "key": "IMCDA:EUR",
@@ -35229,12 +35187,6 @@
       "isin": null
     },
     {
-      "key": "MSN:USD",
-      "name": "Emerson Radio Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MSONBS:SEK",
       "name": "Midsona AB",
       "currency": "SEK",
@@ -38689,12 +38641,6 @@
       "name": "Orion Engineered Carbons SA",
       "currency": "USD",
       "isin": "LU1092234845"
-    },
-    {
-      "key": "OEG.H:CAD",
-      "name": "Onenergy Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "OEMBS:SEK",
@@ -47973,6 +47919,12 @@
       "isin": null
     },
     {
+      "key": "SKP:CAD",
+      "name": "Strikepoint Gold Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SKP:EUR",
       "name": "SEB SA",
       "currency": "EUR",
@@ -52539,12 +52491,6 @@
       "isin": "DE0007461006"
     },
     {
-      "key": "TPET:USD",
-      "name": "Trio Petroleum Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "TPFG:GBP",
       "name": "Property Franchise Group (The) PLC",
       "currency": "GBP",
@@ -54259,6 +54205,12 @@
       "name": "Unibail-Rodamco-Westfield",
       "currency": "EUR",
       "isin": "FR0013326246"
+    },
+    {
+      "key": "URZ:CAD",
+      "name": "URZ Energy Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "USA:CAD",
