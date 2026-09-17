@@ -3321,6 +3321,12 @@
       "isin": "FR0004174233"
     },
     {
+      "key": "ALBPKP:EUR",
+      "name": "Broadpeak SACA",
+      "currency": "EUR",
+      "isin": "FR001400AJZ7"
+    },
+    {
       "key": "ALBPSP:EUR",
       "name": "Biophytis SA",
       "currency": "EUR",
@@ -3817,6 +3823,12 @@
       "name": "Altius Minerals Corporation",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "ALSENP:EUR",
+      "name": "Sensorion SA",
+      "currency": "EUR",
+      "isin": "FR0012596468"
     },
     {
       "key": "ALSN:USD",
@@ -6525,6 +6537,12 @@
       "isin": "GB00BMZR7D19"
     },
     {
+      "key": "AWI:CAD",
+      "name": "Advent Awi Holdings Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "AWI:USD",
       "name": "Armstrong World Industries Inc",
       "currency": "USD",
@@ -7931,6 +7949,12 @@
     {
       "key": "BGIN:USD",
       "name": "Bgin Blockchain Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BGL:USD",
+      "name": "Blue Gold Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -20337,6 +20361,12 @@
       "isin": "GB00BN0VZ646"
     },
     {
+      "key": "FERROS:SEK",
+      "name": "Ferroamp AB",
+      "currency": "SEK",
+      "isin": "SE0012229920"
+    },
+    {
       "key": "FET:USD",
       "name": "Forum Energy Technologies Inc",
       "currency": "USD",
@@ -27459,6 +27489,12 @@
       "isin": null
     },
     {
+      "key": "IMRN:USD",
+      "name": "Immuron Ltd ADR",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "IMRX:USD",
       "name": "Immuneering Corp",
       "currency": "USD",
@@ -32977,6 +33013,12 @@
       "name": "MBody AI Ltd",
       "currency": "USD",
       "isin": "IL0011336851"
+    },
+    {
+      "key": "MBBC:USD",
+      "name": "Marathon Bancorp Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "MBBD:EUR",
@@ -44853,6 +44895,12 @@
       "isin": null
     },
     {
+      "key": "RNAQ:USD",
+      "name": "Rainier Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "RNEW:USD",
       "name": "Ecofin US Renewables Infrastructure Trust PLC",
       "currency": "USD",
@@ -50523,6 +50571,12 @@
       "isin": null
     },
     {
+      "key": "SXL:CAD",
+      "name": "Slam Exploration Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SXP:CAD",
       "name": "Supremex Inc.",
       "currency": "CAD",
@@ -52410,6 +52464,12 @@
       "key": "TORO:USD",
       "name": "Toro Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "TORQ:CAD",
+      "name": "Torq Resources Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -55663,6 +55723,12 @@
       "name": "Verallia SA",
       "currency": "EUR",
       "isin": "FR0013447729"
+    },
+    {
+      "key": "VRME:USD",
+      "name": "VerifyMe Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "VRNS:USD",
