@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-16",
+  "as_of": "2026-09-17",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -3819,12 +3819,6 @@
       "isin": null
     },
     {
-      "key": "ALSENP:EUR",
-      "name": "Sensorion SA",
-      "currency": "EUR",
-      "isin": "FR0012596468"
-    },
-    {
       "key": "ALSN:USD",
       "name": "Allison Transmission Holdings Inc",
       "currency": "USD",
@@ -4830,6 +4824,12 @@
       "key": "APMD:USD",
       "name": "Apnimed Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "APMI:CAD",
+      "name": "Apogee Minerals Ltd",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -8988,12 +8988,6 @@
       "key": "BOC:USD",
       "name": "Boston Omaha Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BOCA:CAD",
-      "name": "Bocana Resources Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -14331,6 +14325,12 @@
       "isin": null
     },
     {
+      "key": "CSSG:GBP",
+      "name": "Croma Security Solutions Group PLC",
+      "currency": "GBP",
+      "isin": "GB00B5MJV178"
+    },
+    {
       "key": "CSTE:USD",
       "name": "Caesarstone Ltd",
       "currency": "USD",
@@ -16643,6 +16643,12 @@
     {
       "key": "DRIO:USD",
       "name": "DarioHealth Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "DRK:USD",
+      "name": "DarkHorse Technologies Inc",
       "currency": "USD",
       "isin": null
     },
@@ -27453,12 +27459,6 @@
       "isin": null
     },
     {
-      "key": "IMRN:USD",
-      "name": "Immuron Ltd ADR",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "IMRX:USD",
       "name": "Immuneering Corp",
       "currency": "USD",
@@ -35187,6 +35187,12 @@
       "isin": null
     },
     {
+      "key": "MSN:USD",
+      "name": "Emerson Radio Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MSONBS:SEK",
       "name": "Midsona AB",
       "currency": "SEK",
@@ -38647,6 +38653,12 @@
       "name": "Orion Engineered Carbons SA",
       "currency": "USD",
       "isin": "LU1092234845"
+    },
+    {
+      "key": "OEG.H:CAD",
+      "name": "Onenergy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "OEMBS:SEK",
@@ -43107,12 +43119,6 @@
       "isin": null
     },
     {
-      "key": "QCLS:USD",
-      "name": "Q/C Technologies Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "QCOM:USD",
       "name": "QUALCOMM Inc",
       "currency": "USD",
@@ -43843,6 +43849,12 @@
       "name": "Rizzoli Corriere Della Sera Mediagroup SpA",
       "currency": "EUR",
       "isin": "IT0004931496"
+    },
+    {
+      "key": "RCT:CAD",
+      "name": "Rochester Resources Ltd.",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "RCT:USD",
@@ -48423,6 +48435,12 @@
       "isin": "GB00B2PDGW16"
     },
     {
+      "key": "SMXT:USD",
+      "name": "SolarMax Technology Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SMY:CAD",
       "name": "Search Minerals Inc.",
       "currency": "CAD",
@@ -52395,12 +52413,6 @@
       "isin": null
     },
     {
-      "key": "TORQ:CAD",
-      "name": "Torq Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "TORR:CAD",
       "name": "Torrent Capital Ltd",
       "currency": "CAD",
@@ -53173,12 +53185,6 @@
       "name": "TotalEnergies SE",
       "currency": "EUR",
       "isin": "FR0000120271"
-    },
-    {
-      "key": "TTG:CAD",
-      "name": "Trans Canada Gold Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "TTG:GBP",
@@ -55909,12 +55915,6 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
-    },
-    {
-      "key": "VUX:CAD",
-      "name": "Vital Energy Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "VUZI:USD",
