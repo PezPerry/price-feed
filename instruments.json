@@ -4659,12 +4659,6 @@
       "isin": null
     },
     {
-      "key": "ANY:USD",
-      "name": "Sphere 3D Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AO.:GBP",
       "name": "AO World PLC",
       "currency": "GBP",
@@ -7691,12 +7685,6 @@
     {
       "key": "BEN:USD",
       "name": "Franklin Resources Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BENF:USD",
-      "name": "The Beneficient Company Group LP",
       "currency": "USD",
       "isin": null
     },
@@ -14229,6 +14217,12 @@
       "isin": null
     },
     {
+      "key": "CRWN:CAD",
+      "name": "Crown Capital Partners Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CRWN:GBP",
       "name": "Albion Crown VCT PLC",
       "currency": "GBP",
@@ -15097,12 +15091,6 @@
       "name": "Celyad Oncology SA",
       "currency": "EUR",
       "isin": "BE0974260896"
-    },
-    {
-      "key": "CYAN:GBP",
-      "name": "Cyanconnode Holdings PLC",
-      "currency": "GBP",
-      "isin": "GB00BF93WP34"
     },
     {
       "key": "CYB:CAD",
@@ -16819,12 +16807,6 @@
       "name": "DSV A/S",
       "currency": "DKK",
       "isin": "DK0060079531"
-    },
-    {
-      "key": "DSW:GBP",
-      "name": "DSW Capital PLC",
-      "currency": "GBP",
-      "isin": "GB00BNG9H550"
     },
     {
       "key": "DSWL:USD",
@@ -22419,12 +22401,6 @@
       "isin": null
     },
     {
-      "key": "GCOM:CAD",
-      "name": "Green Shift Commodities Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GCP:GBP",
       "name": "GCP Infrastructure Investments Ltd",
       "currency": "GBP",
@@ -23323,12 +23299,6 @@
       "name": "Gaming and Leisure Properties Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "GLR:GBP",
-      "name": "Galileo Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00B115T142"
     },
     {
       "key": "GLRE:USD",
@@ -24649,12 +24619,6 @@
       "name": "HAL Trust",
       "currency": "EUR",
       "isin": null
-    },
-    {
-      "key": "HALO:GBP",
-      "name": "Halo Minerals PLC",
-      "currency": "GBP",
-      "isin": "GB00BP92JV57"
     },
     {
       "key": "HALO:USD",
@@ -31179,12 +31143,6 @@
       "isin": null
     },
     {
-      "key": "LEND:GBP",
-      "name": "Sancus Lending Group Ltd",
-      "currency": "GBP",
-      "isin": "GB00B0CL3P62"
-    },
-    {
       "key": "LENZ:USD",
       "name": "LENZ Therapeutics Inc",
       "currency": "USD",
@@ -31363,12 +31321,6 @@
       "name": "LogProstyle Inc",
       "currency": "USD",
       "isin": "JP3984070007"
-    },
-    {
-      "key": "LGVN:USD",
-      "name": "Longeveron Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "LH:USD",
@@ -35898,12 +35850,6 @@
       "key": "NAM:CAD",
       "name": "NEW Age Metals Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "NAMI:USD",
-      "name": "Jinxin Technology Holding Co",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -41169,12 +41115,6 @@
       "isin": null
     },
     {
-      "key": "PHE:GBP",
-      "name": "Powerhouse Energy Group PLC",
-      "currency": "GBP",
-      "isin": "GB00B4WQVY43"
-    },
-    {
       "key": "PHG:USD",
       "name": "Koninklijke Philips Electronics NV",
       "currency": "USD",
@@ -44263,12 +44203,6 @@
       "name": "Retail Estates NV",
       "currency": "EUR",
       "isin": "BE0003720340"
-    },
-    {
-      "key": "RETO:USD",
-      "name": "ReTo Eco-Solutions Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "REVB:GBP",
@@ -48699,12 +48633,6 @@
       "isin": "NO0010285562"
     },
     {
-      "key": "SOAR:USD",
-      "name": "Volato Group Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SOBIS:SEK",
       "name": "Swedish Orphan Biovitrum AB",
       "currency": "SEK",
@@ -52293,12 +52221,6 @@
       "isin": null
     },
     {
-      "key": "TND:GBP",
-      "name": "Tandem Group PLC",
-      "currency": "GBP",
-      "isin": "GB00B460T373"
-    },
-    {
       "key": "TNDM:USD",
       "name": "Tandem Diabetes Care Inc",
       "currency": "USD",
@@ -53863,12 +53785,6 @@
       "name": "Unifi Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "UFO:GBP",
-      "name": "Alien Metals Ltd",
-      "currency": "GBP",
-      "isin": "VGG017351021"
     },
     {
       "key": "UFPI:USD",
