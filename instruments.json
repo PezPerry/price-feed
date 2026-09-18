@@ -13671,6 +13671,12 @@
       "isin": null
     },
     {
+      "key": "CPH2:GBP",
+      "name": "Clean Power Hydrogen PLC",
+      "currency": "GBP",
+      "isin": "GB00BP371R64"
+    },
+    {
       "key": "CPHC:USD",
       "name": "Canterbury Park Holding Corp",
       "currency": "USD",
@@ -23299,6 +23305,12 @@
       "name": "Gaming and Leisure Properties Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "GLR:GBP",
+      "name": "Galileo Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00B115T142"
     },
     {
       "key": "GLRE:USD",
@@ -53785,6 +53797,12 @@
       "name": "Unifi Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "UFO:GBP",
+      "name": "Alien Metals Ltd",
+      "currency": "GBP",
+      "isin": "VGG017351021"
     },
     {
       "key": "UFPI:USD",
