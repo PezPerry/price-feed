@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-17",
+  "as_of": "2026-09-18",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -6519,12 +6519,6 @@
       "isin": null
     },
     {
-      "key": "AWE:CAD",
-      "name": "Thunderstruck Resources Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AWEM:GBP",
       "name": "Ashoka Whiteoak Emerging Markets Trust PLC",
       "currency": "GBP",
@@ -7689,6 +7683,12 @@
       "isin": null
     },
     {
+      "key": "BENF:USD",
+      "name": "The Beneficient Company Group LP",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BENP:EUR",
       "name": "Beneteau SACA",
       "currency": "EUR",
@@ -8158,7 +8158,7 @@
     },
     {
       "key": "BIJD:EUR",
-      "name": "Bijou Brigitte AG",
+      "name": "Bijou Brigitte modische Accessoires AG",
       "currency": "EUR",
       "isin": "DE0005229504"
     },
@@ -9000,6 +9000,12 @@
       "key": "BOC:USD",
       "name": "Boston Omaha Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BOCA:CAD",
+      "name": "Bocana Resources Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -17595,6 +17601,12 @@
       "isin": "GB00BNDMJS47"
     },
     {
+      "key": "EDY:CAD",
+      "name": "Eddy Smart Home Solutions Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "EE:USD",
       "name": "Excelerate Energy Inc",
       "currency": "USD",
@@ -23784,6 +23796,12 @@
       "key": "GPRO:USD",
       "name": "GoPro Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "GPS:CAD",
+      "name": "Great Plains Metals Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -30629,6 +30647,12 @@
     {
       "key": "KWY:USD",
       "name": "Kingsway Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "KXIN:USD",
+      "name": "Kaixin Auto Holdings",
       "currency": "USD",
       "isin": null
     },
@@ -39987,6 +40011,12 @@
       "isin": null
     },
     {
+      "key": "PAAI:USD",
+      "name": "Paradium AI Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "PAALBC:DKK",
       "name": "Per Aarsleff Holding A/S",
       "currency": "DKK",
@@ -40689,6 +40719,12 @@
       "isin": null
     },
     {
+      "key": "PE:CAD",
+      "name": "Pure Energy Minerals Limited",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "PEABBS:SEK",
       "name": "Peab AB",
       "currency": "SEK",
@@ -40927,6 +40963,12 @@
       "name": "Partners Group Private Equity Ltd",
       "currency": "GBP",
       "isin": "GG00B28C2R28"
+    },
+    {
+      "key": "PEZM.H:CAD",
+      "name": "Pezm Gold Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "PFAI:USD",
@@ -43845,12 +43887,6 @@
       "isin": "IT0004931496"
     },
     {
-      "key": "RCT:CAD",
-      "name": "Rochester Resources Ltd.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RCT:USD",
       "name": "RedCloud Holdings PLC",
       "currency": "USD",
@@ -44843,6 +44879,12 @@
     {
       "key": "RNAQ:USD",
       "name": "Rainier Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "RNAZ:USD",
+      "name": "TransCode Therapeutics Inc",
       "currency": "USD",
       "isin": null
     },
@@ -48591,12 +48633,6 @@
       "isin": "IL0010829161"
     },
     {
-      "key": "SNTI:USD",
-      "name": "Senti Biosciences Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SNTIAO:NOK",
       "name": "Sentia AS",
       "currency": "NOK",
@@ -48643,6 +48679,12 @@
       "name": "Sparebank 1 Ostfold Akershus",
       "currency": "NOK",
       "isin": "NO0010285562"
+    },
+    {
+      "key": "SOAR:USD",
+      "name": "Volato Group Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "SOBIS:SEK",
@@ -51381,12 +51423,6 @@
       "isin": "IT0004585243"
     },
     {
-      "key": "TEVA:USD",
-      "name": "Teva Pharmaceutical Industries Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "TEX:USD",
       "name": "Terex Corp",
       "currency": "USD",
@@ -51940,7 +51976,7 @@
     },
     {
       "key": "TKMSD:EUR",
-      "name": "Tkms AG& Co KGaA",
+      "name": "TKMS AG & Co KGaA",
       "currency": "EUR",
       "isin": "DE000TKMS001"
     },
@@ -54213,12 +54249,6 @@
       "isin": "FR0013326246"
     },
     {
-      "key": "URZ:CAD",
-      "name": "URZ Energy Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "USA:CAD",
       "name": "Americas Gold And Silver Corporation",
       "currency": "CAD",
@@ -56187,6 +56217,12 @@
       "isin": null
     },
     {
+      "key": "WCCB:USD",
+      "name": "West Coast Community Bancorp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "WCHD:EUR",
       "name": "Wacker Chemie AG",
       "currency": "EUR",
@@ -58128,6 +58164,12 @@
       "key": "ZAU:CAD",
       "name": "Zodiac Gold Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "ZBAO:USD",
+      "name": "Zhibao Technology Inc",
+      "currency": "USD",
       "isin": null
     },
     {
