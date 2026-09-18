@@ -33891,6 +33891,12 @@
       "isin": null
     },
     {
+      "key": "MGRX:USD",
+      "name": "Mangoceuticals Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MGTX:USD",
       "name": "MeiraGTx Holdings PLC",
       "currency": "USD",
@@ -48633,6 +48639,12 @@
       "isin": "IL0010829161"
     },
     {
+      "key": "SNTI:USD",
+      "name": "Senti Biosciences Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SNTIAO:NOK",
       "name": "Sentia AS",
       "currency": "NOK",
@@ -54249,6 +54261,12 @@
       "isin": "FR0013326246"
     },
     {
+      "key": "URZ:CAD",
+      "name": "URZ Energy Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "USA:CAD",
       "name": "Americas Gold And Silver Corporation",
       "currency": "CAD",
@@ -57288,6 +57306,12 @@
       "key": "WVM:CAD",
       "name": "West Vault Mining Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "WVVI:USD",
+      "name": "Willamette Valley Vineyards Inc",
+      "currency": "USD",
       "isin": null
     },
     {
