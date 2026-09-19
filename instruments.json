@@ -3891,12 +3891,6 @@
       "isin": "FR001400H2X4"
     },
     {
-      "key": "ALTG:USD",
-      "name": "Alta Equipment Group Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "ALTHEP:EUR",
       "name": "Theraclion SA",
       "currency": "EUR",
@@ -5129,12 +5123,6 @@
     {
       "key": "AREC:USD",
       "name": "American Resources Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "AREN:USD",
-      "name": "Arena Group Holdings (The)",
       "currency": "USD",
       "isin": null
     },
@@ -6551,12 +6539,6 @@
     {
       "key": "AWRE:USD",
       "name": "Aware Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "AWX:USD",
-      "name": "Avalon Holdings Corp",
       "currency": "USD",
       "isin": null
     },
@@ -14229,12 +14211,6 @@
       "isin": null
     },
     {
-      "key": "CRWN:CAD",
-      "name": "Crown Capital Partners Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CRWN:GBP",
       "name": "Albion Crown VCT PLC",
       "currency": "GBP",
@@ -15135,12 +15111,6 @@
       "isin": null
     },
     {
-      "key": "CYM:CAD",
-      "name": "Cymat Technologies Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CYN:GBP",
       "name": "CQS Natural Resources Growth & Income PLC",
       "currency": "GBP",
@@ -15714,12 +15684,6 @@
       "key": "DETX:USD",
       "name": "Liberty Defense Holdings Ltd",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "DEVO:GBP",
-      "name": "Devolver Digital Inc",
-      "currency": "GBP",
       "isin": null
     },
     {
@@ -18831,12 +18795,6 @@
       "isin": null
     },
     {
-      "key": "EPOW:USD",
-      "name": "E-Power Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "EPP:GBP",
       "name": "EnergyPathways PLC",
       "currency": "GBP",
@@ -21186,12 +21144,6 @@
       "key": "FORR:USD",
       "name": "Forrester Research Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "FORT:CAD",
-      "name": "Fort Technology Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -32739,12 +32691,6 @@
       "isin": null
     },
     {
-      "key": "MAHAAS:SEK",
-      "name": "Maha Capital AB",
-      "currency": "SEK",
-      "isin": "SE0008374383"
-    },
-    {
       "key": "MAI:CAD",
       "name": "Mining Americas Inc",
       "currency": "CAD",
@@ -34053,12 +33999,6 @@
       "isin": "CH0003390066"
     },
     {
-      "key": "MILA:GBP",
-      "name": "Mila Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BD4FCK53"
-    },
-    {
       "key": "MILDES:SEK",
       "name": "Mildef Group AB",
       "currency": "SEK",
@@ -34825,12 +34765,6 @@
       "name": "MPC Container Ships ASA",
       "currency": "NOK",
       "isin": "NO0010791353"
-    },
-    {
-      "key": "MPCKD:EUR",
-      "name": "MPC Muenchmeyer Petersen Capital AG",
-      "currency": "EUR",
-      "isin": "DE000A1TNWJ4"
     },
     {
       "key": "MPE:GBP",
@@ -38683,12 +38617,6 @@
       "name": "Orion Engineered Carbons SA",
       "currency": "USD",
       "isin": "LU1092234845"
-    },
-    {
-      "key": "OEG.H:CAD",
-      "name": "Onenergy Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "OEMBS:SEK",
@@ -46179,12 +46107,6 @@
       "isin": null
     },
     {
-      "key": "SATS:GBP",
-      "name": "Satsuma Technology PLC",
-      "currency": "GBP",
-      "isin": "GB00BMFCRZ80"
-    },
-    {
       "key": "SATSO:NOK",
       "name": "SATS ASA",
       "currency": "NOK",
@@ -52353,12 +52275,6 @@
       "isin": null
     },
     {
-      "key": "TNXTM:EUR",
-      "name": "Tinexta Spa",
-      "currency": "EUR",
-      "isin": "IT0005037210"
-    },
-    {
       "key": "TNYA:USD",
       "name": "Tenaya Therapeutics Inc",
       "currency": "USD",
@@ -53845,12 +53761,6 @@
       "name": "Unifi Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "UFO:GBP",
-      "name": "Alien Metals Ltd",
-      "currency": "GBP",
-      "isin": "VGG017351021"
     },
     {
       "key": "UFPI:USD",
@@ -55995,12 +55905,6 @@
       "isin": null
     },
     {
-      "key": "VWAV:USD",
-      "name": "VisionWave Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "VWSC:DKK",
       "name": "Vestas Wind Systems A/S",
       "currency": "DKK",
@@ -57924,12 +57828,6 @@
       "key": "YEXT:USD",
       "name": "Yext Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "YFI:CAD",
-      "name": "Edgewater Wireless Systems Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
