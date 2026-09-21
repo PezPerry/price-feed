@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-21",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -6549,6 +6549,12 @@
       "isin": null
     },
     {
+      "key": "AWX:USD",
+      "name": "Avalon Holdings Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AX:USD",
       "name": "Axos Financial Inc",
       "currency": "USD",
@@ -7667,12 +7673,6 @@
     {
       "key": "BEN:USD",
       "name": "Franklin Resources Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BENF:USD",
-      "name": "The Beneficient Company Group LP",
       "currency": "USD",
       "isin": null
     },
@@ -14721,6 +14721,12 @@
       "isin": null
     },
     {
+      "key": "CUPR:USD",
+      "name": "Cuprina Holdings (Cayman) Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CURA:CAD",
       "name": "Curaleaf Holdings Inc",
       "currency": "CAD",
@@ -16789,6 +16795,12 @@
       "name": "DSV A/S",
       "currency": "DKK",
       "isin": "DK0060079531"
+    },
+    {
+      "key": "DSW:GBP",
+      "name": "DSW Capital PLC",
+      "currency": "GBP",
+      "isin": "GB00BNG9H550"
     },
     {
       "key": "DSWL:USD",
@@ -19293,6 +19305,12 @@
       "isin": null
     },
     {
+      "key": "ETRA:USD",
+      "name": "Electra Therapeutics Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ETS:USD",
       "name": "Elite Express Holding Inc",
       "currency": "USD",
@@ -19973,12 +19991,6 @@
     {
       "key": "FBLA:USD",
       "name": "FB Bancorp Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "FBLG:USD",
-      "name": "FibroBiologics Inc",
       "currency": "USD",
       "isin": null
     },
@@ -21150,6 +21162,12 @@
       "key": "FORR:USD",
       "name": "Forrester Research Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "FORT:CAD",
+      "name": "Fort Technology Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -23940,6 +23958,12 @@
       "key": "GRL:CAD",
       "name": "Greenlight Metals Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "GRML:USD",
+      "name": "Greenland Mines Ltd",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -31863,6 +31887,12 @@
       "isin": null
     },
     {
+      "key": "LOBO:USD",
+      "name": "Lobo EV Technologies Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "LOCALP:EUR",
       "name": "Solocal Group SA",
       "currency": "EUR",
@@ -34785,6 +34815,12 @@
       "isin": "NO0010791353"
     },
     {
+      "key": "MPCKD:EUR",
+      "name": "MPC Muenchmeyer Petersen Capital AG",
+      "currency": "EUR",
+      "isin": "DE000A1TNWJ4"
+    },
+    {
       "key": "MPE:GBP",
       "name": "M.P. Evans Group PLC",
       "currency": "GBP",
@@ -35225,6 +35261,12 @@
     {
       "key": "MTA:USD",
       "name": "Metalla Royalty and Streaming Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MTAK:USD",
+      "name": "Market Technology Acquisition Corp",
       "currency": "USD",
       "isin": null
     },
@@ -41119,6 +41161,12 @@
       "name": "Phathom Pharmaceuticals",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "PHE:GBP",
+      "name": "Powerhouse Energy Group PLC",
+      "currency": "GBP",
+      "isin": "GB00B4WQVY43"
     },
     {
       "key": "PHG:USD",
@@ -51975,6 +52023,12 @@
       "isin": null
     },
     {
+      "key": "TLAC:USD",
+      "name": "Three Lions Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "TLF:USD",
       "name": "Tandy Leather Factory Inc",
       "currency": "USD",
@@ -53161,6 +53215,12 @@
       "name": "TotalEnergies SE",
       "currency": "EUR",
       "isin": "FR0000120271"
+    },
+    {
+      "key": "TTG:CAD",
+      "name": "Trans Canada Gold Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "TTG:GBP",
@@ -54460,7 +54520,7 @@
     },
     {
       "key": "V6CD:EUR",
-      "name": "Viscom AG",
+      "name": "Viscom SE",
       "currency": "EUR",
       "isin": "DE0007846867"
     },
@@ -55923,6 +55983,12 @@
       "isin": null
     },
     {
+      "key": "VWAV:USD",
+      "name": "VisionWave Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "VWSC:DKK",
       "name": "Vestas Wind Systems A/S",
       "currency": "DKK",
@@ -57072,6 +57138,12 @@
       "key": "WSHP:USD",
       "name": "WeShop Holdings Ltd",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "WSK:CAD",
+      "name": "Wildsky Resources Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
