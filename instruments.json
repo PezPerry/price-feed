@@ -7467,6 +7467,12 @@
       "isin": null
     },
     {
+      "key": "BCU:CAD",
+      "name": "Bell Copper Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BCVNZ:CHF",
       "name": "Banque Cantonale Vaudoise",
       "currency": "CHF",
@@ -9966,6 +9972,12 @@
       "key": "BTT:CAD",
       "name": "Bitterroot Resources Ltd",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "BTTC:USD",
+      "name": "Black Titan Corporation",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -14706,6 +14718,12 @@
       "key": "CUE:USD",
       "name": "Cue Biopharma Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "CUEX:CAD",
+      "name": "Copperex Resources Corporation",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -22901,6 +22919,12 @@
     {
       "key": "GGI:CAD",
       "name": "Garibaldi Resources Corp.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "GGM:CAD",
+      "name": "Granada Gold Mine Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -34497,6 +34521,12 @@
       "isin": null
     },
     {
+      "key": "MNRG:CAD",
+      "name": "Monumental Energy Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "MNRO:USD",
       "name": "Monro Inc",
       "currency": "USD",
@@ -34878,6 +34908,12 @@
       "key": "MQ:USD",
       "name": "Marqeta Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MQM:CAD",
+      "name": "Metalquest Mining Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -41487,6 +41523,12 @@
       "isin": null
     },
     {
+      "key": "PLAG:USD",
+      "name": "Planet Green Holdings Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "PLAN:CAD",
       "name": "Progressive Planet Solutions Inc",
       "currency": "CAD",
@@ -43887,6 +43929,12 @@
       "isin": "IT0004931496"
     },
     {
+      "key": "RCT:CAD",
+      "name": "Rochester Resources Ltd.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "RCT:USD",
       "name": "RedCloud Holdings PLC",
       "currency": "USD",
@@ -45581,6 +45629,12 @@
     {
       "key": "RVX:CAD",
       "name": "Resverlogix Corp.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "RW:CAD",
+      "name": "Renoworks Software Inc.",
       "currency": "CAD",
       "isin": null
     },
