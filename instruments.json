@@ -4659,6 +4659,12 @@
       "isin": "GB00BJTNFH41"
     },
     {
+      "key": "AOF:USD",
+      "name": "Africa Opportunity Fund Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AOFD:EUR",
       "name": "Atoss Software SE",
       "currency": "EUR",
@@ -15112,7 +15118,7 @@
     },
     {
       "key": "CYN:GBP",
-      "name": "CQS Natural Resources Growth & Income PLC",
+      "name": "City Natural Resources Growth and Income PLC",
       "currency": "GBP",
       "isin": "GB0000353929"
     },
@@ -23973,6 +23979,12 @@
       "isin": null
     },
     {
+      "key": "GROC:GBP",
+      "name": "Greenroc Strategic Materials PLC",
+      "currency": "GBP",
+      "isin": "GB00BLD3C518"
+    },
+    {
       "key": "GROV:USD",
       "name": "Grove Collaborative Holdings Inc",
       "currency": "USD",
@@ -24601,6 +24613,12 @@
       "name": "HAL Trust",
       "currency": "EUR",
       "isin": null
+    },
+    {
+      "key": "HALO:GBP",
+      "name": "Halo Minerals PLC",
+      "currency": "GBP",
+      "isin": "GB00BP92JV57"
     },
     {
       "key": "HALO:USD",
