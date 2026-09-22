@@ -28449,6 +28449,12 @@
       "isin": null
     },
     {
+      "key": "ISURE:EUR",
+      "name": "Inmobiliaria del Sur SA",
+      "currency": "EUR",
+      "isin": "ES0154653911"
+    },
+    {
       "key": "IT:USD",
       "name": "Gartner Inc",
       "currency": "USD",
@@ -34069,6 +34075,12 @@
       "name": "Mikron Holding AG",
       "currency": "CHF",
       "isin": "CH0003390066"
+    },
+    {
+      "key": "MILA:GBP",
+      "name": "Mila Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BD4FCK53"
     },
     {
       "key": "MILDES:SEK",
@@ -43831,6 +43843,12 @@
       "name": "Avita Medical Ltd",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "RCGH:GBP",
+      "name": "Rc365 Holding PLC",
+      "currency": "GBP",
+      "isin": "GB00BMG8BL95"
     },
     {
       "key": "RCH:CAD",
