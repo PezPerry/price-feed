@@ -7839,6 +7839,12 @@
       "isin": null
     },
     {
+      "key": "BFRG:USD",
+      "name": "BullFrog AI Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BFRI:USD",
       "name": "Biofrontera Inc",
       "currency": "USD",
@@ -9085,12 +9091,6 @@
       "name": "Bonava AB",
       "currency": "SEK",
       "isin": "SE0008091581"
-    },
-    {
-      "key": "BONE:CAD",
-      "name": "Boron One Holdings Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BONEXS:SEK",
@@ -23235,12 +23235,6 @@
       "isin": "GB00BRKD9Z53"
     },
     {
-      "key": "GLE:USD",
-      "name": "Global Engine Group Holding Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "GLED:USD",
       "name": "GalaxyEdge Acquisition Corp",
       "currency": "USD",
@@ -35829,12 +35823,6 @@
       "isin": null
     },
     {
-      "key": "MYSE:USD:MYSEUM",
-      "name": "Myseum Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MYX:GBP",
       "name": "Mycelx Technologies Corp",
       "currency": "GBP",
@@ -43641,6 +43629,12 @@
       "isin": "SE0010441139"
     },
     {
+      "key": "RAIN:USD",
+      "name": "Rain Enhancement Technologies Holdco Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "RAIVVH:EUR",
       "name": "Raisio Oyj",
       "currency": "EUR",
@@ -45575,6 +45569,12 @@
     {
       "key": "RUS:CAD",
       "name": "Russel Metals",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "RUSH:CAD",
+      "name": "Carolina Rush Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -56075,12 +56075,6 @@
     {
       "key": "VVX:USD",
       "name": "V2X Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "VWAV:USD",
-      "name": "VisionWave Holdings Inc",
       "currency": "USD",
       "isin": null
     },
