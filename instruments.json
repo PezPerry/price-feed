@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-21",
+  "as_of": "2026-09-22",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -1903,12 +1903,6 @@
       "name": "Enact Holdings Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "ACTD:EUR",
-      "name": "Alzchem Group AG",
-      "currency": "EUR",
-      "isin": "DE000A2YNT30"
     },
     {
       "key": "ACTG:USD",
@@ -9081,6 +9075,12 @@
       "isin": "SE0020050417"
     },
     {
+      "key": "BON:USD",
+      "name": "Bon Natural Life Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BONABS:SEK",
       "name": "Bonava AB",
       "currency": "SEK",
@@ -14253,12 +14253,6 @@
       "isin": null
     },
     {
-      "key": "CSAN:USD",
-      "name": "Cosan SA",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "CSBR:USD",
       "name": "Champions Oncology Inc",
       "currency": "USD",
@@ -16203,12 +16197,6 @@
       "isin": null
     },
     {
-      "key": "DLXY:USD",
-      "name": "Delixy Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "DLY:USD",
       "name": "DoubleLine Yield Opportunities Fund",
       "currency": "USD",
@@ -17599,12 +17587,6 @@
       "name": "EDX Medical Group PLC",
       "currency": "GBP",
       "isin": "GB00BNDMJS47"
-    },
-    {
-      "key": "EDY:CAD",
-      "name": "Eddy Smart Home Solutions Ltd",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "EE:USD",
@@ -19251,6 +19233,12 @@
       "isin": "CH0024736404"
     },
     {
+      "key": "ESYN:USD",
+      "name": "EnerSyn Global Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ET:CAD",
       "name": "Evertz Technologies Limited",
       "currency": "CAD",
@@ -20445,6 +20433,12 @@
       "isin": null
     },
     {
+      "key": "FFU:CAD",
+      "name": "F4 Uranium Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "FG:USD",
       "name": "F&G Annuities & Life Inc",
       "currency": "USD",
@@ -21391,6 +21385,12 @@
       "name": "Fresenius SE & Co KGaA",
       "currency": "EUR",
       "isin": "DE0005785604"
+    },
+    {
+      "key": "FREEMS:SEK",
+      "name": "Freemelt Holding AB",
+      "currency": "SEK",
+      "isin": "SE0011167170"
     },
     {
       "key": "FRENZ:CHF",
@@ -22413,6 +22413,12 @@
       "isin": null
     },
     {
+      "key": "GCOM:CAD",
+      "name": "Green Shift Commodities Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GCP:GBP",
       "name": "GCP Infrastructure Investments Ltd",
       "currency": "GBP",
@@ -22450,7 +22456,7 @@
     },
     {
       "key": "GDEV:USD",
-      "name": "Nexters Inc",
+      "name": "GDEV Inc",
       "currency": "USD",
       "isin": null
     },
@@ -31401,6 +31407,12 @@
       "isin": null
     },
     {
+      "key": "LHSW:USD",
+      "name": "Lianhe Sowell International Group Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "LHX:USD",
       "name": "L3Harris Technologies Inc",
       "currency": "USD",
@@ -33915,12 +33927,6 @@
       "isin": null
     },
     {
-      "key": "MGRX:USD",
-      "name": "Mangoceuticals Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MGTX:USD",
       "name": "MeiraGTx Holdings PLC",
       "currency": "USD",
@@ -35259,12 +35265,6 @@
       "isin": null
     },
     {
-      "key": "MSN:USD",
-      "name": "Emerson Radio Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MSONBS:SEK",
       "name": "Midsona AB",
       "currency": "SEK",
@@ -35905,6 +35905,12 @@
       "name": "NAHL Group Ltd",
       "currency": "GBP",
       "isin": "GB00BM7S2W63"
+    },
+    {
+      "key": "NAIA:CAD",
+      "name": "Naia Relief Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "NAII:USD",
@@ -36881,12 +36887,6 @@
     {
       "key": "NICN:CAD",
       "name": "Nican Limited",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "NICU:CAD",
-      "name": "Magna Mining Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -38157,6 +38157,12 @@
       "isin": null
     },
     {
+      "key": "NWCL:USD",
+      "name": "newcleo PLC",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "NWE:USD",
       "name": "NorthWestern Corp",
       "currency": "USD",
@@ -38917,6 +38923,12 @@
       "name": "Oryx International Growth Fund Ltd",
       "currency": "GBP",
       "isin": "GG00B3BTVQ94"
+    },
+    {
+      "key": "OIG:USD",
+      "name": "Orion180 Insurance Group Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "OII:USD",
@@ -43515,6 +43527,12 @@
       "isin": "NL0010696654"
     },
     {
+      "key": "QVCG:USD",
+      "name": "QVC Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "QXL:USD",
       "name": "Quantum X Labs Inc",
       "currency": "USD",
@@ -45557,12 +45575,6 @@
     {
       "key": "RUS:CAD",
       "name": "Russel Metals",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "RUSH:CAD",
-      "name": "Carolina Rush Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -50397,6 +50409,12 @@
       "isin": null
     },
     {
+      "key": "SVIA:USD",
+      "name": "Silvia Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SVIKS:SEK",
       "name": "Studsvik AB",
       "currency": "SEK",
@@ -51493,6 +51511,12 @@
       "name": "Tesmec SpA",
       "currency": "EUR",
       "isin": "IT0004585243"
+    },
+    {
+      "key": "TEVA:USD",
+      "name": "Teva Pharmaceutical Industries Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "TEX:USD",
@@ -57933,6 +57957,12 @@
       "isin": null
     },
     {
+      "key": "YARW:USD",
+      "name": "Yarrow Bioscience Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "YB:USD",
       "name": "Yuanbao Inc",
       "currency": "USD",
@@ -57990,6 +58020,12 @@
       "key": "YEXT:USD",
       "name": "Yext Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "YFI:CAD",
+      "name": "Edgewater Wireless Systems Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
