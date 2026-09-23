@@ -22869,6 +22869,12 @@
       "isin": "DE0005800601"
     },
     {
+      "key": "GFTU:GBP",
+      "name": "Grafton Group PLC",
+      "currency": "GBP",
+      "isin": "IE00B00MZ448"
+    },
+    {
       "key": "GFUZ:USD",
       "name": "General Fusion Group Ltd",
       "currency": "USD",
@@ -46171,6 +46177,12 @@
       "name": "Satellogic Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "SATS:GBP",
+      "name": "Satsuma Technology PLC",
+      "currency": "GBP",
+      "isin": "GB00BMFCRZ80"
     },
     {
       "key": "SATSO:NOK",
