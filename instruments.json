@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-22",
+  "as_of": "2026-09-23",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -5445,6 +5445,12 @@
       "isin": null
     },
     {
+      "key": "ASBH:USD",
+      "name": "American Savings Bank",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ASC:GBP",
       "name": "ASOS PLC",
       "currency": "GBP",
@@ -7677,6 +7683,12 @@
       "isin": null
     },
     {
+      "key": "BENF:USD",
+      "name": "The Beneficient Company Group LP",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BENP:EUR",
       "name": "Beneteau SACA",
       "currency": "EUR",
@@ -7931,12 +7943,6 @@
     {
       "key": "BGIN:USD",
       "name": "Bgin Blockchain Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BGL:USD",
-      "name": "Blue Gold Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -9079,12 +9085,6 @@
       "name": "Boliden AB",
       "currency": "SEK",
       "isin": "SE0020050417"
-    },
-    {
-      "key": "BON:USD",
-      "name": "Bon Natural Life Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "BONABS:SEK",
@@ -17577,6 +17577,12 @@
       "isin": "GB00BNDMJS47"
     },
     {
+      "key": "EDY:CAD",
+      "name": "Eddy Smart Home Solutions Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "EE:USD",
       "name": "Excelerate Energy Inc",
       "currency": "USD",
@@ -24231,6 +24237,12 @@
       "isin": null
     },
     {
+      "key": "GST:GBP",
+      "name": "GSTechnologies Ltd",
+      "currency": "GBP",
+      "isin": "VGG4164C1005"
+    },
+    {
       "key": "GSTM:CAD",
       "name": "Goldstorm Metals Corp",
       "currency": "CAD",
@@ -27291,12 +27303,6 @@
       "isin": null
     },
     {
-      "key": "ILLR:USD",
-      "name": "Triller Group Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "ILLU:USD",
       "name": "Illumination Acquisition Corp I",
       "currency": "USD",
@@ -28561,6 +28567,12 @@
       "name": "Inventiva SA",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "IVACCS:SEK",
+      "name": "Intervacc AB",
+      "currency": "SEK",
+      "isin": "SE0009607252"
     },
     {
       "key": "IVAP:EUR",
@@ -43281,6 +43293,12 @@
       "isin": null
     },
     {
+      "key": "QPR1VH:EUR",
+      "name": "QPR Software Oyj",
+      "currency": "EUR",
+      "isin": "FI0009008668"
+    },
+    {
       "key": "QQ.:GBP",
       "name": "QinetiQ Group PLC",
       "currency": "GBP",
@@ -47391,6 +47409,12 @@
       "isin": null
     },
     {
+      "key": "SGZ:CAD",
+      "name": "Sego Resources Inc.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SHAK:USD",
       "name": "Shake Shack Inc",
       "currency": "USD",
@@ -47956,7 +47980,7 @@
     },
     {
       "key": "SKJEC:DKK",
-      "name": "Skjern Bank",
+      "name": "Skjern Bank A/S",
       "currency": "DKK",
       "isin": "DK0010295922"
     },
@@ -50544,12 +50568,6 @@
       "key": "SXI:USD",
       "name": "Standex International Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SXL:CAD",
-      "name": "Slam Exploration Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -53217,6 +53235,12 @@
       "isin": "FR0000120271"
     },
     {
+      "key": "TTG:CAD",
+      "name": "Trans Canada Gold Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "TTG:GBP",
       "name": "TT Electronics PLC",
       "currency": "GBP",
@@ -54241,6 +54265,12 @@
       "name": "Unibail-Rodamco-Westfield",
       "currency": "EUR",
       "isin": "FR0013326246"
+    },
+    {
+      "key": "URZ:CAD",
+      "name": "URZ Energy Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "USA:CAD",
