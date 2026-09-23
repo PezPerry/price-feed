@@ -6519,12 +6519,6 @@
       "isin": "GB00BMZR7D19"
     },
     {
-      "key": "AWI:CAD",
-      "name": "Advent Awi Holdings Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AWI:USD",
       "name": "Armstrong World Industries Inc",
       "currency": "USD",
@@ -9091,6 +9085,12 @@
       "name": "Bonava AB",
       "currency": "SEK",
       "isin": "SE0008091581"
+    },
+    {
+      "key": "BONE:CAD",
+      "name": "Boron One Holdings Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "BONEXS:SEK",
@@ -13794,6 +13794,12 @@
       "key": "CQP:USD",
       "name": "Cheniere Energy Partners LP",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "CQR:CAD",
+      "name": "Conquest Resources Ltd.",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -44779,6 +44785,12 @@
       "name": "RM PLC",
       "currency": "GBP",
       "isin": "GB00BJT0FF39"
+    },
+    {
+      "key": "RMB:CAD",
+      "name": "Rumbu Holdings Ltd",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "RMBI:USD",
