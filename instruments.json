@@ -9579,12 +9579,6 @@
       "isin": null
     },
     {
-      "key": "BRR:USD",
-      "name": "ProCap Financial Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BRSC:GBP",
       "name": "BlackRock Smaller Companies Trust PLC",
       "currency": "GBP",
@@ -9972,12 +9966,6 @@
       "key": "BTT:CAD",
       "name": "Bitterroot Resources Ltd",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "BTTC:USD",
-      "name": "Black Titan Corporation",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -22929,12 +22917,6 @@
       "isin": null
     },
     {
-      "key": "GGM:CAD",
-      "name": "Granada Gold Mine Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GGO:CAD",
       "name": "Galleon Gold Corp",
       "currency": "CAD",
@@ -23052,12 +23034,6 @@
       "key": "GIFT:USD",
       "name": "Giftify Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GIGA:CAD",
-      "name": "Giga Metals Corporation",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -24661,12 +24637,6 @@
       "name": "HAL Trust",
       "currency": "EUR",
       "isin": null
-    },
-    {
-      "key": "HALO:GBP",
-      "name": "Halo Minerals PLC",
-      "currency": "GBP",
-      "isin": "GB00BP92JV57"
     },
     {
       "key": "HALO:USD",
@@ -26509,12 +26479,6 @@
       "name": "Harworth Group PLC",
       "currency": "GBP",
       "isin": "GB00BYZJ7G42"
-    },
-    {
-      "key": "HWH:USD",
-      "name": "HWH International Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "HWKN:USD",
@@ -31923,12 +31887,6 @@
       "isin": null
     },
     {
-      "key": "LOBO:USD",
-      "name": "Lobo EV Technologies Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "LOCALP:EUR",
       "name": "Solocal Group SA",
       "currency": "EUR",
@@ -34923,12 +34881,6 @@
       "isin": null
     },
     {
-      "key": "MQM:CAD",
-      "name": "Metalquest Mining Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "MRAM:USD",
       "name": "Everspin Technologies Inc",
       "currency": "USD",
@@ -36795,12 +36747,6 @@
       "isin": null
     },
     {
-      "key": "NHIC:USD",
-      "name": "Newhold Investment Corp III",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "NHIV:USD",
       "name": "Newhold Investment Corp IV",
       "currency": "USD",
@@ -36815,12 +36761,6 @@
     {
       "key": "NHS:USD",
       "name": "Neuberger Berman High Yield Strategies Fund",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "NHTC:USD",
-      "name": "Natural Health Trends Corp",
       "currency": "USD",
       "isin": null
     },
@@ -38544,12 +38484,6 @@
       "key": "OBT:USD",
       "name": "Orange County Bancorp, Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "OBUL:CAD",
-      "name": "ONE Bullion Limited",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -41007,12 +40941,6 @@
       "isin": "GG00B28C2R28"
     },
     {
-      "key": "PEZM.H:CAD",
-      "name": "Pezm Gold Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "PFAI:USD",
       "name": "Pinnacle Food Group Ltd",
       "currency": "USD",
@@ -43347,12 +43275,6 @@
       "isin": null
     },
     {
-      "key": "QPR1VH:EUR",
-      "name": "QPR Software Oyj",
-      "currency": "EUR",
-      "isin": "FI0009008668"
-    },
-    {
       "key": "QQ.:GBP",
       "name": "QinetiQ Group PLC",
       "currency": "GBP",
@@ -43855,12 +43777,6 @@
       "name": "Avita Medical Ltd",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "RCGH:GBP",
-      "name": "Rc365 Holding PLC",
-      "currency": "GBP",
-      "isin": "GB00BMG8BL95"
     },
     {
       "key": "RCH:CAD",
@@ -47001,12 +46917,6 @@
       "isin": null
     },
     {
-      "key": "SEGG:USD",
-      "name": "Sports Entertainment Gaming Global Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SEGN:CAD",
       "name": "Seegnal Inc",
       "currency": "CAD",
@@ -48603,12 +48513,6 @@
       "isin": null
     },
     {
-      "key": "SNDA:GBP",
-      "name": "Sunda Energy PLC",
-      "currency": "GBP",
-      "isin": "GB00BSHSGY88"
-    },
-    {
       "key": "SNDA:USD",
       "name": "Sonida Senior Living Inc",
       "currency": "USD",
@@ -48763,12 +48667,6 @@
       "name": "Sparebank 1 Ostfold Akershus",
       "currency": "NOK",
       "isin": "NO0010285562"
-    },
-    {
-      "key": "SOAR:USD",
-      "name": "Volato Group Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SOBIS:SEK",
@@ -48985,12 +48883,6 @@
       "name": "Sosandar PLC",
       "currency": "GBP",
       "isin": "GB00BDGS8G04"
-    },
-    {
-      "key": "SOS:USD",
-      "name": "SOS Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SOSI1H:EUR",
@@ -53313,12 +53205,6 @@
       "isin": "FR0000120271"
     },
     {
-      "key": "TTG:CAD",
-      "name": "Trans Canada Gold Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "TTG:GBP",
       "name": "TT Electronics PLC",
       "currency": "GBP",
@@ -54345,12 +54231,6 @@
       "isin": "FR0013326246"
     },
     {
-      "key": "URZ:CAD",
-      "name": "URZ Energy Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "USA:CAD",
       "name": "Americas Gold And Silver Corporation",
       "currency": "CAD",
@@ -54919,12 +54799,6 @@
       "name": "Veidekke ASA",
       "currency": "NOK",
       "isin": "NO0005806802"
-    },
-    {
-      "key": "VEL:GBP",
-      "name": "Velocity Composites PLC",
-      "currency": "GBP",
-      "isin": "GB00BF339H01"
     },
     {
       "key": "VEL:USD",
@@ -55803,12 +55677,6 @@
       "isin": null
     },
     {
-      "key": "VROY:CAD",
-      "name": "Vizsla Royalties Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "VRR:CAD",
       "name": "VR Resources Ltd",
       "currency": "CAD",
@@ -56047,6 +55915,12 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
+    },
+    {
+      "key": "VUX:CAD",
+      "name": "Vital Energy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "VUZI:USD",
@@ -57393,12 +57267,6 @@
       "isin": null
     },
     {
-      "key": "WVVI:USD",
-      "name": "Willamette Valley Vineyards Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WW:USD",
       "name": "WW International Inc",
       "currency": "USD",
@@ -58517,12 +58385,6 @@
     {
       "key": "ZOMD:CAD",
       "name": "Zoomd Technologies Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "ZON:CAD",
-      "name": "Zonte Metals Inc",
       "currency": "CAD",
       "isin": null
     },
