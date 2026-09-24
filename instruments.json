@@ -897,6 +897,12 @@
       "isin": null
     },
     {
+      "key": "1AIRM:EUR",
+      "name": "Airbus SE",
+      "currency": "EUR",
+      "isin": "NL0000235190"
+    },
+    {
       "key": "1ALVM:EUR",
       "name": "Allianz SE",
       "currency": "EUR",
@@ -9061,12 +9067,6 @@
       "name": "Bonava AB",
       "currency": "SEK",
       "isin": "SE0008091581"
-    },
-    {
-      "key": "BONE:CAD",
-      "name": "Boron One Holdings Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BONEXS:SEK",
@@ -22995,6 +22995,12 @@
       "isin": null
     },
     {
+      "key": "GIGA:CAD",
+      "name": "Giga Metals Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GIGAO:NOK",
       "name": "Gigante Salmon AS",
       "currency": "NOK",
@@ -26249,6 +26255,12 @@
     {
       "key": "HUBS:USD",
       "name": "HubSpot Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "HUCK:USD",
+      "name": "Huckleberry.ai Inc",
       "currency": "USD",
       "isin": null
     },
@@ -33801,6 +33813,12 @@
       "isin": null
     },
     {
+      "key": "MGRX:USD",
+      "name": "Mangoceuticals Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MGTX:USD",
       "name": "MeiraGTx Holdings PLC",
       "currency": "USD",
@@ -39069,6 +39087,12 @@
       "isin": null
     },
     {
+      "key": "ONEN:USD",
+      "name": "ONE Nuclear Energy Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ONEW:USD",
       "name": "OneWater Marine",
       "currency": "USD",
@@ -41847,6 +41871,12 @@
       "isin": "GB00B1GCLT25"
     },
     {
+      "key": "POM:USD",
+      "name": "Pomdoctor Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "PON1VH:EUR",
       "name": "Ponsse Oyj",
       "currency": "EUR",
@@ -42834,6 +42864,12 @@
       "key": "PVH:USD",
       "name": "Phillips-Van Heusen Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PVIS:CAD",
+      "name": "Parvis Invest Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -47265,6 +47301,12 @@
       "isin": "CH1256740924"
     },
     {
+      "key": "SGU:CAD",
+      "name": "Signature Resources Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SGU:USD",
       "name": "Star Group LP",
       "currency": "USD",
@@ -48565,6 +48607,12 @@
       "name": "Sparebank 1 Ostfold Akershus",
       "currency": "NOK",
       "isin": "NO0010285562"
+    },
+    {
+      "key": "SOAR:USD",
+      "name": "Volato Group Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "SOBIS:SEK",
@@ -52647,6 +52695,12 @@
       "isin": null
     },
     {
+      "key": "TRIOA:EUR",
+      "name": "Triodos Bank NV",
+      "currency": "EUR",
+      "isin": "NL0010407946"
+    },
+    {
       "key": "TRIP:EUR",
       "name": "Trigano SA",
       "currency": "EUR",
@@ -53083,6 +53137,12 @@
       "name": "TotalEnergies SE",
       "currency": "EUR",
       "isin": "FR0000120271"
+    },
+    {
+      "key": "TTG:CAD",
+      "name": "Trans Canada Gold Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "TTG:GBP",
