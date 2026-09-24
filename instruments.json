@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-23",
+  "as_of": "2026-09-24",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -22311,6 +22311,12 @@
       "isin": null
     },
     {
+      "key": "GCDT:USD",
+      "name": "Green Circle Decarbonize Technology Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "GCGR:USD",
       "name": "General Catalyst Global Resilience Merger Corp",
       "currency": "USD",
@@ -27407,6 +27413,12 @@
     {
       "key": "IMPP:USD",
       "name": "Imperial Petroleum Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "IMRN:USD",
+      "name": "Immuron Ltd ADR",
       "currency": "USD",
       "isin": null
     },
@@ -36123,6 +36135,12 @@
       "isin": null
     },
     {
+      "key": "NCPL:USD",
+      "name": "Netcapital Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "NCTY:USD",
       "name": "The9 Ltd",
       "currency": "USD",
@@ -43917,6 +43935,12 @@
       "isin": null
     },
     {
+      "key": "REBN:USD",
+      "name": "Reborn Coffee Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "REC:GBP",
       "name": "Record PLC",
       "currency": "GBP",
@@ -47249,12 +47273,6 @@
     {
       "key": "SGY:CAD",
       "name": "Surge Energy Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "SGZ:CAD",
-      "name": "Sego Resources Inc.",
       "currency": "CAD",
       "isin": null
     },
@@ -53067,12 +53085,6 @@
       "isin": "FR0000120271"
     },
     {
-      "key": "TTG:CAD",
-      "name": "Trans Canada Gold Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "TTG:GBP",
       "name": "TT Electronics PLC",
       "currency": "GBP",
@@ -57744,12 +57756,6 @@
       "key": "YEXT:USD",
       "name": "Yext Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "YFI:CAD",
-      "name": "Edgewater Wireless Systems Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
