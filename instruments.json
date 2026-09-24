@@ -34048,7 +34048,7 @@
     },
     {
       "key": "MKA:GBP",
-      "name": "Mkango Resources Ltd",
+      "name": "Mkango Magnetic Materials Ltd",
       "currency": "GBP",
       "isin": "CA60686A4090"
     },
@@ -43651,6 +43651,12 @@
       "name": "Avita Medical Ltd",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "RCGH:GBP",
+      "name": "Rc365 Holding PLC",
+      "currency": "GBP",
+      "isin": "GB00BMG8BL95"
     },
     {
       "key": "RCH:CAD",
