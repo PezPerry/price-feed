@@ -33969,6 +33969,12 @@
       "isin": "CH0003390066"
     },
     {
+      "key": "MILA:GBP",
+      "name": "Mila Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BD4FCK53"
+    },
+    {
       "key": "MILDES:SEK",
       "name": "Mildef Group AB",
       "currency": "SEK",
@@ -52161,6 +52167,12 @@
       "isin": null
     },
     {
+      "key": "TND:GBP",
+      "name": "Tandem Group PLC",
+      "currency": "GBP",
+      "isin": "GB00B460T373"
+    },
+    {
       "key": "TNDM:USD",
       "name": "Tandem Diabetes Care Inc",
       "currency": "USD",
@@ -57301,6 +57313,12 @@
       "name": "X3 Acquisition Corp Ltd",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "XCE:GBP",
+      "name": "Connecting Excellence Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BVBHDF21"
     },
     {
       "key": "XCH:USD",
