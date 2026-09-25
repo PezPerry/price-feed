@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-24",
+  "as_of": "2026-09-25",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -14655,12 +14655,6 @@
       "isin": null
     },
     {
-      "key": "CUEX:CAD",
-      "name": "Copperex Resources Corporation",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CULP:USD",
       "name": "Culp Inc",
       "currency": "USD",
@@ -16407,12 +16401,6 @@
       "isin": null
     },
     {
-      "key": "DOMO:USD",
-      "name": "Domo Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "DOMS:SEK",
       "name": "Dometic Group AB",
       "currency": "SEK",
@@ -17521,12 +17509,6 @@
       "name": "EDX Medical Group PLC",
       "currency": "GBP",
       "isin": "GB00BNDMJS47"
-    },
-    {
-      "key": "EDY:CAD",
-      "name": "Eddy Smart Home Solutions Ltd",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "EE:USD",
@@ -20313,6 +20295,12 @@
       "isin": null
     },
     {
+      "key": "FFAI:USD",
+      "name": "Faraday Future Intelligent Electric Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "FFARMA:EUR",
       "name": "ForFarmers NV",
       "currency": "EUR",
@@ -22307,12 +22295,6 @@
     {
       "key": "GCBC:USD",
       "name": "Greene County Bancorp Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GCDT:USD",
-      "name": "Green Circle Decarbonize Technology Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -26385,12 +26367,6 @@
       "isin": null
     },
     {
-      "key": "HVII:USD",
-      "name": "Hennessy Capital Investment Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "HVMC:USD",
       "name": "Highview Merger Corp",
       "currency": "USD",
@@ -27585,6 +27561,12 @@
       "isin": "FR0010341032"
     },
     {
+      "key": "INEO:USD",
+      "name": "INNEOVA Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "INF:GBP",
       "name": "Informa PLC",
       "currency": "GBP",
@@ -28003,6 +27985,12 @@
       "name": "Seco SpA",
       "currency": "EUR",
       "isin": "IT0005438046"
+    },
+    {
+      "key": "IOTR:USD",
+      "name": "iOThree Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "IOVA:USD",
@@ -30433,6 +30421,12 @@
       "name": "Kerry Group PLC",
       "currency": "EUR",
       "isin": "IE0004906560"
+    },
+    {
+      "key": "KSCD:EUR",
+      "name": "KPS AG",
+      "currency": "EUR",
+      "isin": "DE000A1A6V48"
     },
     {
       "key": "KSCP:USD",
@@ -38265,6 +38259,12 @@
       "isin": "GB0002910429"
     },
     {
+      "key": "NYRB:EUR",
+      "name": "Nyrstar NV",
+      "currency": "EUR",
+      "isin": "BE0974294267"
+    },
+    {
       "key": "NYT:USD",
       "name": "New York Times Co (The)",
       "currency": "USD",
@@ -45411,6 +45411,12 @@
       "isin": null
     },
     {
+      "key": "RUSH:CAD",
+      "name": "Carolina Rush Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "RUSHA:USD",
       "name": "Rush Enterprises Inc",
       "currency": "USD",
@@ -50877,12 +50883,6 @@
       "isin": null
     },
     {
-      "key": "TBPH:USD",
-      "name": "Theravance Biopharma Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "TBTG:GBP",
       "name": "The Beauty Tech Group PLC",
       "currency": "GBP",
@@ -51035,6 +51035,12 @@
     {
       "key": "TDG:USD",
       "name": "Transdigm Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "TDIC:USD",
+      "name": "Dreamland Ltd",
       "currency": "USD",
       "isin": null
     },
