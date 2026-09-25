@@ -24189,12 +24189,6 @@
       "isin": null
     },
     {
-      "key": "GST:GBP",
-      "name": "GSTechnologies Ltd",
-      "currency": "GBP",
-      "isin": "VGG4164C1005"
-    },
-    {
       "key": "GSTM:CAD",
       "name": "Goldstorm Metals Corp",
       "currency": "CAD",
@@ -33975,12 +33969,6 @@
       "isin": "CH0003390066"
     },
     {
-      "key": "MILA:GBP",
-      "name": "Mila Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BD4FCK53"
-    },
-    {
       "key": "MILDES:SEK",
       "name": "Mildef Group AB",
       "currency": "SEK",
@@ -38103,12 +38091,6 @@
       "isin": null
     },
     {
-      "key": "NWT:GBP",
-      "name": "Newmark Security PLC",
-      "currency": "GBP",
-      "isin": "GB00BNYM9W73"
-    },
-    {
       "key": "NWX:CAD",
       "name": "Newport Exloration Ltd",
       "currency": "CAD",
@@ -39943,12 +39925,6 @@
       "name": "Pan American Silver Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "PAC:GBP",
-      "name": "Pacific Assets Trust PLC",
-      "currency": "GBP",
-      "isin": "GB0006674385"
     },
     {
       "key": "PAC:USD",
@@ -45425,12 +45401,6 @@
     {
       "key": "RUS:CAD",
       "name": "Russel Metals",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "RUSH:CAD",
-      "name": "Carolina Rush Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -54713,12 +54683,6 @@
     {
       "key": "VECO:USD",
       "name": "Veeco Instruments Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "VEEA:USD",
-      "name": "Veea Inc",
       "currency": "USD",
       "isin": null
     },
