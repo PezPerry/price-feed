@@ -26985,6 +26985,12 @@
       "isin": null
     },
     {
+      "key": "IFBD:USD",
+      "name": "Infobird Co Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "IFC:CAD",
       "name": "Intact Financial Corporation",
       "currency": "CAD",
@@ -31032,6 +31038,12 @@
       "key": "LEA:USD",
       "name": "Lear Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "LEAP:CAD",
+      "name": "Quantum Critical Metals Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
