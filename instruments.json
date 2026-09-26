@@ -2973,12 +2973,6 @@
       "isin": null
     },
     {
-      "key": "AIMD:USD",
-      "name": "Ainos Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AIN:USD",
       "name": "Albany International Corp",
       "currency": "USD",
@@ -13641,12 +13635,6 @@
       "isin": "CH0001624714"
     },
     {
-      "key": "CPI:CAD",
-      "name": "Carlton Precious Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CPI:GBP",
       "name": "Capita PLC",
       "currency": "GBP",
@@ -14009,12 +13997,6 @@
     {
       "key": "CRML:USD",
       "name": "Critical Metals Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CRMT:USD",
-      "name": "America's Car-Mart Inc",
       "currency": "USD",
       "isin": null
     },
@@ -17335,12 +17317,6 @@
       "name": "Cartier Resources Inc.",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "ECRE:EUR",
-      "name": "Ercros SA",
-      "currency": "EUR",
-      "isin": "ES0125140A14"
     },
     {
       "key": "ECU:CAD",
@@ -24393,12 +24369,6 @@
       "isin": "IT0005411209"
     },
     {
-      "key": "GWH:USD",
-      "name": "ESS Tech Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "GWI:EUR",
       "name": "Globalworth Real Estate Investments Ltd",
       "currency": "EUR",
@@ -24876,12 +24846,6 @@
       "key": "HCM:USD",
       "name": "Hutchison China MediTech Ltd",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "HCM.H:CAD",
-      "name": "Highcliff Metals Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -31311,12 +31275,6 @@
       "isin": null
     },
     {
-      "key": "LHSW:USD",
-      "name": "Lianhe Sowell International Group Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "LHX:USD",
       "name": "L3Harris Technologies Inc",
       "currency": "USD",
@@ -33809,12 +33767,6 @@
     {
       "key": "MGRT:USD",
       "name": "Mega Fortune Co Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "MGRX:USD",
-      "name": "Mangoceuticals Inc",
       "currency": "USD",
       "isin": null
     },
@@ -41379,12 +41331,6 @@
       "isin": null
     },
     {
-      "key": "PLAG:USD",
-      "name": "Planet Green Holdings Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "PLAN:CAD",
       "name": "Progressive Planet Solutions Inc",
       "currency": "CAD",
@@ -41863,12 +41809,6 @@
       "name": "Polar Capital Holdings PLC",
       "currency": "GBP",
       "isin": "GB00B1GCLT25"
-    },
-    {
-      "key": "POM:USD",
-      "name": "Pomdoctor Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "PON1VH:EUR",
@@ -44691,12 +44631,6 @@
       "isin": "GB00BJT0FF39"
     },
     {
-      "key": "RMB:CAD",
-      "name": "Rumbu Holdings Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RMBI:USD",
       "name": "Richmond Mutual Bancorporation Inc",
       "currency": "USD",
@@ -45107,12 +45041,6 @@
     {
       "key": "RPD:USD",
       "name": "Rapid 7 Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "RPGL:USD",
-      "name": "Republic Power Group Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -48601,12 +48529,6 @@
       "name": "Sparebank 1 Ostfold Akershus",
       "currency": "NOK",
       "isin": "NO0010285562"
-    },
-    {
-      "key": "SOAR:USD",
-      "name": "Volato Group Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SOBIS:SEK",
