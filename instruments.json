@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-25",
+  "as_of": "2026-09-28",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -8970,12 +8970,6 @@
       "key": "BOC:USD",
       "name": "Boston Omaha Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BOCA:CAD",
-      "name": "Bocana Resources Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -20271,12 +20265,6 @@
       "isin": null
     },
     {
-      "key": "FFAI:USD",
-      "name": "Faraday Future Intelligent Electric Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FFARMA:EUR",
       "name": "ForFarmers NV",
       "currency": "EUR",
@@ -20331,12 +20319,6 @@
       "isin": null
     },
     {
-      "key": "FFU:CAD",
-      "name": "F4 Uranium Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "FG:USD",
       "name": "F&G Annuities & Life Inc",
       "currency": "USD",
@@ -20351,6 +20333,12 @@
     {
       "key": "FGBI:USD",
       "name": "First Guaranty Bancshares Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "FGC:USD",
+      "name": "FG Communities Holdings Inc",
       "currency": "USD",
       "isin": null
     },
@@ -23133,6 +23121,12 @@
       "isin": "GB00BRKD9Z53"
     },
     {
+      "key": "GLE:USD",
+      "name": "Global Engine Group Holding Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "GLED:USD",
       "name": "GalaxyEdge Acquisition Corp",
       "currency": "USD",
@@ -23561,6 +23555,12 @@
     {
       "key": "GOTU:USD",
       "name": "Gaotu Techedu Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "GOW:USD",
+      "name": "GOWell Energy Technology",
       "currency": "USD",
       "isin": null
     },
@@ -29271,12 +29271,6 @@
       "isin": "KE0000000281"
     },
     {
-      "key": "KALA:USD",
-      "name": "Kala Bio Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "KALMAH:EUR",
       "name": "Kalmar Oyj",
       "currency": "EUR",
@@ -31869,12 +31863,6 @@
       "isin": "GB00BM9CLS53"
     },
     {
-      "key": "LOT:CAD",
-      "name": "Tomagold Corporation",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "LOT:USD",
       "name": "Lotus Technology Inc",
       "currency": "USD",
@@ -34425,6 +34413,12 @@
       "isin": "GG00BJ0CDD21"
     },
     {
+      "key": "MNTS:GBP",
+      "name": "The Schiehallion Fund Ltd",
+      "currency": "GBP",
+      "isin": "GG00BJ0CDD21"
+    },
+    {
       "key": "MNTS:USD",
       "name": "Momentus Inc",
       "currency": "USD",
@@ -36751,12 +36745,6 @@
       "name": "Nivika Fastigheter AB",
       "currency": "SEK",
       "isin": "SE0017083272"
-    },
-    {
-      "key": "NIXX:USD",
-      "name": "Nixxy Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "NJR:USD",
@@ -41327,6 +41315,12 @@
     {
       "key": "PLAB:USD",
       "name": "Photronics Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PLAG:USD",
+      "name": "Planet Green Holdings Corp",
       "currency": "USD",
       "isin": null
     },
@@ -48531,6 +48525,12 @@
       "isin": "NO0010285562"
     },
     {
+      "key": "SOAR:USD",
+      "name": "Volato Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SOBIS:SEK",
       "name": "Swedish Orphan Biovitrum AB",
       "currency": "SEK",
@@ -49639,6 +49639,12 @@
       "name": "Stef SA",
       "currency": "EUR",
       "isin": "FR0000064271"
+    },
+    {
+      "key": "STFS:USD",
+      "name": "Star Fashion Culture Holdings Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "STG:USD",
