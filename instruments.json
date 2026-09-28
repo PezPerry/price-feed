@@ -12489,6 +12489,12 @@
       "isin": "GB00B104RS51"
     },
     {
+      "key": "CLIK:USD",
+      "name": "Click Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CLIP:CAD",
       "name": "Clip Money Inc",
       "currency": "CAD",
