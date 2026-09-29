@@ -34965,6 +34965,12 @@
       "isin": null
     },
     {
+      "key": "MSC:CAD",
+      "name": "Millennium Silver Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "MSC:USD",
       "name": "Studio City International Holdings Ltd",
       "currency": "USD",
@@ -45219,6 +45225,12 @@
       "isin": null
     },
     {
+      "key": "RTH:CAD",
+      "name": "Rathdowney Resources Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "RTO:GBP",
       "name": "Rentokil Initial PLC",
       "currency": "GBP",
@@ -50328,6 +50340,12 @@
       "key": "SXI:USD",
       "name": "Standex International Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SXL:CAD",
+      "name": "Slam Exploration Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -55699,6 +55717,12 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
+    },
+    {
+      "key": "VUX:CAD",
+      "name": "Vital Energy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "VUZI:USD",
