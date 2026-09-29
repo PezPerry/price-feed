@@ -12297,12 +12297,6 @@
       "isin": "ES0105884011"
     },
     {
-      "key": "CISO:USD",
-      "name": "Cerberus Cyber Sentinel Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "CIVB:USD",
       "name": "Civista Bancshares Inc",
       "currency": "USD",
@@ -18405,12 +18399,6 @@
       "isin": "IL0007200111"
     },
     {
-      "key": "ENLV:USD",
-      "name": "Enlivex Ltd",
-      "currency": "USD",
-      "isin": "IL0011319527"
-    },
-    {
       "key": "ENOE:EUR",
       "name": "Elecnor SA",
       "currency": "EUR",
@@ -20361,12 +20349,6 @@
       "isin": null
     },
     {
-      "key": "FGNX:USD",
-      "name": "FG Nexus Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FGP:GBP",
       "name": "FirstGroup PLC",
       "currency": "GBP",
@@ -20749,12 +20731,6 @@
       "name": "Flughafen Wien AG",
       "currency": "EUR",
       "isin": "AT00000VIE62"
-    },
-    {
-      "key": "FLUX:USD",
-      "name": "Flux Power Holdings Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "FLUXB:EUR",
@@ -22944,12 +22920,6 @@
       "key": "GIFT:USD",
       "name": "Giftify Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GIGA:CAD",
-      "name": "Giga Metals Corporation",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -27537,12 +27507,6 @@
       "isin": "FR0010341032"
     },
     {
-      "key": "INEO:USD",
-      "name": "INNEOVA Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "INF:GBP",
       "name": "Informa PLC",
       "currency": "GBP",
@@ -28002,12 +27966,6 @@
       "key": "IPCO:CAD",
       "name": "International Petroleum Corporation",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "IPEX:USD",
-      "name": "Inflection Point Acquisition Corp. V",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -30393,12 +30351,6 @@
       "isin": "IE0004906560"
     },
     {
-      "key": "KSCD:EUR",
-      "name": "KPS AG",
-      "currency": "EUR",
-      "isin": "DE000A1A6V48"
-    },
-    {
       "key": "KSCP:USD",
       "name": "Knightscope Inc",
       "currency": "USD",
@@ -31002,12 +30954,6 @@
       "key": "LEA:USD",
       "name": "Lear Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "LEAP:CAD",
-      "name": "Quantum Critical Metals Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -33921,12 +33867,6 @@
       "isin": "CH0003390066"
     },
     {
-      "key": "MILA:GBP",
-      "name": "Mila Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BD4FCK53"
-    },
-    {
       "key": "MILDES:SEK",
       "name": "Mildef Group AB",
       "currency": "SEK",
@@ -36102,12 +36042,6 @@
       "key": "NCP:CAD",
       "name": "Nickel Creek Platinum Corp",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "NCPL:USD",
-      "name": "Netcapital Inc",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -46275,12 +46209,6 @@
       "isin": null
     },
     {
-      "key": "SBXD:USD",
-      "name": "SilverBox Corp IV",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SBXE:USD",
       "name": "SilverBox Corp V",
       "currency": "USD",
@@ -48475,12 +48403,6 @@
       "name": "Senstar Technologies Ltd",
       "currency": "USD",
       "isin": "IL0010829161"
-    },
-    {
-      "key": "SNTI:USD",
-      "name": "Senti Biosciences Holdings Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SNTIAO:NOK",
@@ -50985,12 +50907,6 @@
       "isin": null
     },
     {
-      "key": "TDIC:USD",
-      "name": "Dreamland Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "TDOC:USD",
       "name": "Teladoc Inc",
       "currency": "USD",
@@ -52077,12 +51993,6 @@
       "isin": null
     },
     {
-      "key": "TMR:GBP",
-      "name": "Tamar Minerals PLC",
-      "currency": "GBP",
-      "isin": "GB00BTXXYC84"
-    },
-    {
       "key": "TMS:USD",
       "name": "Teamshares Inc",
       "currency": "USD",
@@ -52117,12 +52027,6 @@
       "name": "Tennant Co",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "TND:GBP",
-      "name": "Tandem Group PLC",
-      "currency": "GBP",
-      "isin": "GB00B460T373"
     },
     {
       "key": "TNDM:USD",
@@ -52331,12 +52235,6 @@
     {
       "key": "TOUR:USD",
       "name": "Tuniu Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "TOVX:USD",
-      "name": "Theriva Biologics Inc",
       "currency": "USD",
       "isin": null
     },
@@ -53325,12 +53223,6 @@
       "isin": null
     },
     {
-      "key": "TWG:USD",
-      "name": "Top Wealth Group Holding Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "TWI:USD",
       "name": "Titan International Inc",
       "currency": "USD",
@@ -53953,12 +53845,6 @@
       "name": "Unity Bancorp Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "UOG:GBP",
-      "name": "United Oil & Gas PLC",
-      "currency": "GBP",
-      "isin": "GB00BYX0MB92"
     },
     {
       "key": "UONEK:USD",
@@ -57265,12 +57151,6 @@
       "name": "X3 Acquisition Corp Ltd",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "XCE:GBP",
-      "name": "Connecting Excellence Group PLC",
-      "currency": "GBP",
-      "isin": "GB00BVBHDF21"
     },
     {
       "key": "XCH:USD",
