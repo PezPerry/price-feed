@@ -51993,6 +51993,12 @@
       "isin": null
     },
     {
+      "key": "TMR:GBP",
+      "name": "Tamar Minerals PLC",
+      "currency": "GBP",
+      "isin": "GB00BTXXYC84"
+    },
+    {
       "key": "TMS:USD",
       "name": "Teamshares Inc",
       "currency": "USD",
@@ -53845,6 +53851,12 @@
       "name": "Unity Bancorp Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "UOG:GBP",
+      "name": "United Oil & Gas PLC",
+      "currency": "GBP",
+      "isin": "GB00BYX0MB92"
     },
     {
       "key": "UONEK:USD",
@@ -57151,6 +57163,12 @@
       "name": "X3 Acquisition Corp Ltd",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "XCE:GBP",
+      "name": "Connecting Excellence Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BVBHDF21"
     },
     {
       "key": "XCH:USD",
