@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-28",
+  "as_of": "2026-09-29",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -2129,6 +2129,12 @@
     {
       "key": "ADPT:USD",
       "name": "Adaptive Biotechnologies Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ADRX:USD",
+      "name": "ADARx Pharmaceuticals Inc",
       "currency": "USD",
       "isin": null
     },
@@ -16995,12 +17001,6 @@
       "isin": null
     },
     {
-      "key": "DYG:CAD",
-      "name": "Dynasty Gold Corp.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "DYN:USD",
       "name": "Dyne Therapeutics Inc",
       "currency": "USD",
@@ -17481,6 +17481,12 @@
       "isin": "GB00BNDMJS47"
     },
     {
+      "key": "EDY:CAD",
+      "name": "Eddy Smart Home Solutions Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "EE:USD",
       "name": "Excelerate Energy Inc",
       "currency": "USD",
@@ -17844,6 +17850,12 @@
       "key": "ELDN:USD",
       "name": "Eledon Pharmaceuticals Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ELE:CAD",
+      "name": "Elemental Royalty Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -20583,6 +20595,12 @@
       "isin": null
     },
     {
+      "key": "FJDI:USD",
+      "name": "Arc Group Securities Acquisition I",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "FKWL:USD",
       "name": "Franklin Wireless Corp",
       "currency": "USD",
@@ -22278,12 +22296,6 @@
       "key": "GCO:USD",
       "name": "Genesco Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GCOM:CAD",
-      "name": "Green Shift Commodities Ltd",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -24822,6 +24834,12 @@
       "key": "HCM:USD",
       "name": "Hutchison China MediTech Ltd",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "HCM.H:CAD",
+      "name": "Highcliff Metals Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -31815,6 +31833,12 @@
       "isin": "GB00BM9CLS53"
     },
     {
+      "key": "LOT:CAD",
+      "name": "Tomagold Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "LOT:USD",
       "name": "Lotus Technology Inc",
       "currency": "USD",
@@ -33865,6 +33889,12 @@
       "name": "Mikron Holding AG",
       "currency": "CHF",
       "isin": "CH0003390066"
+    },
+    {
+      "key": "MILA:GBP",
+      "name": "Mila Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BD4FCK53"
     },
     {
       "key": "MILDES:SEK",
@@ -36039,12 +36069,6 @@
       "isin": null
     },
     {
-      "key": "NCP:CAD",
-      "name": "Nickel Creek Platinum Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "NCTY:USD",
       "name": "The9 Ltd",
       "currency": "USD",
@@ -38149,12 +38173,6 @@
       "name": "Newbury Racecourse PLC",
       "currency": "GBP",
       "isin": "GB0002910429"
-    },
-    {
-      "key": "NYRB:EUR",
-      "name": "Nyrstar NV",
-      "currency": "EUR",
-      "isin": "BE0974294267"
     },
     {
       "key": "NYT:USD",
@@ -42735,12 +42753,6 @@
       "isin": null
     },
     {
-      "key": "PVIS:CAD",
-      "name": "Parvis Invest Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "PVL:USD",
       "name": "Permianville Royalty Trust",
       "currency": "USD",
@@ -43675,12 +43687,6 @@
       "name": "Rizzoli Corriere Della Sera Mediagroup SpA",
       "currency": "EUR",
       "isin": "IT0004931496"
-    },
-    {
-      "key": "RCT:CAD",
-      "name": "Rochester Resources Ltd.",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "RCT:USD",
@@ -45209,12 +45215,6 @@
     {
       "key": "RTG:CAD",
       "name": "RTG Mining Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "RTH:CAD",
-      "name": "Rathdowney Resources Ltd",
       "currency": "CAD",
       "isin": null
     },
@@ -47353,6 +47353,12 @@
       "name": "Scandic Hotels Group AB",
       "currency": "SEK",
       "isin": "SE0007640156"
+    },
+    {
+      "key": "SHPH:USD",
+      "name": "Shuttle Pharmaceuticals Holdings Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "SHR:USD",
@@ -52241,6 +52247,12 @@
     {
       "key": "TOUR:USD",
       "name": "Tuniu Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "TOVX:USD",
+      "name": "Theriva Biologics Inc",
       "currency": "USD",
       "isin": null
     },
