@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-09-29",
+  "as_of": "2026-09-30",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -895,6 +895,12 @@
       "name": "Broadcom Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "1947:GBP",
+      "name": "1947 Oil & Gas PLC",
+      "currency": "GBP",
+      "isin": "GB00BRQMRP25"
     },
     {
       "key": "1AIRM:EUR",
@@ -6521,12 +6527,6 @@
     {
       "key": "AWRE:USD",
       "name": "Aware Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "AWX:USD",
-      "name": "Avalon Holdings Corp",
       "currency": "USD",
       "isin": null
     },
@@ -15033,6 +15033,12 @@
       "isin": null
     },
     {
+      "key": "CYM:CAD",
+      "name": "Cymat Technologies Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CYN:GBP",
       "name": "City Natural Resources Growth and Income PLC",
       "currency": "GBP",
@@ -19737,12 +19743,6 @@
       "isin": "SE0010048884"
     },
     {
-      "key": "FAIR:CAD",
-      "name": "Fairchild Gold Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "FAIR:EUR",
       "name": "Fair Oaks Income Ltd",
       "currency": "EUR",
@@ -20298,6 +20298,12 @@
       "key": "FFOX:CAD",
       "name": "Firefox Gold Corp",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "FFR:USD",
+      "name": "FF EAI Robotics Ecosystem Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -24801,12 +24807,6 @@
       "isin": null
     },
     {
-      "key": "HCM.H:CAD",
-      "name": "Highcliff Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "HCMA:USD",
       "name": "Hcm III Acquisition Corp",
       "currency": "USD",
@@ -24821,6 +24821,12 @@
     {
       "key": "HCSG:USD",
       "name": "Healthcare Services Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "HCTI:USD",
+      "name": "Healthcare Triangle Inc",
       "currency": "USD",
       "isin": null
     },
@@ -25579,6 +25585,12 @@
       "name": "Hochschild Mining PLC",
       "currency": "GBP",
       "isin": "GB00B1FW5029"
+    },
+    {
+      "key": "HODL:GBP",
+      "name": "B HODL PLC",
+      "currency": "GBP",
+      "isin": "IM00BV6P5N30"
     },
     {
       "key": "HODO:USD",
@@ -27469,6 +27481,12 @@
       "name": "Fonciere INEA",
       "currency": "EUR",
       "isin": "FR0010341032"
+    },
+    {
+      "key": "INEO:USD",
+      "name": "INNEOVA Holdings Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "INF:GBP",
@@ -31777,12 +31795,6 @@
       "name": "Lords Group Trading PLC",
       "currency": "GBP",
       "isin": "GB00BM9CLS53"
-    },
-    {
-      "key": "LOT:CAD",
-      "name": "Tomagold Corporation",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "LOT:USD",
@@ -36849,12 +36861,6 @@
       "isin": null
     },
     {
-      "key": "NMTC:USD",
-      "name": "NeuroOne Medical Technologies Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "NN:USD",
       "name": "NextNav Inc",
       "currency": "USD",
@@ -37945,6 +37951,12 @@
       "name": "Northwest Copper Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "NWT:GBP",
+      "name": "Newmark Security PLC",
+      "currency": "GBP",
+      "isin": "GB00BNYM9W73"
     },
     {
       "key": "NWX:CAD",
@@ -39133,6 +39145,12 @@
       "name": "Optomed Oy",
       "currency": "EUR",
       "isin": "FI4000410881"
+    },
+    {
+      "key": "OPTT:USD",
+      "name": "Ocean Power Technologies Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "OPTU:USD",
@@ -42159,12 +42177,6 @@
       "isin": "BE0003810273"
     },
     {
-      "key": "PRPL:USD",
-      "name": "Purple Innovation Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "PRQ:CAD",
       "name": "Petrus Resources Ltd",
       "currency": "CAD",
@@ -42690,6 +42702,12 @@
       "key": "PVH:USD",
       "name": "Phillips-Van Heusen Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PVIS:CAD",
+      "name": "Parvis Invest Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -45735,6 +45753,12 @@
       "isin": null
     },
     {
+      "key": "SALT:GBP",
+      "name": "Microsalt PLC",
+      "currency": "GBP",
+      "isin": "GB00BQB6FF85"
+    },
+    {
       "key": "SAM:CAD",
       "name": "Starcore International Mines Ltd.",
       "currency": "CAD",
@@ -47181,6 +47205,12 @@
       "isin": "DE0007203705"
     },
     {
+      "key": "SHFS:USD",
+      "name": "SHF Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SHG:USD",
       "name": "Shinhan Financial Group Co Ltd",
       "currency": "USD",
@@ -47951,6 +47981,12 @@
     {
       "key": "SLSN:USD",
       "name": "Solesence Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SLT.U:USD",
+      "name": "Saltire Capital Ltd USD",
       "currency": "USD",
       "isin": null
     },
@@ -57655,12 +57691,6 @@
       "name": "Young & Co's Brewery PLC",
       "currency": "GBP",
       "isin": "GB00B2NDK989"
-    },
-    {
-      "key": "YNV:CAD",
-      "name": "Ynvisible Interactive Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "YOCD:EUR",
