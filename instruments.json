@@ -6771,12 +6771,6 @@
       "isin": "NO0010014632"
     },
     {
-      "key": "AZTR:USD",
-      "name": "Azitra Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AZZ:USD",
       "name": "AZZ Inc",
       "currency": "USD",
@@ -9867,12 +9861,6 @@
       "isin": null
     },
     {
-      "key": "BTLN:USD",
-      "name": "Brightline Interactive Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BTLSB:EUR",
       "name": "Biotalys NV",
       "currency": "EUR",
@@ -12487,12 +12475,6 @@
       "name": "City of London Investment Group PLC",
       "currency": "GBP",
       "isin": "GB00B104RS51"
-    },
-    {
-      "key": "CLIK:USD",
-      "name": "Click Holdings Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "CLIP:CAD",
@@ -15425,12 +15407,6 @@
     {
       "key": "DCTH:USD",
       "name": "Delcath Systems Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "DCX:USD",
-      "name": "Digital Currency X Technology Inc",
       "currency": "USD",
       "isin": null
     },
@@ -22239,12 +22215,6 @@
       "isin": null
     },
     {
-      "key": "GBTG:USD",
-      "name": "Global Business Travel Group Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "GBTP:EUR",
       "name": "Guerbet",
       "currency": "EUR",
@@ -22746,12 +22716,6 @@
       "key": "GFS:USD",
       "name": "GlobalFoundries Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GFTA:CAD",
-      "name": "Grafta Nanotech Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -24861,12 +24825,6 @@
       "isin": null
     },
     {
-      "key": "HCTI:USD",
-      "name": "Healthcare Triangle Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "HD:USD",
       "name": "Home Depot Inc (The)",
       "currency": "USD",
@@ -25621,12 +25579,6 @@
       "name": "Hochschild Mining PLC",
       "currency": "GBP",
       "isin": "GB00B1FW5029"
-    },
-    {
-      "key": "HODL:GBP",
-      "name": "B HODL PLC",
-      "currency": "GBP",
-      "isin": "IM00BV6P5N30"
     },
     {
       "key": "HODO:USD",
@@ -26940,12 +26892,6 @@
       "key": "IFA:CAD",
       "name": "Ifabric Corp",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "IFBD:USD",
-      "name": "Infobird Co Ltd",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -35175,12 +35121,6 @@
       "isin": null
     },
     {
-      "key": "MTEK:USD",
-      "name": "Maris Tech Ltd",
-      "currency": "USD",
-      "isin": "IL0011789042"
-    },
-    {
       "key": "MTG:USD",
       "name": "MGIC Investment Corp",
       "currency": "USD",
@@ -35706,12 +35646,6 @@
       "key": "NAIA:CAD",
       "name": "Naia Relief Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "NAII:USD",
-      "name": "Natural Alternatives International Inc",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -43365,12 +43299,6 @@
       "isin": "SE0010441139"
     },
     {
-      "key": "RAIN:USD",
-      "name": "Rain Enhancement Technologies Holdco Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "RAIVVH:EUR",
       "name": "Raisio Oyj",
       "currency": "EUR",
@@ -45293,12 +45221,6 @@
     {
       "key": "RUS:CAD",
       "name": "Russel Metals",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "RUSH:CAD",
-      "name": "Carolina Rush Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -48029,12 +47951,6 @@
     {
       "key": "SLSN:USD",
       "name": "Solesence Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SLT.U:USD",
-      "name": "Saltire Capital Ltd USD",
       "currency": "USD",
       "isin": null
     },
@@ -54999,12 +54915,6 @@
       "isin": null
     },
     {
-      "key": "VIVAS:SEK",
-      "name": "Viva Wine Group AB",
-      "currency": "SEK",
-      "isin": "SE0017084361"
-    },
-    {
       "key": "VIVO:USD",
       "name": "VivoPower PLC",
       "currency": "USD",
@@ -57275,12 +57185,6 @@
     {
       "key": "XHG:USD",
       "name": "XChange TEC.Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "XHLD:USD",
-      "name": "TEN Holdings Inc",
       "currency": "USD",
       "isin": null
     },
