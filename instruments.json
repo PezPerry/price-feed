@@ -11253,6 +11253,12 @@
       "isin": null
     },
     {
+      "key": "CCMI:CAD",
+      "name": "Canadian Critical Minerals Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CCNE:USD",
       "name": "CNB Financial Corp",
       "currency": "USD",
@@ -15174,6 +15180,12 @@
       "key": "DAO:USD",
       "name": "Youdao Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "DAR:CAD",
+      "name": "Darelle Online Solutions Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -22353,6 +22365,12 @@
       "isin": "FR0000044471"
     },
     {
+      "key": "GDTC:USD",
+      "name": "CytoMed Therapeutics Ltd",
+      "currency": "USD",
+      "isin": "SGXZ17669631"
+    },
+    {
       "key": "GDV:CAD",
       "name": "Global Dividend Growth Split Corp",
       "currency": "CAD",
@@ -26135,6 +26153,12 @@
     {
       "key": "HUCK:USD",
       "name": "Huckleberry.ai Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "HUDI:USD",
+      "name": "Huadi International Group Co Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -30297,6 +30321,12 @@
       "isin": "IE0004906560"
     },
     {
+      "key": "KSCD:EUR",
+      "name": "KPS AG",
+      "currency": "EUR",
+      "isin": "DE000A1A6V48"
+    },
+    {
       "key": "KSCP:USD",
       "name": "Knightscope Inc",
       "currency": "USD",
@@ -30521,6 +30551,12 @@
     {
       "key": "LA:CAD",
       "name": "LOS Andes Copper Limited",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "LAB:CAD",
+      "name": "Labrador Gold Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -54495,6 +54531,12 @@
       "isin": null
     },
     {
+      "key": "VEEA:USD",
+      "name": "Veea Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "VEEV:USD",
       "name": "Veeva Systems Inc",
       "currency": "USD",
@@ -55621,6 +55663,12 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
+    },
+    {
+      "key": "VUX:CAD",
+      "name": "Vital Energy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "VUZI:USD",
