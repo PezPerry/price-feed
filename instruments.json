@@ -22923,6 +22923,12 @@
       "isin": null
     },
     {
+      "key": "GIGA:CAD",
+      "name": "Giga Metals Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GIGAO:NOK",
       "name": "Gigante Salmon AS",
       "currency": "NOK",
@@ -36893,6 +36899,12 @@
     {
       "key": "NMT:USD",
       "name": "Nuveen Massachusetts Premium Income Municipal Fund",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "NMTC:USD",
+      "name": "NeuroOne Medical Technologies Corp",
       "currency": "USD",
       "isin": null
     },
