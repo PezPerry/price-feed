@@ -17314,7 +17314,7 @@
     },
     {
       "key": "EDEN:GBP",
-      "name": "Eden Research PLC",
+      "name": "Eden Biosolutions PLC",
       "currency": "GBP",
       "isin": "GB0001646941"
     },
@@ -17329,6 +17329,12 @@
       "name": "Endurance Gold Corp.",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "EDGE:GBP",
+      "name": "Falconedge PLC",
+      "currency": "GBP",
+      "isin": "GB00BW5STR28"
     },
     {
       "key": "EDIN:GBP",
@@ -25555,6 +25561,12 @@
       "name": "Hochschild Mining PLC",
       "currency": "GBP",
       "isin": "GB00B1FW5029"
+    },
+    {
+      "key": "HODL:GBP",
+      "name": "B HODL PLC",
+      "currency": "GBP",
+      "isin": "IM00BV6P5N30"
     },
     {
       "key": "HODO:USD",
@@ -34311,6 +34323,12 @@
       "isin": null
     },
     {
+      "key": "MNTL:GBP",
+      "name": "Technology Minerals PLC",
+      "currency": "GBP",
+      "isin": "GB00BWYF7709"
+    },
+    {
       "key": "MNTN:USD:MNTNINC",
       "name": "MNTN Inc",
       "currency": "USD",
@@ -40885,6 +40903,12 @@
       "name": "Phathom Pharmaceuticals",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "PHE:GBP",
+      "name": "Powerhouse Energy Group PLC",
+      "currency": "GBP",
+      "isin": "GB00B4WQVY43"
     },
     {
       "key": "PHG:USD",
