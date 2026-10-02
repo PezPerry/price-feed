@@ -6537,12 +6537,6 @@
       "isin": null
     },
     {
-      "key": "AXE:CAD",
-      "name": "Acceleware Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AXFOS:SEK",
       "name": "Axfood AB",
       "currency": "SEK",
@@ -17043,12 +17037,6 @@
       "isin": "FR0014008VX5"
     },
     {
-      "key": "EARN:GBP",
-      "name": "EARNZ PLC",
-      "currency": "GBP",
-      "isin": "GB00BRC2TB67"
-    },
-    {
       "key": "EARN:USD",
       "name": "Ellington Residential Mortgage REIT",
       "currency": "USD",
@@ -17341,12 +17329,6 @@
       "name": "Endurance Gold Corp.",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "EDGE:GBP",
-      "name": "Falconedge PLC",
-      "currency": "GBP",
-      "isin": "GB00BW5STR28"
     },
     {
       "key": "EDIN:GBP",
@@ -23073,12 +23055,6 @@
       "isin": "GB00BRKD9Z53"
     },
     {
-      "key": "GLE:USD",
-      "name": "Global Engine Group Holding Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "GLED:USD",
       "name": "GalaxyEdge Acquisition Corp",
       "currency": "USD",
@@ -25581,12 +25557,6 @@
       "isin": "GB00B1FW5029"
     },
     {
-      "key": "HODL:GBP",
-      "name": "B HODL PLC",
-      "currency": "GBP",
-      "isin": "IM00BV6P5N30"
-    },
-    {
       "key": "HODO:USD",
       "name": "House of Doge Inc",
       "currency": "USD",
@@ -27895,12 +27865,6 @@
       "name": "Seco SpA",
       "currency": "EUR",
       "isin": "IT0005438046"
-    },
-    {
-      "key": "IOTR:USD",
-      "name": "iOThree Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "IOVA:USD",
@@ -40923,12 +40887,6 @@
       "isin": null
     },
     {
-      "key": "PHE:GBP",
-      "name": "Powerhouse Energy Group PLC",
-      "currency": "GBP",
-      "isin": "GB00B4WQVY43"
-    },
-    {
       "key": "PHG:USD",
       "name": "Koninklijke Philips Electronics NV",
       "currency": "USD",
@@ -46335,12 +46293,6 @@
       "isin": "CH0008742519"
     },
     {
-      "key": "SCNX:USD",
-      "name": "Scienture Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SCOR:USD",
       "name": "comScore Inc",
       "currency": "USD",
@@ -47209,12 +47161,6 @@
       "name": "SNP Schneider-Neureither & Partner SE",
       "currency": "EUR",
       "isin": "DE0007203705"
-    },
-    {
-      "key": "SHFS:USD",
-      "name": "SHF Holdings Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SHG:USD",
