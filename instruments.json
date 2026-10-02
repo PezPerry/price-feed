@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-01",
+  "as_of": "2026-10-02",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -2301,6 +2301,12 @@
       "isin": null
     },
     {
+      "key": "AEHL:USD",
+      "name": "Antelope Enterprise Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AEHR:USD",
       "name": "Aehr Test Systems",
       "currency": "USD",
@@ -2982,6 +2988,12 @@
       "key": "AIM:CAD",
       "name": "Aimia Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "AIMD:USD",
+      "name": "Ainos Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -4187,6 +4199,12 @@
     {
       "key": "AMN:USD",
       "name": "AMN Healthcare Services Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "AMOD:USD",
+      "name": "Alpha Modus Holdings Inc",
       "currency": "USD",
       "isin": null
     },
@@ -6534,6 +6552,12 @@
       "key": "AXB:USD",
       "name": "Axis Bank Ltd",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "AXE:CAD",
+      "name": "Acceleware Ltd",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -12603,12 +12627,6 @@
       "isin": null
     },
     {
-      "key": "CLWT:USD",
-      "name": "Euro Tech Holdings Co Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "CLX:GBP",
       "name": "Calnex Solutions PLC",
       "currency": "GBP",
@@ -12769,6 +12787,12 @@
       "name": "CML Microsystems PLC",
       "currency": "GBP",
       "isin": "GB0001602944"
+    },
+    {
+      "key": "CMMB:USD",
+      "name": "Chemomab Therapeutics Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "CMP:USD",
@@ -20715,6 +20739,12 @@
       "isin": "AT00000VIE62"
     },
     {
+      "key": "FLUX:USD",
+      "name": "Flux Power Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "FLUXB:EUR",
       "name": "Fluxys Belgium SA",
       "currency": "EUR",
@@ -21406,6 +21436,12 @@
     },
     {
       "key": "FSEA:USD",
+      "name": "First Seacoast Bancorp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "FSEA#1:USD",
       "name": "First Seacoast Bancorp",
       "currency": "USD",
       "isin": null
@@ -23628,12 +23664,6 @@
       "key": "GPRO:USD",
       "name": "GoPro Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GPS:CAD",
-      "name": "Great Plains Metals Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -27741,6 +27771,12 @@
       "isin": null
     },
     {
+      "key": "INUV:USD",
+      "name": "Inuvo Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "INV:GBP",
       "name": "Investment Company (The) PLC",
       "currency": "GBP",
@@ -28291,6 +28327,12 @@
       "name": "Italmobiliare SpA",
       "currency": "EUR",
       "isin": "IT0005253205"
+    },
+    {
+      "key": "ITOC:USD",
+      "name": "iTonic Holdings Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "ITPP:EUR",
@@ -34107,12 +34149,6 @@
       "isin": null
     },
     {
-      "key": "MMA:USD",
-      "name": "Mixed Martial Arts Group Ltd",
-      "currency": "USD",
-      "isin": "AU0000319329"
-    },
-    {
       "key": "MMBP:EUR",
       "name": "Lagardere SA",
       "currency": "EUR",
@@ -37449,6 +37485,12 @@
       "isin": null
     },
     {
+      "key": "NSTR:USD",
+      "name": "NorthStar Earth & Space Enterprises Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "NSTS:USD",
       "name": "NSTS Bancorp Inc",
       "currency": "USD",
@@ -39147,12 +39189,6 @@
       "isin": "FI4000410881"
     },
     {
-      "key": "OPTT:USD",
-      "name": "Ocean Power Technologies Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "OPTU:USD",
       "name": "Optimum Communications Inc",
       "currency": "USD",
@@ -40707,6 +40743,12 @@
       "isin": "GG00B28C2R28"
     },
     {
+      "key": "PEZM.H:CAD",
+      "name": "Pezm Gold Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "PFAI:USD",
       "name": "Pinnacle Food Group Ltd",
       "currency": "USD",
@@ -41225,12 +41267,6 @@
     {
       "key": "PLAB:USD",
       "name": "Photronics Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "PLAG:USD",
-      "name": "Planet Green Holdings Corp",
       "currency": "USD",
       "isin": null
     },
@@ -56814,6 +56850,12 @@
       "key": "WSHP:USD",
       "name": "WeShop Holdings Ltd",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "WSK:CAD",
+      "name": "Wildsky Resources Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
