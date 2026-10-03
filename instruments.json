@@ -8241,12 +8241,6 @@
       "isin": "DK0011048619"
     },
     {
-      "key": "BIOT:USD",
-      "name": "Instinct Bio Technical Company Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BIOVZ:CHF",
       "name": "BioVersys AG",
       "currency": "CHF",
@@ -13281,12 +13275,6 @@
       "isin": null
     },
     {
-      "key": "COLA:USD",
-      "name": "Columbus Acquisition Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "COLB:USD",
       "name": "Columbia Banking System",
       "currency": "USD",
@@ -15045,12 +15033,6 @@
       "isin": null
     },
     {
-      "key": "CYM:CAD",
-      "name": "Cymat Technologies Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CYN:GBP",
       "name": "City Natural Resources Growth and Income PLC",
       "currency": "GBP",
@@ -15198,12 +15180,6 @@
       "key": "DAO:USD",
       "name": "Youdao Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "DAR:CAD",
-      "name": "Darelle Online Solutions Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -21435,12 +21411,6 @@
       "isin": null
     },
     {
-      "key": "FSEA:USD",
-      "name": "First Seacoast Bancorp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FSEA#1:USD",
       "name": "First Seacoast Bancorp",
       "currency": "USD",
@@ -24813,12 +24783,6 @@
       "isin": null
     },
     {
-      "key": "HCM.H:CAD",
-      "name": "Highcliff Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "HCMA:USD",
       "name": "Hcm III Acquisition Corp",
       "currency": "USD",
@@ -26171,12 +26135,6 @@
     {
       "key": "HUCK:USD",
       "name": "Huckleberry.ai Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "HUDI:USD",
-      "name": "Huadi International Group Co Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -28599,12 +28557,6 @@
       "isin": "IE00B4Q5ZN47"
     },
     {
-      "key": "JBDI:USD",
-      "name": "JBDI Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "JBGS:USD",
       "name": "JBG SMITH Properties",
       "currency": "USD",
@@ -29793,12 +29745,6 @@
       "isin": "GB00BMHVL512"
     },
     {
-      "key": "KLARBS:SEK",
-      "name": "Klarabo Sverige AB",
-      "currency": "SEK",
-      "isin": "SE0010832287"
-    },
-    {
       "key": "KLC:USD",
       "name": "KinderCare Learning Companies Inc",
       "currency": "USD",
@@ -30343,12 +30289,6 @@
       "name": "Kerry Group PLC",
       "currency": "EUR",
       "isin": "IE0004906560"
-    },
-    {
-      "key": "KSCD:EUR",
-      "name": "KPS AG",
-      "currency": "EUR",
-      "isin": "DE000A1A6V48"
     },
     {
       "key": "KSCP:USD",
@@ -32559,12 +32499,6 @@
       "isin": null
     },
     {
-      "key": "MAGA.H:CAD",
-      "name": "Patriot Resources Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "MAGH:USD",
       "name": "Magnitude International Ltd",
       "currency": "USD",
@@ -32897,12 +32831,6 @@
     {
       "key": "MBOT:USD",
       "name": "Microbot Medical Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "MBRX:USD",
-      "name": "Moleculin Biotech Inc",
       "currency": "USD",
       "isin": null
     },
@@ -33723,12 +33651,6 @@
       "isin": null
     },
     {
-      "key": "MGRX:USD",
-      "name": "Mangoceuticals Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MGTX:USD",
       "name": "MeiraGTx Holdings PLC",
       "currency": "USD",
@@ -33883,12 +33805,6 @@
       "name": "Mikron Holding AG",
       "currency": "CHF",
       "isin": "CH0003390066"
-    },
-    {
-      "key": "MILA:GBP",
-      "name": "Mila Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BD4FCK53"
     },
     {
       "key": "MILDES:SEK",
@@ -37499,12 +37415,6 @@
     {
       "key": "NSTR:USD",
       "name": "NorthStar Earth & Space Enterprises Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "NSTS:USD",
-      "name": "NSTS Bancorp Inc",
       "currency": "USD",
       "isin": null
     },
@@ -42747,12 +42657,6 @@
       "isin": null
     },
     {
-      "key": "PVIS:CAD",
-      "name": "Parvis Invest Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "PVL:USD",
       "name": "Permianville Royalty Trust",
       "currency": "USD",
@@ -43081,12 +42985,6 @@
       "name": "Quantum BioPharma Ltd",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "QPR1VH:EUR",
-      "name": "QPR Software Oyj",
-      "currency": "EUR",
-      "isin": "FI0009008668"
     },
     {
       "key": "QQ.:GBP",
@@ -47742,12 +47640,6 @@
       "key": "SKM:USD",
       "name": "SK Telecom Co Ltd",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SKP:CAD",
-      "name": "Strikepoint Gold Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -54291,12 +54183,6 @@
       "isin": null
     },
     {
-      "key": "VACI:USD",
-      "name": "Viking Acquisition Corp I",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "VACNZ:CHF",
       "name": "VAT Group AG",
       "currency": "CHF",
@@ -57427,12 +57313,6 @@
       "name": "Xerox Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "XSG:GBP",
-      "name": "Xeros Technology Group PLC",
-      "currency": "GBP",
-      "isin": "GB00BMGYBJ57"
     },
     {
       "key": "XSLL:USD",
