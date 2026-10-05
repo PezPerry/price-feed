@@ -7545,6 +7545,12 @@
       "isin": null
     },
     {
+      "key": "BEA:CAD",
+      "name": "Belmont Resources Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BEAG:USD",
       "name": "Bold Eagle Acquisition Corp",
       "currency": "USD",
@@ -10861,6 +10867,12 @@
       "name": "Catena AB",
       "currency": "SEK",
       "isin": "SE0001664707"
+    },
+    {
+      "key": "CATL:USD",
+      "name": "Catalyst Acquisition Corp",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "CATO:USD",
@@ -30321,6 +30333,12 @@
       "isin": "IE0004906560"
     },
     {
+      "key": "KSCD:EUR",
+      "name": "KPS AG",
+      "currency": "EUR",
+      "isin": "DE000A1A6V48"
+    },
+    {
       "key": "KSCP:USD",
       "name": "Knightscope Inc",
       "currency": "USD",
@@ -37233,6 +37251,12 @@
       "isin": null
     },
     {
+      "key": "NPS:CAD",
+      "name": "Canadian Large Cap Leaders Split Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "NPT:USD",
       "name": "Texxon Holding Ltd",
       "currency": "USD",
@@ -41229,6 +41253,12 @@
       "isin": null
     },
     {
+      "key": "PLAG:USD",
+      "name": "Planet Green Holdings Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "PLAN:CAD",
       "name": "Progressive Planet Solutions Inc",
       "currency": "CAD",
@@ -43021,6 +43051,12 @@
       "name": "Quantum BioPharma Ltd",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "QPR1VH:EUR",
+      "name": "QPR Software Oyj",
+      "currency": "EUR",
+      "isin": "FI0009008668"
     },
     {
       "key": "QQ.:GBP",
@@ -46621,6 +46657,12 @@
       "name": "Seeing Machines Ltd",
       "currency": "GBP",
       "isin": "AU0000XINAJ0"
+    },
+    {
+      "key": "SEED:USD",
+      "name": "Origin Agritech Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "SEER:USD",
