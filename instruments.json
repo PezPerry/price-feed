@@ -17037,6 +17037,12 @@
       "isin": "FR0014008VX5"
     },
     {
+      "key": "EARN:GBP",
+      "name": "EARNZ PLC",
+      "currency": "GBP",
+      "isin": "GB00BRC2TB67"
+    },
+    {
       "key": "EARN:USD",
       "name": "Ellington Residential Mortgage REIT",
       "currency": "USD",
@@ -34387,6 +34393,12 @@
       "name": "Molina Healthcare",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "MOL:GBP",
+      "name": "Molecule Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BTQLZH16"
     },
     {
       "key": "MOLM:EUR",
