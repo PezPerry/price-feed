@@ -693,12 +693,6 @@
       "isin": "LU1250154413"
     },
     {
-      "key": "0RA2:EUR",
-      "name": "Poxel SA",
-      "currency": "EUR",
-      "isin": "FR0012432516"
-    },
-    {
       "key": "0RA8:EUR",
       "name": "Elis Services SA",
       "currency": "EUR",
@@ -8775,12 +8769,6 @@
       "isin": "IL0011832438"
     },
     {
-      "key": "BMRA:USD",
-      "name": "Biomerica Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BMRC:USD",
       "name": "Bank of Marin Bancorp",
       "currency": "USD",
@@ -12153,12 +12141,6 @@
       "isin": "GG00BGJYPP46"
     },
     {
-      "key": "CHS:CAD",
-      "name": "Comprehensive Healthcare Systems Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CHT:USD",
       "name": "Chunghwa Telecom Co Ltd",
       "currency": "USD",
@@ -15069,12 +15051,6 @@
       "isin": "GB0000353929"
     },
     {
-      "key": "CYN:USD",
-      "name": "Cyngn Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "CYNCAS:SEK",
       "name": "Cynca Nordic AB",
       "currency": "SEK",
@@ -15473,12 +15449,6 @@
     {
       "key": "DDOG:USD",
       "name": "Datadog Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "DDS:USD",
-      "name": "Dillard's Inc",
       "currency": "USD",
       "isin": null
     },
@@ -17373,12 +17343,6 @@
       "isin": null
     },
     {
-      "key": "EDGE:GBP",
-      "name": "Falconedge PLC",
-      "currency": "GBP",
-      "isin": "GB00BW5STR28"
-    },
-    {
       "key": "EDIN:GBP",
       "name": "Edinburgh Investment Trust (The) PLC",
       "currency": "GBP",
@@ -17485,6 +17449,12 @@
       "name": "EDX Medical Group PLC",
       "currency": "GBP",
       "isin": "GB00BNDMJS47"
+    },
+    {
+      "key": "EDY:CAD",
+      "name": "Eddy Smart Home Solutions Ltd",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "EE:USD",
@@ -19134,12 +19104,6 @@
       "key": "ET:CAD",
       "name": "Evertz Technologies Limited",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "ET:USD",
-      "name": "Energy Transfer LP",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -21453,12 +21417,6 @@
       "isin": null
     },
     {
-      "key": "FSEA#1:USD",
-      "name": "First Seacoast Bancorp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FSEA#1#1:USD",
       "name": "First Seacoast Bancorp",
       "currency": "USD",
@@ -21659,12 +21617,6 @@
     {
       "key": "FTHA:USD",
       "name": "Forefront Tech Holdings Acquisition Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "FTHM:USD",
-      "name": "Fathom Holdings Inc",
       "currency": "USD",
       "isin": null
     },
@@ -22932,12 +22884,6 @@
       "key": "GIFT:USD",
       "name": "Giftify Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GIGA:CAD",
-      "name": "Giga Metals Corporation",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -24855,12 +24801,6 @@
       "isin": null
     },
     {
-      "key": "HCTI:USD",
-      "name": "Healthcare Triangle Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "HD:USD",
       "name": "Home Depot Inc (The)",
       "currency": "USD",
@@ -25615,12 +25555,6 @@
       "name": "Hochschild Mining PLC",
       "currency": "GBP",
       "isin": "GB00B1FW5029"
-    },
-    {
-      "key": "HODL:GBP",
-      "name": "B HODL PLC",
-      "currency": "GBP",
-      "isin": "IM00BV6P5N30"
     },
     {
       "key": "HODO:USD",
@@ -29454,6 +29388,12 @@
       "key": "KDP:USD",
       "name": "Keurig Dr Pepper Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "KDSX:CAD",
+      "name": "Kadestone Capital Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -40929,12 +40869,6 @@
       "isin": null
     },
     {
-      "key": "PHE:GBP",
-      "name": "Powerhouse Energy Group PLC",
-      "currency": "GBP",
-      "isin": "GB00B4WQVY43"
-    },
-    {
       "key": "PHG:USD",
       "name": "Koninklijke Philips Electronics NV",
       "currency": "USD",
@@ -41827,12 +41761,6 @@
       "name": "Outdoor Holding Co",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "POXELP:EUR",
-      "name": "Poxel SA",
-      "currency": "EUR",
-      "isin": "FR0012432516"
     },
     {
       "key": "PPC:USD",
@@ -49221,12 +49149,6 @@
       "isin": "FI4000523675"
     },
     {
-      "key": "SRVL:GBP",
-      "name": "Serval Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BVRY1W08"
-    },
-    {
       "key": "SRZN:USD",
       "name": "Surrozen Inc",
       "currency": "USD",
@@ -49925,12 +49847,6 @@
     {
       "key": "SUMA:USD",
       "name": "Suma Acquisition Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SUN:USD",
-      "name": "Sunoco LP",
       "currency": "USD",
       "isin": null
     },
@@ -54015,12 +53931,6 @@
       "isin": "GB00BDFGHW41"
     },
     {
-      "key": "USAC:USD",
-      "name": "USA Compression Partners LP",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "USAC#1:USD",
       "name": "USA Compression Partners LP",
       "currency": "USD",
@@ -55665,12 +55575,6 @@
       "isin": null
     },
     {
-      "key": "VUL:GBP",
-      "name": "Vulcan Two Group PLC",
-      "currency": "GBP",
-      "isin": "GB00BTQLZH16"
-    },
-    {
       "key": "VUP:EUR",
       "name": "Vusion/France",
       "currency": "EUR",
@@ -55831,12 +55735,6 @@
       "name": "Western Alliance Bancorp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "WALD:USD",
-      "name": "Waldencast Acquisition Corp",
-      "currency": "USD",
-      "isin": "JE00BPG99318"
     },
     {
       "key": "WALD#1:USD",
@@ -56465,12 +56363,6 @@
     {
       "key": "WKC:USD",
       "name": "World Kinect Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "WKEY:USD",
-      "name": "WISeKey International Holding Ltd",
       "currency": "USD",
       "isin": null
     },
