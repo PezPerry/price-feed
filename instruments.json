@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-05",
+  "as_of": "2026-10-06",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -2349,12 +2349,6 @@
       "isin": null
     },
     {
-      "key": "AEMC:CAD",
-      "name": "Alaska Energy Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AENAE:EUR",
       "name": "Aena SME SA",
       "currency": "EUR",
@@ -2988,6 +2982,12 @@
       "key": "AIM:CAD",
       "name": "Aimia Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "AIMD:USD",
+      "name": "Ainos Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -8325,12 +8325,6 @@
       "isin": null
     },
     {
-      "key": "BIYA:USD",
-      "name": "Baiya International Group Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BJ:USD",
       "name": "BJ's Wholesale Club Holdings Inc",
       "currency": "USD",
@@ -12141,6 +12135,12 @@
       "isin": "GG00BGJYPP46"
     },
     {
+      "key": "CHS:CAD",
+      "name": "Comprehensive Healthcare Systems Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CHT:USD",
       "name": "Chunghwa Telecom Co Ltd",
       "currency": "USD",
@@ -12617,12 +12617,6 @@
     {
       "key": "CLW:USD",
       "name": "Clearwater Paper Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CLWT:USD",
-      "name": "Euro Tech Holdings Co Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -15453,12 +15447,6 @@
       "isin": null
     },
     {
-      "key": "DDS#1:USD",
-      "name": "Dillard's Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "DE:CAD",
       "name": "Decisive Dividend Corporation",
       "currency": "CAD",
@@ -16775,12 +16763,6 @@
     {
       "key": "DTSQ:USD",
       "name": "DT Cloud Star Acquisition Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "DTSS:USD",
-      "name": "Datasea Intelligent Technology Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -19107,12 +19089,6 @@
       "isin": null
     },
     {
-      "key": "ET#1:USD",
-      "name": "Energy Transfer LP",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "ETD:USD",
       "name": "Ethan Allen Interiors Inc",
       "currency": "USD",
@@ -21413,12 +21389,6 @@
     {
       "key": "FSCO:USD",
       "name": "FS Credit Opportunities Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "FSEA#1#1:USD",
-      "name": "First Seacoast Bancorp",
       "currency": "USD",
       "isin": null
     },
@@ -23817,6 +23787,12 @@
       "isin": null
     },
     {
+      "key": "GRMI:CAD",
+      "name": "Global Receivables Management Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GRML:USD",
       "name": "Greenland Mines Ltd",
       "currency": "USD",
@@ -24107,12 +24083,6 @@
     {
       "key": "GT:USD",
       "name": "Goodyear Tire & Rubber Co (The)",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GTBP:USD",
-      "name": "GT Biopharma Inc",
       "currency": "USD",
       "isin": null
     },
@@ -27288,6 +27258,12 @@
       "key": "IMPP:USD",
       "name": "Imperial Petroleum Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "IMR:CAD",
+      "name": "Imetal Resources Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -32415,12 +32391,6 @@
       "isin": "IM00BLCY1J27"
     },
     {
-      "key": "LZMH:USD",
-      "name": "LZ Technology Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "M:USD",
       "name": "Macy's Inc",
       "currency": "USD",
@@ -33588,12 +33558,6 @@
       "key": "MGM:USD",
       "name": "MGM Resorts International",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "MGMA:CAD",
-      "name": "Magma Silver Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -38671,6 +38635,12 @@
       "name": "OKYO Pharma Ltd",
       "currency": "USD",
       "isin": "GG00BMFG5F62"
+    },
+    {
+      "key": "OLB:USD",
+      "name": "OLB Group Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "OLED:USD",
@@ -44073,12 +44043,6 @@
       "isin": "FR0000121121"
     },
     {
-      "key": "RFX:CAD",
-      "name": "Reeflex Solutions Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RFX:GBP",
       "name": "Ramsdens Holdings PLC",
       "currency": "GBP",
@@ -44863,12 +44827,6 @@
       "name": "Laboratorios Farmaceuticos Rovi SA",
       "currency": "EUR",
       "isin": "ES0157261019"
-    },
-    {
-      "key": "ROX:CAD",
-      "name": "Canstar Resources Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "ROZ:CHF",
@@ -47709,6 +47667,12 @@
       "isin": null
     },
     {
+      "key": "SKYD:USD",
+      "name": "Skydance Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SKYH:USD",
       "name": "Sky Harbour Group Corp",
       "currency": "USD",
@@ -49161,6 +49125,12 @@
       "isin": "FI4000523675"
     },
     {
+      "key": "SRVL:GBP",
+      "name": "Serval Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BVRY1W08"
+    },
+    {
       "key": "SRZN:USD",
       "name": "Surrozen Inc",
       "currency": "USD",
@@ -49859,12 +49829,6 @@
     {
       "key": "SUMA:USD",
       "name": "Suma Acquisition Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SUN#1:USD",
-      "name": "Sunoco LP",
       "currency": "USD",
       "isin": null
     },
@@ -52005,12 +51969,6 @@
       "isin": null
     },
     {
-      "key": "TNMG:USD",
-      "name": "TNL Mediagene",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "TNOMH:EUR",
       "name": "Talenom Oyj",
       "currency": "EUR",
@@ -53949,12 +53907,6 @@
       "isin": "GB00BDFGHW41"
     },
     {
-      "key": "USAC#1:USD",
-      "name": "USA Compression Partners LP",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "USAR:USD",
       "name": "USA Rare Earth Inc",
       "currency": "USD",
@@ -55755,12 +55707,6 @@
       "isin": null
     },
     {
-      "key": "WALD#1:USD",
-      "name": "Waldencast Acquisition Corp",
-      "currency": "USD",
-      "isin": "JE00BPG99318"
-    },
-    {
       "key": "WALLBS:SEK",
       "name": "Wallenstam AB",
       "currency": "SEK",
@@ -56778,12 +56724,6 @@
       "key": "WSHP:USD",
       "name": "WeShop Holdings Ltd",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "WSK:CAD",
-      "name": "Wildsky Resources Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
