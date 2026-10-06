@@ -32793,6 +32793,12 @@
       "isin": "IT0000062957"
     },
     {
+      "key": "MBO:CAD",
+      "name": "Mobio Technologies Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "MBOT:USD",
       "name": "Microbot Medical Inc",
       "currency": "USD",
@@ -33558,6 +33564,12 @@
       "key": "MGM:USD",
       "name": "MGM Resorts International",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MGMA:CAD",
+      "name": "Magma Silver Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
