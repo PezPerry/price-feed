@@ -25557,6 +25557,12 @@
       "isin": "GB00B1FW5029"
     },
     {
+      "key": "HODL:GBP",
+      "name": "B HODL PLC",
+      "currency": "GBP",
+      "isin": "IM00BV6P5N30"
+    },
+    {
       "key": "HODO:USD",
       "name": "House of Doge Inc",
       "currency": "USD",
@@ -40869,6 +40875,12 @@
       "isin": null
     },
     {
+      "key": "PHE:GBP",
+      "name": "Powerhouse Energy Group PLC",
+      "currency": "GBP",
+      "isin": "GB00B4WQVY43"
+    },
+    {
       "key": "PHG:USD",
       "name": "Koninklijke Philips Electronics NV",
       "currency": "USD",
@@ -53767,6 +53779,12 @@
       "name": "Unity Bancorp Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "UOG:GBP",
+      "name": "United Oil & Gas PLC",
+      "currency": "GBP",
+      "isin": "GB00BYX0MB92"
     },
     {
       "key": "UONEK:USD",
