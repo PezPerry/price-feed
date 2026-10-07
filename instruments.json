@@ -5331,6 +5331,12 @@
       "isin": "GB00BNXM3P96"
     },
     {
+      "key": "ARTCU:USD",
+      "name": "Art Technology Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ARTE:EUR",
       "name": "Arteche Lantegi Elkartea SA",
       "currency": "EUR",
@@ -12477,6 +12483,12 @@
       "isin": "GB00BF044593"
     },
     {
+      "key": "CLIC:CAD",
+      "name": "X Terra Resources Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CLIG:GBP",
       "name": "City of London Investment Group PLC",
       "currency": "GBP",
@@ -15653,6 +15665,12 @@
     {
       "key": "DFN:CAD",
       "name": "Dividend 15 Split Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "DFR:CAD",
+      "name": "Diamond Fields Resources Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -27403,6 +27421,12 @@
       "name": "Informa PLC",
       "currency": "GBP",
       "isin": "GB00BMJ6DW54"
+    },
+    {
+      "key": "INFOZ:CHF",
+      "name": "Perrot Duval Holding SA",
+      "currency": "CHF",
+      "isin": "CH0252620700"
     },
     {
       "key": "INFP:EUR",
@@ -43539,6 +43563,12 @@
       "isin": "IT0004931496"
     },
     {
+      "key": "RCT:USD",
+      "name": "RedCloud Holdings PLC",
+      "currency": "USD",
+      "isin": "GB00BMCD0001"
+    },
+    {
       "key": "RCUS:USD",
       "name": "Arcus Biosciences Inc",
       "currency": "USD",
@@ -50567,6 +50597,12 @@
     {
       "key": "TBCH:USD",
       "name": "Turtle Beach Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "TBCV:USD",
+      "name": "Thunder Bridge Capital Partners V Ltd",
       "currency": "USD",
       "isin": null
     },
