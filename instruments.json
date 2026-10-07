@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-06",
+  "as_of": "2026-10-07",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -1683,6 +1683,12 @@
       "isin": null
     },
     {
+      "key": "ACCV:USD",
+      "name": "Accelevation Holdings Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ACDC:USD",
       "name": "ProFrac Holding Corp",
       "currency": "USD",
@@ -2976,12 +2982,6 @@
       "key": "AIM:CAD",
       "name": "Aimia Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "AIMD:USD",
-      "name": "Ainos Inc",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -8313,6 +8313,12 @@
       "isin": null
     },
     {
+      "key": "BIYA:USD",
+      "name": "Baiya International Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BJ:USD",
       "name": "BJ's Wholesale Club Holdings Inc",
       "currency": "USD",
@@ -8500,6 +8506,12 @@
     },
     {
       "key": "BLFS:USD",
+      "name": "BioLife Solutions Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BLFS#1:USD",
       "name": "BioLife Solutions Inc",
       "currency": "USD",
       "isin": null
@@ -12137,6 +12149,12 @@
     {
       "key": "CHTR:USD",
       "name": "Charter Communications Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "CHWM:USD",
+      "name": "Chilwa Minerals Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -23565,12 +23583,6 @@
       "isin": null
     },
     {
-      "key": "GPS:CAD",
-      "name": "Great Plains Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GPUS:USD",
       "name": "Hyperscale Data Inc",
       "currency": "USD",
@@ -33177,12 +33189,6 @@
       "isin": null
     },
     {
-      "key": "MEDS:USD",
-      "name": "DataMeds AI Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MEDXZ:CHF",
       "name": "Medmix AG",
       "currency": "CHF",
@@ -33587,6 +33593,12 @@
     {
       "key": "MGRT:USD",
       "name": "Mega Fortune Co Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MGRX:USD",
+      "name": "Mangoceuticals Inc",
       "currency": "USD",
       "isin": null
     },
@@ -35915,6 +35927,12 @@
     {
       "key": "NCOOU:USD",
       "name": "Southern Cross Acquisition I Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "NCPL:USD",
+      "name": "Netcapital Inc",
       "currency": "USD",
       "isin": null
     },
@@ -38611,12 +38629,6 @@
       "name": "OKYO Pharma Ltd",
       "currency": "USD",
       "isin": "GG00BMFG5F62"
-    },
-    {
-      "key": "OLB:USD",
-      "name": "OLB Group Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "OLED:USD",
@@ -41447,6 +41459,12 @@
     {
       "key": "PN:USD",
       "name": "PN Smart Energy Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PNAQ:USD",
+      "name": "Pinnacle Acquisition Corp",
       "currency": "USD",
       "isin": null
     },
@@ -45351,6 +45369,12 @@
       "isin": null
     },
     {
+      "key": "RZAI:USD",
+      "name": "Roze AI Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "RZL:CAD",
       "name": "Rzolv Technologies Inc",
       "currency": "CAD",
@@ -46507,12 +46531,6 @@
       "name": "Seeing Machines Ltd",
       "currency": "GBP",
       "isin": "AU0000XINAJ0"
-    },
-    {
-      "key": "SEED:USD",
-      "name": "Origin Agritech Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SEER:USD",
@@ -47799,6 +47817,12 @@
       "isin": null
     },
     {
+      "key": "SLP#1:USD",
+      "name": "Simulations Plus Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SLPBS:SEK",
       "name": "Swedish Logistic Property AB",
       "currency": "SEK",
@@ -48682,6 +48706,12 @@
     },
     {
       "key": "SPKL:USD",
+      "name": "Spark I Acquisition Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SPKL#1:USD",
       "name": "Spark I Acquisition Corp",
       "currency": "USD",
       "isin": null
@@ -55545,6 +55575,12 @@
       "isin": null
     },
     {
+      "key": "VYLR:USD",
+      "name": "Vylor Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "VYX:USD",
       "name": "NCR Voyix Corp",
       "currency": "USD",
@@ -55726,6 +55762,12 @@
     },
     {
       "key": "WBD:USD",
+      "name": "Warner Bros Discovery Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "WBD#1:USD",
       "name": "Warner Bros Discovery Inc",
       "currency": "USD",
       "isin": null
@@ -57499,6 +57541,12 @@
       "name": "Young & Co's Brewery PLC",
       "currency": "GBP",
       "isin": "GB00B2NDK989"
+    },
+    {
+      "key": "YNV:CAD",
+      "name": "Ynvisible Interactive Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "YOCD:EUR",
