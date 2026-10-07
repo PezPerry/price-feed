@@ -2217,12 +2217,6 @@
       "isin": "NL0012969182"
     },
     {
-      "key": "ADZ:CAD",
-      "name": "Adamera Minerals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AE:CAD",
       "name": "American Eagle Gold Corp",
       "currency": "CAD",
@@ -7893,12 +7887,6 @@
       "isin": "GB0003656021"
     },
     {
-      "key": "BGD:CAD",
-      "name": "Bullion Gold Discoveries Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "BGDE:USD",
       "name": "Big Digital Energy Inc",
       "currency": "USD",
@@ -12471,12 +12459,6 @@
       "isin": "GB00BF044593"
     },
     {
-      "key": "CLIC:CAD",
-      "name": "X Terra Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CLIG:GBP",
       "name": "City of London Investment Group PLC",
       "currency": "GBP",
@@ -12785,12 +12767,6 @@
     {
       "key": "CMMB:USD",
       "name": "Chemomab Therapeutics Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CMND:USD",
-      "name": "Clearmind Medicine Inc",
       "currency": "USD",
       "isin": null
     },
@@ -17433,12 +17409,6 @@
       "isin": "GB00BNDMJS47"
     },
     {
-      "key": "EDY:CAD",
-      "name": "Eddy Smart Home Solutions Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "EE:USD",
       "name": "Excelerate Energy Inc",
       "currency": "USD",
@@ -18612,12 +18582,6 @@
       "key": "EPD:USD",
       "name": "Enterprise Products Partners LP",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "EPF:CAD",
-      "name": "Everyday People Financial Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -25525,12 +25489,6 @@
       "name": "Hochschild Mining PLC",
       "currency": "GBP",
       "isin": "GB00B1FW5029"
-    },
-    {
-      "key": "HODL:GBP",
-      "name": "B HODL PLC",
-      "currency": "GBP",
-      "isin": "IM00BV6P5N30"
     },
     {
       "key": "HODO:USD",
@@ -35205,12 +35163,6 @@
       "isin": null
     },
     {
-      "key": "MTVA:USD",
-      "name": "MetaVia Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MTVW:GBP",
       "name": "Mountview Estates PLC",
       "currency": "GBP",
@@ -35945,12 +35897,6 @@
     {
       "key": "NCOOU:USD",
       "name": "Southern Cross Acquisition I Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "NCPL:USD",
-      "name": "Netcapital Inc",
       "currency": "USD",
       "isin": null
     },
@@ -40653,12 +40599,6 @@
       "isin": "GG00B28C2R28"
     },
     {
-      "key": "PEZM.H:CAD",
-      "name": "Pezm Gold Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "PFAI:USD",
       "name": "Pinnacle Food Group Ltd",
       "currency": "USD",
@@ -42321,12 +42261,6 @@
       "isin": null
     },
     {
-      "key": "PSKY:USD",
-      "name": "Paramount Skydance Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "PSLV:CAD",
       "name": "Sprott Physical Silver Trust Cad",
       "currency": "CAD",
@@ -43011,12 +42945,6 @@
       "isin": null
     },
     {
-      "key": "QRVO:USD",
-      "name": "Qorvo Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "QS:USD",
       "name": "QuantumScape Corp",
       "currency": "USD",
@@ -43573,12 +43501,6 @@
       "name": "Rizzoli Corriere Della Sera Mediagroup SpA",
       "currency": "EUR",
       "isin": "IT0004931496"
-    },
-    {
-      "key": "RCT:USD",
-      "name": "RedCloud Holdings PLC",
-      "currency": "USD",
-      "isin": "GB00BMCD0001"
     },
     {
       "key": "RCUS:USD",
@@ -47640,12 +47562,6 @@
       "key": "SKM:USD",
       "name": "SK Telecom Co Ltd",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SKP:CAD",
-      "name": "Strikepoint Gold Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -57503,12 +57419,6 @@
     {
       "key": "YEXT:USD",
       "name": "Yext Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "YFOR:USD",
-      "name": "YYForce Inc",
       "currency": "USD",
       "isin": null
     },
