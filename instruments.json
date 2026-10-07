@@ -25491,6 +25491,12 @@
       "isin": "GB00B1FW5029"
     },
     {
+      "key": "HODL:GBP",
+      "name": "B HODL PLC",
+      "currency": "GBP",
+      "isin": "IM00BV6P5N30"
+    },
+    {
       "key": "HODO:USD",
       "name": "House of Doge Inc",
       "currency": "USD",
@@ -32757,6 +32763,12 @@
       "isin": null
     },
     {
+      "key": "MBO:GBP",
+      "name": "MobilityOne Ltd",
+      "currency": "GBP",
+      "isin": "JE00B1Z48326"
+    },
+    {
       "key": "MBOT:USD",
       "name": "Microbot Medical Inc",
       "currency": "USD",
@@ -34525,6 +34537,12 @@
       "name": "Medicure Inc",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "MPL:GBP",
+      "name": "Mercantile Ports & Logistics Ltd",
+      "currency": "GBP",
+      "isin": "GG00BKSH7R87"
     },
     {
       "key": "MPLT:USD",
@@ -43024,7 +43042,7 @@
     },
     {
       "key": "QTX:GBP",
-      "name": "Quartix Holdings PLC",
+      "name": "Quartix Technologies PLC",
       "currency": "GBP",
       "isin": "GB00BLZH2C83"
     },
