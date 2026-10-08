@@ -4971,12 +4971,6 @@
       "isin": null
     },
     {
-      "key": "ARAI:USD",
-      "name": "Arrive AI Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "ARAMIP:EUR",
       "name": "Aramis Group SAS",
       "currency": "EUR",
@@ -7767,12 +7761,6 @@
       "isin": null
     },
     {
-      "key": "BEZ:GBP",
-      "name": "Beazley PLC",
-      "currency": "GBP",
-      "isin": "GB00BYQ0JC66"
-    },
-    {
       "key": "BEZD:EUR",
       "name": "Berentzen-Gruppe AG",
       "currency": "EUR",
@@ -8507,12 +8495,6 @@
     {
       "key": "BLDR:USD",
       "name": "Builders FirstSource Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BLFS:USD",
-      "name": "BioLife Solutions Inc",
       "currency": "USD",
       "isin": null
     },
@@ -11271,12 +11253,6 @@
       "isin": null
     },
     {
-      "key": "CCMI:CAD",
-      "name": "Canadian Critical Minerals Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CCNE:USD",
       "name": "CNB Financial Corp",
       "currency": "USD",
@@ -13728,12 +13704,6 @@
       "key": "CQP:USD",
       "name": "Cheniere Energy Partners LP",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CQR:CAD",
-      "name": "Conquest Resources Ltd.",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -30489,12 +30459,6 @@
       "isin": null
     },
     {
-      "key": "LAB:CAD",
-      "name": "Labrador Gold Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "LAB:USD",
       "name": "Standard BioTools Inc",
       "currency": "USD",
@@ -33567,12 +33531,6 @@
       "isin": null
     },
     {
-      "key": "MGMA:CAD",
-      "name": "Magma Silver Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "MGNI:USD",
       "name": "Magnite Inc",
       "currency": "USD",
@@ -34573,12 +34531,6 @@
       "name": "Medicure Inc",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "MPL:GBP",
-      "name": "Mercantile Ports & Logistics Ltd",
-      "currency": "GBP",
-      "isin": "GG00BKSH7R87"
     },
     {
       "key": "MPLT:USD",
@@ -40851,12 +40803,6 @@
       "isin": null
     },
     {
-      "key": "PHE:GBP",
-      "name": "Powerhouse Energy Group PLC",
-      "currency": "GBP",
-      "isin": "GB00B4WQVY43"
-    },
-    {
       "key": "PHG:USD",
       "name": "Koninklijke Philips Electronics NV",
       "currency": "USD",
@@ -46449,12 +46395,6 @@
       "isin": null
     },
     {
-      "key": "SDR:GBP",
-      "name": "Schroders PLC",
-      "currency": "GBP",
-      "isin": "GB00BP9LHF23"
-    },
-    {
       "key": "SDRL:USD",
       "name": "Seadrill Ltd",
       "currency": "USD",
@@ -47631,6 +47571,12 @@
       "isin": null
     },
     {
+      "key": "SKP:CAD",
+      "name": "Strikepoint Gold Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SKP:EUR",
       "name": "SEB SA",
       "currency": "EUR",
@@ -47838,12 +47784,6 @@
       "key": "SLP:GBP",
       "name": "Sylvania Platinum Ltd",
       "currency": "GBP",
-      "isin": null
-    },
-    {
-      "key": "SLP:USD",
-      "name": "Simulations Plus Inc",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -48731,12 +48671,6 @@
     {
       "key": "SPIR:USD",
       "name": "Spire Global Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SPKL:USD",
-      "name": "Spark I Acquisition Corp",
       "currency": "USD",
       "isin": null
     },
@@ -50557,12 +50491,6 @@
       "name": "Thesis Gold Inc",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "TAVI:GBP",
-      "name": "Tavistock Investments PLC",
-      "currency": "GBP",
-      "isin": "GB00BLNMLS43"
     },
     {
       "key": "TAVI:USD",
@@ -55797,12 +55725,6 @@
       "isin": null
     },
     {
-      "key": "WBD:USD",
-      "name": "Warner Bros Discovery Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WBD#1:USD",
       "name": "Warner Bros Discovery Inc",
       "currency": "USD",
@@ -56107,12 +56029,6 @@
       "name": "Weatherford International PLC",
       "currency": "USD",
       "isin": "IE00BLNN3691"
-    },
-    {
-      "key": "WGF:CAD",
-      "name": "Wescan Goldfields Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "WGO:CAD",
