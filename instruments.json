@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-07",
+  "as_of": "2026-10-08",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -6531,6 +6531,12 @@
       "isin": null
     },
     {
+      "key": "AWX:USD",
+      "name": "Avalon Holdings Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AX:USD",
       "name": "Axos Financial Inc",
       "currency": "USD",
@@ -8495,18 +8501,6 @@
     {
       "key": "BLDR:USD",
       "name": "Builders FirstSource Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BLFS#1:USD",
-      "name": "BioLife Solutions Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BLIN:USD",
-      "name": "Bridgeline Digital Inc",
       "currency": "USD",
       "isin": null
     },
@@ -12115,12 +12109,6 @@
       "name": "Chrysalis Investment Ltd",
       "currency": "GBP",
       "isin": "GG00BGJYPP46"
-    },
-    {
-      "key": "CHS:CAD",
-      "name": "Comprehensive Healthcare Systems Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "CHT:USD",
@@ -16203,12 +16191,6 @@
       "isin": null
     },
     {
-      "key": "DNO:CAD",
-      "name": "Dinero Ventures Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "DNOO:NOK",
       "name": "DNO ASA",
       "currency": "NOK",
@@ -19444,7 +19426,7 @@
     },
     {
       "key": "EXENSP:EUR",
-      "name": "Exosens SAS",
+      "name": "Exosens SACA",
       "currency": "EUR",
       "isin": "FR001400Q9V2"
     },
@@ -19669,12 +19651,6 @@
       "name": "Fagerhult Group AB",
       "currency": "SEK",
       "isin": "SE0010048884"
-    },
-    {
-      "key": "FAIR:CAD",
-      "name": "Fairchild Gold Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "FAIR:EUR",
@@ -20801,6 +20777,12 @@
     {
       "key": "FMS:USD",
       "name": "Fresenius Medical Care AG & Co KGaA",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "FMST:USD",
+      "name": "Foremost Lithium Resource & Technology Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -23568,6 +23550,12 @@
       "key": "GPRO:USD",
       "name": "GoPro Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "GPS:CAD",
+      "name": "Great Plains Metals Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -33177,6 +33165,12 @@
       "isin": null
     },
     {
+      "key": "MEDS:USD",
+      "name": "DataMeds AI Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MEDXZ:CHF",
       "name": "Medmix AG",
       "currency": "CHF",
@@ -33579,12 +33573,6 @@
       "isin": null
     },
     {
-      "key": "MGRX:USD",
-      "name": "Mangoceuticals Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MGTX:USD",
       "name": "MeiraGTx Holdings PLC",
       "currency": "USD",
@@ -33739,6 +33727,12 @@
       "name": "Mikron Holding AG",
       "currency": "CHF",
       "isin": "CH0003390066"
+    },
+    {
+      "key": "MILA:GBP",
+      "name": "Mila Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BD4FCK53"
     },
     {
       "key": "MILDES:SEK",
@@ -37359,12 +37353,6 @@
       "isin": null
     },
     {
-      "key": "NSTR:USD",
-      "name": "NorthStar Earth & Space Enterprises Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "NSU:CAD",
       "name": "North Shore Uranium Ltd",
       "currency": "CAD",
@@ -38611,6 +38599,12 @@
       "name": "OKYO Pharma Ltd",
       "currency": "USD",
       "isin": "GG00BMFG5F62"
+    },
+    {
+      "key": "OLB:USD",
+      "name": "OLB Group Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "OLED:USD",
@@ -41454,12 +41448,6 @@
       "key": "PNC:USD",
       "name": "PNC Financial Services Group Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "PNC.B:CAD",
-      "name": "Postmedia Network Canada Corp CL B",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -47793,12 +47781,6 @@
       "isin": null
     },
     {
-      "key": "SLP#1:USD",
-      "name": "Simulations Plus Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SLPBS:SEK",
       "name": "Swedish Logistic Property AB",
       "currency": "SEK",
@@ -48237,12 +48219,6 @@
       "isin": "IL0010829161"
     },
     {
-      "key": "SNTI:USD",
-      "name": "Senti Biosciences Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SNTIAO:NOK",
       "name": "Sentia AS",
       "currency": "NOK",
@@ -48677,12 +48653,6 @@
     {
       "key": "SPIR:USD",
       "name": "Spire Global Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SPKL#1:USD",
-      "name": "Spark I Acquisition Corp",
       "currency": "USD",
       "isin": null
     },
@@ -50157,12 +50127,6 @@
       "isin": null
     },
     {
-      "key": "SXL:CAD",
-      "name": "Slam Exploration Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "SXP:CAD",
       "name": "Supremex Inc.",
       "currency": "CAD",
@@ -50614,6 +50578,12 @@
     },
     {
       "key": "TCBI:USD",
+      "name": "Texas Capital Bancshares Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "TCBI#1:USD",
       "name": "Texas Capital Bancshares Inc",
       "currency": "USD",
       "isin": null
@@ -53835,12 +53805,6 @@
       "isin": "FR0013326246"
     },
     {
-      "key": "URZ:CAD",
-      "name": "URZ Energy Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "USA:CAD",
       "name": "Americas Gold And Silver Corporation",
       "currency": "CAD",
@@ -55731,12 +55695,6 @@
       "isin": null
     },
     {
-      "key": "WBD#1:USD",
-      "name": "Warner Bros Discovery Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WBDM:EUR",
       "name": "Webuild SpA",
       "currency": "EUR",
@@ -57499,12 +57457,6 @@
       "name": "Young & Co's Brewery PLC",
       "currency": "GBP",
       "isin": "GB00B2NDK989"
-    },
-    {
-      "key": "YNV:CAD",
-      "name": "Ynvisible Interactive Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "YOCD:EUR",
