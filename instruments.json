@@ -7887,6 +7887,12 @@
       "isin": "GB0003656021"
     },
     {
+      "key": "BGD:CAD",
+      "name": "Bullion Gold Discoveries Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BGDE:USD",
       "name": "Big Digital Energy Inc",
       "currency": "USD",
@@ -12111,6 +12117,12 @@
       "isin": "GG00BGJYPP46"
     },
     {
+      "key": "CHS:CAD",
+      "name": "Comprehensive Healthcare Systems Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CHT:USD",
       "name": "Chunghwa Telecom Co Ltd",
       "currency": "USD",
@@ -13949,6 +13961,12 @@
     {
       "key": "CRML:USD",
       "name": "Critical Metals Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "CRMT:USD",
+      "name": "America's Car-Mart Inc",
       "currency": "USD",
       "isin": null
     },
@@ -22203,6 +22221,12 @@
       "isin": null
     },
     {
+      "key": "GCV:CAD",
+      "name": "Golden Star Capital Ventures Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GD:USD",
       "name": "General Dynamics Corp",
       "currency": "USD",
@@ -27216,6 +27240,12 @@
       "key": "IMR:CAD",
       "name": "Imetal Resources Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "IMRN:USD",
+      "name": "Immuron Ltd ADR",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -33525,6 +33555,12 @@
       "isin": null
     },
     {
+      "key": "MGMA:CAD",
+      "name": "Magma Silver Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "MGNI:USD",
       "name": "Magnite Inc",
       "currency": "USD",
@@ -39507,6 +39543,12 @@
       "isin": "FI0009002422"
     },
     {
+      "key": "OUTLTO:NOK",
+      "name": "Outlet Group Holding AS",
+      "currency": "NOK",
+      "isin": "NO0013757500"
+    },
+    {
       "key": "OVAROH:EUR",
       "name": "Ovaro Kiinteistosijoitus Oyj",
       "currency": "EUR",
@@ -41451,6 +41493,12 @@
       "isin": null
     },
     {
+      "key": "PNC.B:CAD",
+      "name": "Postmedia Network Canada Corp CL B",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "PNDORC:DKK",
       "name": "Pandora A/S",
       "currency": "DKK",
@@ -41760,6 +41808,12 @@
       "key": "PPLI:USD",
       "name": "People Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PPM:CAD",
+      "name": "Pacific Imperial Mines Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -56784,6 +56838,12 @@
       "key": "WVM:CAD",
       "name": "West Vault Mining Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "WVVI:USD",
+      "name": "Willamette Valley Vineyards Inc",
+      "currency": "USD",
       "isin": null
     },
     {
