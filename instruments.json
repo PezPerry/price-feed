@@ -34533,6 +34533,12 @@
       "isin": null
     },
     {
+      "key": "MPL:GBP",
+      "name": "Mercantile Ports & Logistics Ltd",
+      "currency": "GBP",
+      "isin": "GG00BKSH7R87"
+    },
+    {
       "key": "MPLT:USD",
       "name": "MapLight Therapeutics Inc",
       "currency": "USD",
