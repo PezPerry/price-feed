@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-08",
+  "as_of": "2026-10-09",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -9861,12 +9861,6 @@
       "isin": null
     },
     {
-      "key": "BTOC:USD",
-      "name": "Armlogi Holding Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BTQ:USD",
       "name": "BTQ Technologies Corp",
       "currency": "USD",
@@ -12597,6 +12591,12 @@
       "isin": null
     },
     {
+      "key": "CLWT:USD",
+      "name": "Euro Tech Holdings Co Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CLX:GBP",
       "name": "Calnex Solutions PLC",
       "currency": "GBP",
@@ -15144,6 +15144,12 @@
       "key": "DAO:USD",
       "name": "Youdao Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "DAR:CAD",
+      "name": "Darelle Online Solutions Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -17889,6 +17895,12 @@
       "isin": null
     },
     {
+      "key": "ELOG:USD",
+      "name": "Eastern International Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ELOO:NOK",
       "name": "Elopak ASA",
       "currency": "NOK",
@@ -18389,6 +18401,12 @@
     {
       "key": "ENS:USD",
       "name": "EnerSys",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ENSC:USD",
+      "name": "Ensysce Biosciences Inc",
       "currency": "USD",
       "isin": null
     },
@@ -19645,6 +19663,12 @@
       "name": "Fagerhult Group AB",
       "currency": "SEK",
       "isin": "SE0010048884"
+    },
+    {
+      "key": "FAIR:CAD",
+      "name": "Fairchild Gold Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "FAIR:EUR",
@@ -20952,6 +20976,12 @@
       "key": "FORR:USD",
       "name": "Forrester Research Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "FORT:CAD",
+      "name": "Fort Technology Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -24011,12 +24041,6 @@
     {
       "key": "GSY:CAD",
       "name": "Goeasy Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "GT:CAD",
-      "name": "GT Resources Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -28749,12 +28773,6 @@
       "isin": null
     },
     {
-      "key": "JJ:CAD",
-      "name": "Jackpot Digital Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "JJSF:USD",
       "name": "J & J Snack Foods Corp",
       "currency": "USD",
@@ -30199,12 +30217,6 @@
       "name": "Kerry Group PLC",
       "currency": "EUR",
       "isin": "IE0004906560"
-    },
-    {
-      "key": "KSCD:EUR",
-      "name": "KPS AG",
-      "currency": "EUR",
-      "isin": "DE000A1A6V48"
     },
     {
       "key": "KSCP:USD",
@@ -31669,12 +31681,6 @@
       "name": "Lords Group Trading PLC",
       "currency": "GBP",
       "isin": "GB00BM9CLS53"
-    },
-    {
-      "key": "LOT:CAD",
-      "name": "Tomagold Corporation",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "LOT:USD",
@@ -36747,6 +36753,12 @@
       "isin": null
     },
     {
+      "key": "NMTC:USD",
+      "name": "NeuroOne Medical Technologies Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "NN:USD",
       "name": "NextNav Inc",
       "currency": "USD",
@@ -37657,12 +37669,6 @@
       "name": "Nova Ltd",
       "currency": "USD",
       "isin": "IL0010845571"
-    },
-    {
-      "key": "NVNI:USD",
-      "name": "Nvni Group Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "NVO:CAD",
@@ -43507,12 +43513,6 @@
       "name": "Rizzoli Corriere Della Sera Mediagroup SpA",
       "currency": "EUR",
       "isin": "IT0004931496"
-    },
-    {
-      "key": "RCT:USD",
-      "name": "RedCloud Holdings PLC",
-      "currency": "USD",
-      "isin": "GB00BMCD0001"
     },
     {
       "key": "RCUS:USD",
@@ -50133,6 +50133,12 @@
       "isin": null
     },
     {
+      "key": "SXL:CAD",
+      "name": "Slam Exploration Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SXP:CAD",
       "name": "Supremex Inc.",
       "currency": "CAD",
@@ -50581,12 +50587,6 @@
       "name": "TP ICAP PLC",
       "currency": "GBP",
       "isin": "JE00BMDZN391"
-    },
-    {
-      "key": "TCBI#1:USD",
-      "name": "Texas Capital Bancshares Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "TCBK:USD",
@@ -52777,12 +52777,6 @@
       "name": "TotalEnergies SE",
       "currency": "EUR",
       "isin": "FR0000120271"
-    },
-    {
-      "key": "TTG:CAD",
-      "name": "Trans Canada Gold Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "TTG:GBP",
@@ -55459,12 +55453,6 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
-    },
-    {
-      "key": "VUX:CAD",
-      "name": "Vital Energy Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "VUZI:USD",
