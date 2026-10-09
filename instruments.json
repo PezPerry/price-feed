@@ -3159,12 +3159,6 @@
       "isin": null
     },
     {
-      "key": "AKBMO:NOK",
-      "name": "Aker BioMarine ASA",
-      "currency": "NOK",
-      "isin": "NO0010886625"
-    },
-    {
       "key": "AKEP:EUR",
       "name": "Arkema SA",
       "currency": "EUR",
@@ -10527,12 +10521,6 @@
       "isin": null
     },
     {
-      "key": "CALC:USD",
-      "name": "CalciMedica Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "CALM:USD",
       "name": "Cal-Maine Foods Inc",
       "currency": "USD",
@@ -13905,12 +13893,6 @@
       "isin": "IE0001827041"
     },
     {
-      "key": "CRI:CAD",
-      "name": "Churchill Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CRI:USD",
       "name": "Carter's Inc",
       "currency": "USD",
@@ -15629,12 +15611,6 @@
     {
       "key": "DFIN:USD",
       "name": "Donnelley Financial Solutions Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "DFLI:USD",
-      "name": "Dragonfly Energy Holdings Corp",
       "currency": "USD",
       "isin": null
     },
@@ -20769,12 +20745,6 @@
       "isin": "SE0018040883"
     },
     {
-      "key": "FMN:CAD",
-      "name": "Fidelity Minerals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "FMNB:USD",
       "name": "Farmers National Banc Corp",
       "currency": "USD",
@@ -20982,12 +20952,6 @@
       "key": "FORR:USD",
       "name": "Forrester Research Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "FORT:CAD",
-      "name": "Fort Technology Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -25501,12 +25465,6 @@
       "name": "Hochschild Mining PLC",
       "currency": "GBP",
       "isin": "GB00B1FW5029"
-    },
-    {
-      "key": "HODL:GBP",
-      "name": "B HODL PLC",
-      "currency": "GBP",
-      "isin": "IM00BV6P5N30"
     },
     {
       "key": "HODO:USD",
@@ -33057,12 +33015,6 @@
       "isin": null
     },
     {
-      "key": "MDCX:USD",
-      "name": "Medicus Pharma Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MDFE:EUR",
       "name": "Duro Felguera SA",
       "currency": "EUR",
@@ -35943,6 +35895,12 @@
       "isin": null
     },
     {
+      "key": "NCP:CAD",
+      "name": "Nickel Creek Platinum Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "NCPL:USD",
       "name": "Netcapital Inc",
       "currency": "USD",
@@ -36785,12 +36743,6 @@
     {
       "key": "NMT:USD",
       "name": "Nuveen Massachusetts Premium Income Municipal Fund",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "NMTC:USD",
-      "name": "NeuroOne Medical Technologies Corp",
       "currency": "USD",
       "isin": null
     },
@@ -50629,12 +50581,6 @@
       "name": "TP ICAP PLC",
       "currency": "GBP",
       "isin": "JE00BMDZN391"
-    },
-    {
-      "key": "TCBI:USD",
-      "name": "Texas Capital Bancshares Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "TCBI#1:USD",
