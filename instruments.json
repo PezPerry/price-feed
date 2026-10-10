@@ -28773,6 +28773,12 @@
       "isin": null
     },
     {
+      "key": "JJ:CAD",
+      "name": "Jackpot Digital Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "JJSF:USD",
       "name": "J & J Snack Foods Corp",
       "currency": "USD",
@@ -56563,12 +56569,6 @@
       "name": "Wartsila OYJ Abp",
       "currency": "EUR",
       "isin": "FI0009003727"
-    },
-    {
-      "key": "WRX:CAD",
-      "name": "Western Resources Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "WS:USD",
