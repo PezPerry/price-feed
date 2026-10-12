@@ -15159,12 +15159,6 @@
       "isin": null
     },
     {
-      "key": "DAR:CAD",
-      "name": "Darelle Online Solutions Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "DAR:USD:DARGLOBAL",
       "name": "Dar Global PLC",
       "currency": "USD",
@@ -15635,12 +15629,6 @@
     {
       "key": "DFN:CAD",
       "name": "Dividend 15 Split Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "DFR:CAD",
-      "name": "Diamond Fields Resources Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -22224,12 +22212,6 @@
       "key": "GCTS:USD",
       "name": "GCT Semiconductor Holding Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GCV:CAD",
-      "name": "Golden Star Capital Ventures Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -28914,12 +28896,6 @@
       "key": "JPM:USD",
       "name": "JPMorgan Chase & Co",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "JPWR.H:CAD",
-      "name": "Jade Power Trust",
-      "currency": "CAD",
       "isin": null
     },
     {
