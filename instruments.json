@@ -50985,6 +50985,12 @@
       "isin": null
     },
     {
+      "key": "TERN:GBP",
+      "name": "Tern PLC",
+      "currency": "GBP",
+      "isin": "GB00BFPMV798"
+    },
+    {
       "key": "TESBB:EUR",
       "name": "Tessenderlo Group SA",
       "currency": "EUR",
