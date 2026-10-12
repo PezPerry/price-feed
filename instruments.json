@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-09",
+  "as_of": "2026-10-12",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -6525,12 +6525,6 @@
       "isin": null
     },
     {
-      "key": "AWX:USD",
-      "name": "Avalon Holdings Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AX:USD",
       "name": "Axos Financial Inc",
       "currency": "USD",
@@ -7134,6 +7128,12 @@
       "key": "BBB:CAD",
       "name": "Brixton Metals Corporation",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "BBCI:USD",
+      "name": "Bradbury Capital Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -8275,6 +8275,12 @@
       "name": "Birchcliff Energy Ltd.",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "BIRD:GBP",
+      "name": "Blackbird PLC",
+      "currency": "GBP",
+      "isin": "GB0004740477"
     },
     {
       "key": "BIRD:USD",
@@ -10279,6 +10285,12 @@
       "name": "BeyondSpring Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "BYW6D:EUR",
+      "name": "BayWa AG",
+      "currency": "EUR",
+      "isin": "DE0005194062"
     },
     {
       "key": "BZ:CAD",
@@ -16191,6 +16203,12 @@
       "isin": null
     },
     {
+      "key": "DNO:CAD",
+      "name": "Dinero Ventures Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "DNOO:NOK",
       "name": "DNO ASA",
       "currency": "NOK",
@@ -20235,12 +20253,6 @@
       "isin": null
     },
     {
-      "key": "FFU:CAD",
-      "name": "F4 Uranium Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "FG:USD",
       "name": "F&G Annuities & Life Inc",
       "currency": "USD",
@@ -22698,12 +22710,6 @@
       "key": "GGG:USD",
       "name": "Graco Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GGI:CAD",
-      "name": "Garibaldi Resources Corp.",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -25491,12 +25497,6 @@
       "isin": "GB00B1FW5029"
     },
     {
-      "key": "HODO:USD",
-      "name": "House of Doge Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "HOFIS:SEK",
       "name": "Hoist Finance AB",
       "currency": "SEK",
@@ -26057,12 +26057,6 @@
     {
       "key": "HUCK:USD",
       "name": "Huckleberry.ai Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "HUDI:USD",
-      "name": "Huadi International Group Co Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -27222,12 +27216,6 @@
       "key": "IMR:CAD",
       "name": "Imetal Resources Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "IMRN:USD",
-      "name": "Immuron Ltd ADR",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -29340,12 +29328,6 @@
       "key": "KDP:USD",
       "name": "Keurig Dr Pepper Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "KDSX:CAD",
-      "name": "Kadestone Capital Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -32481,12 +32463,6 @@
       "isin": null
     },
     {
-      "key": "MAMK:USD",
-      "name": "MaxsMaking Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "MAMO:USD",
       "name": "Massimo Group",
       "currency": "USD",
@@ -33997,6 +33973,12 @@
       "name": "Midnight Sun Mining Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "MMA:USD",
+      "name": "Mixed Martial Arts Group Ltd",
+      "currency": "USD",
+      "isin": "AU0000319329"
     },
     {
       "key": "MMBP:EUR",
@@ -35904,12 +35886,6 @@
       "key": "NCOOU:USD",
       "name": "Southern Cross Acquisition I Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "NCP:CAD",
-      "name": "Nickel Creek Platinum Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -41775,12 +41751,6 @@
       "isin": null
     },
     {
-      "key": "PPM:CAD",
-      "name": "Pacific Imperial Mines Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "PPP:CAD",
       "name": "Prospector Metals Corp",
       "currency": "CAD",
@@ -46087,6 +46057,12 @@
       "name": "Scanfil Oyj",
       "currency": "EUR",
       "isin": "FI4000029905"
+    },
+    {
+      "key": "SCAT:USD",
+      "name": "Southern Cross Acquisition II Corp",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "SCATCO:NOK",
@@ -57178,7 +57154,7 @@
     },
     {
       "key": "XRPN:USD",
-      "name": "Armada Acquisition Corp II",
+      "name": "Evernorth Holdings Inc",
       "currency": "USD",
       "isin": null
     },
