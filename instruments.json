@@ -2919,12 +2919,6 @@
       "isin": "GB00BF50VS41"
     },
     {
-      "key": "AIEA:GBP",
-      "name": "Airea PLC",
-      "currency": "GBP",
-      "isin": "GB0008123027"
-    },
-    {
       "key": "AIF:CAD",
       "name": "Altus Group Limited",
       "currency": "CAD",
@@ -4185,12 +4179,6 @@
       "isin": null
     },
     {
-      "key": "AMOD:USD",
-      "name": "Alpha Modus Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AMP:EUR",
       "name": "Dassault Aviation SA",
       "currency": "EUR",
@@ -5305,12 +5293,6 @@
       "name": "Array Technologies Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "ARS:GBP",
-      "name": "Asiamet Resources Ltd",
-      "currency": "GBP",
-      "isin": "BM04521V1038"
     },
     {
       "key": "ART:GBP",
@@ -12109,12 +12091,6 @@
       "name": "Chrysalis Investment Ltd",
       "currency": "GBP",
       "isin": "GG00BGJYPP46"
-    },
-    {
-      "key": "CHS:CAD",
-      "name": "Comprehensive Healthcare Systems Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "CHT:USD",
@@ -28743,12 +28719,6 @@
       "isin": null
     },
     {
-      "key": "JJ:CAD",
-      "name": "Jackpot Digital Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "JJSF:USD",
       "name": "J & J Snack Foods Corp",
       "currency": "USD",
@@ -36711,12 +36681,6 @@
       "isin": null
     },
     {
-      "key": "NMTC:USD",
-      "name": "NeuroOne Medical Technologies Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "NN:USD",
       "name": "NextNav Inc",
       "currency": "USD",
@@ -41075,12 +41039,6 @@
     {
       "key": "PLAB:USD",
       "name": "Photronics Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "PLAG:USD",
-      "name": "Planet Green Holdings Corp",
       "currency": "USD",
       "isin": null
     },
@@ -46473,12 +46431,6 @@
       "isin": null
     },
     {
-      "key": "SEGN:CAD",
-      "name": "Seegnal Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "SEI:CAD",
       "name": "Sintana Energy Inc",
       "currency": "CAD",
@@ -51243,12 +51195,6 @@
       "isin": null
     },
     {
-      "key": "THRU:GBP",
-      "name": "Thruvision Group PLC",
-      "currency": "GBP",
-      "isin": "GB00B627R876"
-    },
-    {
       "key": "THRY:USD",
       "name": "Thryv Holdings Inc",
       "currency": "USD",
@@ -53275,12 +53221,6 @@
       "name": "UniCredit SpA",
       "currency": "EUR",
       "isin": "IT0005239360"
-    },
-    {
-      "key": "UCL:USD",
-      "name": "uCloudlink Group",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "UCTT:USD",
@@ -56730,12 +56670,6 @@
       "key": "WVM:CAD",
       "name": "West Vault Mining Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "WVVI:USD",
-      "name": "Willamette Valley Vineyards Inc",
-      "currency": "USD",
       "isin": null
     },
     {
