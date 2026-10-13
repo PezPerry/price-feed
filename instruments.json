@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-12",
+  "as_of": "2026-10-13",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -6573,6 +6573,12 @@
       "isin": null
     },
     {
+      "key": "AXNX:USD",
+      "name": "Axonex AI Group Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AXO:CAD",
       "name": "AXO Metals Corp",
       "currency": "CAD",
@@ -7081,6 +7087,12 @@
       "name": "Aston Bay Holdings Ltd",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "BAY:GBP",
+      "name": "Bay Capital PLC",
+      "currency": "GBP",
+      "isin": "JE00BKVHVW88"
     },
     {
       "key": "BAYND:EUR",
@@ -12381,6 +12393,12 @@
       "isin": "IL0011794802"
     },
     {
+      "key": "CLBX:GBP",
+      "name": "Cellbxhealth PLC",
+      "currency": "GBP",
+      "isin": "GB0034330679"
+    },
+    {
       "key": "CLC:GBP",
       "name": "Calculus VCT PLC",
       "currency": "GBP",
@@ -17391,6 +17409,12 @@
       "isin": "GB00BNDMJS47"
     },
     {
+      "key": "EDY:CAD",
+      "name": "Eddy Smart Home Solutions Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "EE:USD",
       "name": "Excelerate Energy Inc",
       "currency": "USD",
@@ -20781,12 +20805,6 @@
       "isin": null
     },
     {
-      "key": "FMST:USD",
-      "name": "Foremost Lithium Resource & Technology Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FMX:USD",
       "name": "Fomento Economico Mexicano Sab",
       "currency": "USD",
@@ -22683,6 +22701,12 @@
       "isin": null
     },
     {
+      "key": "GGI:CAD",
+      "name": "Garibaldi Resources Corp.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GGO:CAD",
       "name": "Galleon Gold Corp",
       "currency": "CAD",
@@ -24017,6 +24041,12 @@
     {
       "key": "GSY:CAD",
       "name": "Goeasy Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "GT:CAD",
+      "name": "GT Resources Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -28449,6 +28479,12 @@
       "isin": "IE00B4Q5ZN47"
     },
     {
+      "key": "JBDI:USD",
+      "name": "JBDI Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "JBGS:USD",
       "name": "JBG SMITH Properties",
       "currency": "USD",
@@ -29286,6 +29322,12 @@
       "key": "KDP:USD",
       "name": "Keurig Dr Pepper Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "KDSX:CAD",
+      "name": "Kadestone Capital Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -31629,6 +31671,12 @@
       "isin": "GB00BM9CLS53"
     },
     {
+      "key": "LOT:CAD",
+      "name": "Tomagold Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "LOT:USD",
       "name": "Lotus Technology Inc",
       "currency": "USD",
@@ -33089,12 +33137,6 @@
     {
       "key": "MEDP:USD",
       "name": "Medpace Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "MEDS:USD",
-      "name": "DataMeds AI Inc",
       "currency": "USD",
       "isin": null
     },
@@ -37921,12 +37963,6 @@
       "name": "Nueva Expresion Textil SA",
       "currency": "EUR",
       "isin": "ES0126962069"
-    },
-    {
-      "key": "NXXT:USD",
-      "name": "NextNRG Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "NYAX:USD",
@@ -44987,6 +45023,12 @@
     {
       "key": "RTO:USD",
       "name": "Rentokil Initial PLC",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "RTSN:USD",
+      "name": "Retension Pharmaceuticals Inc",
       "currency": "USD",
       "isin": null
     },
@@ -52719,6 +52761,12 @@
       "isin": "FR0000120271"
     },
     {
+      "key": "TTG:CAD",
+      "name": "Trans Canada Gold Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "TTG:GBP",
       "name": "TT Electronics PLC",
       "currency": "GBP",
@@ -56703,6 +56751,12 @@
       "isin": null
     },
     {
+      "key": "WVVI:USD",
+      "name": "Willamette Valley Vineyards Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "WW:USD",
       "name": "WW International Inc",
       "currency": "USD",
@@ -56741,12 +56795,6 @@
     {
       "key": "WWW:USD",
       "name": "Wolverine Worldwide Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "WXM:USD",
-      "name": "WF International Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -56845,12 +56893,6 @@
       "name": "Connecting Excellence Group PLC",
       "currency": "GBP",
       "isin": "GB00BVBHDF21"
-    },
-    {
-      "key": "XCH:USD",
-      "name": "XCHG Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "XE:USD",
