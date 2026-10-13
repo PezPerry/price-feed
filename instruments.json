@@ -15165,6 +15165,12 @@
       "isin": null
     },
     {
+      "key": "DAR:CAD",
+      "name": "Darelle Online Solutions Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "DAR:USD:DARGLOBAL",
       "name": "Dar Global PLC",
       "currency": "USD",
@@ -22221,6 +22227,12 @@
       "isin": null
     },
     {
+      "key": "GCV:CAD",
+      "name": "Golden Star Capital Ventures Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GD:USD",
       "name": "General Dynamics Corp",
       "currency": "USD",
@@ -28767,6 +28779,12 @@
       "isin": null
     },
     {
+      "key": "JJ:CAD",
+      "name": "Jackpot Digital Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "JJSF:USD",
       "name": "J & J Snack Foods Corp",
       "currency": "USD",
@@ -28917,6 +28935,12 @@
       "isin": null
     },
     {
+      "key": "JPWR.H:CAD",
+      "name": "Jade Power Trust",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "JRS:USD",
       "name": "Nuveen Real Estate Income Fund",
       "currency": "USD",
@@ -29033,6 +29057,12 @@
     {
       "key": "JXN:USD",
       "name": "Jackson Financial Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "JYD:USD",
+      "name": "Jayud Global Logistics Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -36737,6 +36767,12 @@
     {
       "key": "NMT:USD",
       "name": "Nuveen Massachusetts Premium Income Municipal Fund",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "NMTC:USD",
+      "name": "NeuroOne Medical Technologies Corp",
       "currency": "USD",
       "isin": null
     },
@@ -56795,6 +56831,12 @@
     {
       "key": "WWW:USD",
       "name": "Wolverine Worldwide Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "WXM:USD",
+      "name": "WF International Ltd",
       "currency": "USD",
       "isin": null
     },
