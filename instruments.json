@@ -693,6 +693,12 @@
       "isin": "LU1250154413"
     },
     {
+      "key": "0RA2:EUR",
+      "name": "Poxel SA",
+      "currency": "EUR",
+      "isin": "FR0012432516"
+    },
+    {
       "key": "0RA8:EUR",
       "name": "Elis Services SA",
       "currency": "EUR",
@@ -11899,6 +11905,12 @@
       "name": "Charbone Corporation",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "CHA:GBP",
+      "name": "Chaleit Holdings PLC",
+      "currency": "GBP",
+      "isin": "GB00C0C5K233"
     },
     {
       "key": "CHA:USD",
@@ -34383,6 +34395,12 @@
       "isin": null
     },
     {
+      "key": "MOY:GBP",
+      "name": "Mollyroe PLC",
+      "currency": "GBP",
+      "isin": "GB00BRC0TZ46"
+    },
+    {
       "key": "MOZNZ:CHF",
       "name": "Mobilezone Holding AG",
       "currency": "CHF",
@@ -41619,6 +41637,12 @@
       "isin": null
     },
     {
+      "key": "POXELP:EUR",
+      "name": "Poxel SA",
+      "currency": "EUR",
+      "isin": "FR0012432516"
+    },
+    {
       "key": "PPC:USD",
       "name": "Pilgrims Pride Corp",
       "currency": "USD",
@@ -43993,6 +44017,12 @@
       "name": "RH",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "RHAI:GBP",
+      "name": "Roundhouse AI Ltd",
+      "currency": "GBP",
+      "isin": "SGXZ84721265"
     },
     {
       "key": "RHI:USD",
