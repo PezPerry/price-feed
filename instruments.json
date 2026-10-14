@@ -6957,12 +6957,6 @@
       "isin": null
     },
     {
-      "key": "BANK:GBP",
-      "name": "Fiinu PLC",
-      "currency": "GBP",
-      "isin": "GB0033881904"
-    },
-    {
       "key": "BANM:EUR",
       "name": "BasicNet SpA",
       "currency": "EUR",
@@ -7530,12 +7524,6 @@
       "key": "BE:USD",
       "name": "Bloom Energy Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BEA:CAD",
-      "name": "Belmont Resources Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -12775,12 +12763,6 @@
       "name": "CML Microsystems PLC",
       "currency": "GBP",
       "isin": "GB0001602944"
-    },
-    {
-      "key": "CMMB:USD",
-      "name": "Chemomab Therapeutics Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "CMP:USD",
@@ -19087,12 +19069,6 @@
       "name": "Entree Resources Ltd",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "ETHL:GBP",
-      "name": "Roundhouse Digital LTD.",
-      "currency": "GBP",
-      "isin": "SGXZ84721265"
     },
     {
       "key": "ETHM:EUR",
@@ -30069,12 +30045,6 @@
       "isin": null
     },
     {
-      "key": "KPTI:USD",
-      "name": "Karyopharm Therapeutics Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "KR:USD",
       "name": "Kroger Co",
       "currency": "USD",
@@ -32445,12 +32415,6 @@
       "isin": null
     },
     {
-      "key": "MAI:CAD",
-      "name": "Mining Americas Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "MAI:GBP",
       "name": "Maintel Holdings PLC",
       "currency": "GBP",
@@ -33525,12 +33489,6 @@
       "isin": null
     },
     {
-      "key": "MGMA:CAD",
-      "name": "Magma Silver Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "MGNI:USD",
       "name": "Magnite Inc",
       "currency": "USD",
@@ -33735,12 +33693,6 @@
       "isin": "CH0003390066"
     },
     {
-      "key": "MILA:GBP",
-      "name": "Mila Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BD4FCK53"
-    },
-    {
       "key": "MILDES:SEK",
       "name": "Mildef Group AB",
       "currency": "SEK",
@@ -33750,12 +33702,6 @@
       "key": "MIM:CAD",
       "name": "Mimedia Holdings Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "MIMI:USD",
-      "name": "Mint Inc Ltd",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -37593,12 +37539,6 @@
       "isin": null
     },
     {
-      "key": "NUR:USD",
-      "name": "Nuran Wireless Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "NURS:CAD",
       "name": "Hydreight Technologies Inc",
       "currency": "CAD",
@@ -38079,12 +38019,6 @@
       "isin": null
     },
     {
-      "key": "OAM:CAD",
-      "name": "Overactive Media Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "OAP3:GBP",
       "name": "Octopus Apollo VCT 3 PLC",
       "currency": "GBP",
@@ -38147,12 +38081,6 @@
     {
       "key": "OBIO:USD",
       "name": "Orchestra BioMed Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "OBK:USD",
-      "name": "Origin Bancorp Inc",
       "currency": "USD",
       "isin": null
     },
@@ -54291,12 +54219,6 @@
       "isin": null
     },
     {
-      "key": "VCT:CAD",
-      "name": "Volt Carbon Technologies Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "VCT:GBP",
       "name": "Victrex PLC",
       "currency": "GBP",
@@ -55373,12 +55295,6 @@
     {
       "key": "VTEX:USD",
       "name": "VTEX",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "VTGN:USD",
-      "name": "VistaGen Therapeutics Inc",
       "currency": "USD",
       "isin": null
     },
