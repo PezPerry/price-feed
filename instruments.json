@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-13",
+  "as_of": "2026-10-14",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -12297,6 +12297,12 @@
       "isin": null
     },
     {
+      "key": "CJR.B:CAD",
+      "name": "Corus Entertainment Inc., CL.B, NV",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CJT:CAD",
       "name": "Cargojet Inc.",
       "currency": "CAD",
@@ -19677,12 +19683,6 @@
       "isin": "SE0010048884"
     },
     {
-      "key": "FAIR:CAD",
-      "name": "Fairchild Gold Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "FAIR:EUR",
       "name": "Fair Oaks Income Ltd",
       "currency": "EUR",
@@ -25329,12 +25329,6 @@
       "isin": null
     },
     {
-      "key": "HLU:CAD",
-      "name": "Homeland Uranium Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "HLUNAC:DKK",
       "name": "H Lundbeck A/S",
       "currency": "DKK",
@@ -27801,6 +27795,12 @@
       "isin": "IT0005438046"
     },
     {
+      "key": "IOTR:USD",
+      "name": "iOThree Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "IOVA:USD",
       "name": "Iovance Biotherapeutics Inc",
       "currency": "USD",
@@ -29677,6 +29677,12 @@
       "name": "Klarna Group PLC",
       "currency": "USD",
       "isin": "GB00BMHVL512"
+    },
+    {
+      "key": "KLARS:SEK",
+      "name": "Klaria Pharma Holding AB",
+      "currency": "SEK",
+      "isin": "SE0007280326"
     },
     {
       "key": "KLC:USD",
@@ -37179,6 +37185,12 @@
       "isin": "CH0212186248"
     },
     {
+      "key": "NRESTS:SEK",
+      "name": "Nordrest Holding AB",
+      "currency": "SEK",
+      "isin": "SE0022088217"
+    },
+    {
       "key": "NRG:USD",
       "name": "NRG Energy Inc",
       "currency": "USD",
@@ -37547,6 +37559,12 @@
     {
       "key": "NUE:USD",
       "name": "Nucor Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "NUR:USD",
+      "name": "Nuran Wireless Inc",
       "currency": "USD",
       "isin": null
     },
@@ -40270,7 +40288,7 @@
     },
     {
       "key": "PDI:CAD",
-      "name": "Predictive Discovery Limited",
+      "name": "PDI Gold Limited",
       "currency": "CAD",
       "isin": "AU000000PDI8"
     },
@@ -45513,12 +45531,6 @@
       "isin": null
     },
     {
-      "key": "SAGT:USD",
-      "name": "Sagtec Global Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SAGU:USD",
       "name": "Shreya Acquisition Group",
       "currency": "USD",
@@ -46467,6 +46479,12 @@
       "isin": "AU0000XINAJ0"
     },
     {
+      "key": "SEED:USD",
+      "name": "Origin Agritech Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SEER:USD",
       "name": "Seer Inc",
       "currency": "USD",
@@ -46543,6 +46561,12 @@
       "name": "Senseonics Holdings Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "SENSOH:EUR",
+      "name": "Sensofusion Oyj",
+      "currency": "EUR",
+      "isin": "FI4000609672"
     },
     {
       "key": "SENSZ:CHF",
@@ -50931,6 +50955,12 @@
       "isin": "FR0000051807"
     },
     {
+      "key": "TEQS:SEK",
+      "name": "Teqnion AB",
+      "currency": "SEK",
+      "isin": "SE0012308088"
+    },
+    {
       "key": "TER:USD",
       "name": "Teradyne Inc",
       "currency": "USD",
@@ -52509,6 +52539,12 @@
       "isin": null
     },
     {
+      "key": "TRXB:USD",
+      "name": "Trex Bio Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "TRY:GBP",
       "name": "TR Property Investment Trust PLC",
       "currency": "GBP",
@@ -52735,12 +52771,6 @@
       "name": "TotalEnergies SE",
       "currency": "EUR",
       "isin": "FR0000120271"
-    },
-    {
-      "key": "TTG:CAD",
-      "name": "Trans Canada Gold Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "TTG:GBP",
