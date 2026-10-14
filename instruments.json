@@ -6957,6 +6957,12 @@
       "isin": null
     },
     {
+      "key": "BANK:GBP",
+      "name": "Fiinu PLC",
+      "currency": "GBP",
+      "isin": "GB0033881904"
+    },
+    {
       "key": "BANM:EUR",
       "name": "BasicNet SpA",
       "currency": "EUR",
@@ -12811,6 +12817,12 @@
       "name": "Costamare Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "CMRS:GBP",
+      "name": "Critical Mineral Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BMDQ4L78"
     },
     {
       "key": "CMS:USD",
