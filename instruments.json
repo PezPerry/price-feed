@@ -12471,6 +12471,12 @@
       "isin": "GB00B104RS51"
     },
     {
+      "key": "CLIK:USD",
+      "name": "Click Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CLIP:CAD",
       "name": "Clip Money Inc",
       "currency": "CAD",
@@ -16849,6 +16855,12 @@
       "name": "Deutsche Wohnen SE",
       "currency": "EUR",
       "isin": "DE000A0HN5C6"
+    },
+    {
+      "key": "DWS:CAD",
+      "name": "Diamond Estates Wines And Spirits Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "DWSD:EUR",
@@ -46497,6 +46509,12 @@
       "isin": null
     },
     {
+      "key": "SEGN:CAD",
+      "name": "Seegnal Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SEI:CAD",
       "name": "Sintana Energy Inc",
       "currency": "CAD",
@@ -52771,6 +52789,12 @@
       "name": "TotalEnergies SE",
       "currency": "EUR",
       "isin": "FR0000120271"
+    },
+    {
+      "key": "TTG:CAD",
+      "name": "Trans Canada Gold Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "TTG:GBP",
