@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -109,6 +109,12 @@
       "name": "Gimv Investeringsmaatschappij Voor Vlanderen NV",
       "currency": "EUR",
       "isin": "BE0003699130"
+    },
+    {
+      "key": "0EV1:USD",
+      "name": "Carnival Corp Ltd",
+      "currency": "USD",
+      "isin": "PA1436583006"
     },
     {
       "key": "0EYG:EUR",
@@ -5445,12 +5451,6 @@
       "isin": null
     },
     {
-      "key": "ASG:CAD",
-      "name": "Aurora Spine Corporation",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "ASGI:USD",
       "name": "abrdn Global Infrastructure Income Fund",
       "currency": "USD",
@@ -7797,6 +7797,12 @@
       "isin": null
     },
     {
+      "key": "BFRG:USD",
+      "name": "BullFrog AI Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BFRI:USD",
       "name": "Biofrontera Inc",
       "currency": "USD",
@@ -7849,12 +7855,6 @@
       "name": "Baillie Gifford China Growth Trust PLC",
       "currency": "GBP",
       "isin": "GB0003656021"
-    },
-    {
-      "key": "BGD:CAD",
-      "name": "Bullion Gold Discoveries Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BGDE:USD",
@@ -11937,6 +11937,12 @@
       "isin": null
     },
     {
+      "key": "CHEFS:SEK",
+      "name": "Cheffelo AB",
+      "currency": "SEK",
+      "isin": "SE0015556873"
+    },
+    {
       "key": "CHEMMC:DKK",
       "name": "Chemometec A/S",
       "currency": "DKK",
@@ -12313,6 +12319,12 @@
       "name": "Clas Ohlson AB",
       "currency": "SEK",
       "isin": "SE0000584948"
+    },
+    {
+      "key": "CLAVS:SEK",
+      "name": "Clavister AB",
+      "currency": "SEK",
+      "isin": "SE0005308558"
     },
     {
       "key": "CLB:USD",
@@ -14453,12 +14465,6 @@
     {
       "key": "CTSH:USD",
       "name": "Cognizant Technology Solutions Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CTSO:USD",
-      "name": "CytoSorbents Corp",
       "currency": "USD",
       "isin": null
     },
@@ -16783,6 +16789,12 @@
       "name": "Develop North PLC",
       "currency": "GBP",
       "isin": "GB00BD0ND667"
+    },
+    {
+      "key": "DVYSRS:SEK",
+      "name": "Devyser Diagnostics AB",
+      "currency": "SEK",
+      "isin": "SE0016588867"
     },
     {
       "key": "DWNID:EUR",
@@ -22155,6 +22167,12 @@
       "isin": null
     },
     {
+      "key": "GCV:CAD",
+      "name": "Golden Star Capital Ventures Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GD:USD",
       "name": "General Dynamics Corp",
       "currency": "USD",
@@ -24483,6 +24501,12 @@
       "isin": "GB00BKWQ1135"
     },
     {
+      "key": "HAYPPS:SEK",
+      "name": "Haypp Group AB",
+      "currency": "SEK",
+      "isin": "SE0016829469"
+    },
+    {
       "key": "HAYW:USD",
       "name": "Hayward Holdings Inc",
       "currency": "USD",
@@ -26520,12 +26544,6 @@
       "key": "ICM:CAD",
       "name": "Iconic Minerals Ltd",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "ICMB:USD",
-      "name": "Investcorp Credit Management BDC Inc",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -29061,6 +29079,12 @@
       "isin": null
     },
     {
+      "key": "KAMBIS:SEK",
+      "name": "Kambi Group PLC",
+      "currency": "SEK",
+      "isin": "MT0000780107"
+    },
+    {
       "key": "KAMUXH:EUR",
       "name": "Kamux Corp",
       "currency": "EUR",
@@ -31569,6 +31593,12 @@
       "isin": "CH0025751329"
     },
     {
+      "key": "LOKOO:NOK",
+      "name": "Lokotech Group AS",
+      "currency": "NOK",
+      "isin": "NO0010921299"
+    },
+    {
       "key": "LOMA:USD",
       "name": "Loma Negra Compania Industrial Argentina SA",
       "currency": "USD",
@@ -32227,6 +32257,12 @@
       "name": "Lyntris Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "LYTIXO:NOK",
+      "name": "LYTIX BIOPHARMA ASA",
+      "currency": "NOK",
+      "isin": "NO0010405780"
     },
     {
       "key": "LYTS:USD",
@@ -33579,6 +33615,12 @@
       "isin": null
     },
     {
+      "key": "MIDSS:SEK",
+      "name": "Midsummer AB",
+      "currency": "SEK",
+      "isin": "SE0011281757"
+    },
+    {
       "key": "MIDW:GBP",
       "name": "Midwich Group PLC",
       "currency": "GBP",
@@ -33877,6 +33919,12 @@
       "name": "Midnight Sun Mining Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "MMA:USD",
+      "name": "Mixed Martial Arts Group Ltd",
+      "currency": "USD",
+      "isin": "AU0000319329"
     },
     {
       "key": "MMBP:EUR",
@@ -37867,6 +37915,12 @@
       "name": "Nueva Expresion Textil SA",
       "currency": "EUR",
       "isin": "ES0126962069"
+    },
+    {
+      "key": "NYABS:SEK",
+      "name": "Nyab AB",
+      "currency": "SEK",
+      "isin": "SE0022242434"
     },
     {
       "key": "NYAX:USD",
@@ -46323,6 +46377,12 @@
       "isin": "GB00B0BDCB21"
     },
     {
+      "key": "SECARS:SEK",
+      "name": "SwedenCare AB",
+      "currency": "SEK",
+      "isin": "SE0015988167"
+    },
+    {
       "key": "SECTBS:SEK",
       "name": "Sectra AB",
       "currency": "SEK",
@@ -46357,12 +46417,6 @@
       "name": "Seeing Machines Ltd",
       "currency": "GBP",
       "isin": "AU0000XINAJ0"
-    },
-    {
-      "key": "SEED:USD",
-      "name": "Origin Agritech Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SEER:USD",
@@ -48187,6 +48241,12 @@
       "name": "SoFi Technologies, Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "SOFTXO:NOK",
+      "name": "Softox Solutions AS",
+      "currency": "NOK",
+      "isin": "NO0010811961"
     },
     {
       "key": "SOGP:USD",
@@ -55401,6 +55461,12 @@
       "isin": null
     },
     {
+      "key": "W5S:SEK",
+      "name": "W5 Solutions AB",
+      "currency": "SEK",
+      "isin": "SE0016786040"
+    },
+    {
       "key": "W7L:GBP",
       "name": "Warpaint London PLC",
       "currency": "GBP",
@@ -55797,12 +55863,6 @@
       "isin": null
     },
     {
-      "key": "WFF:USD",
-      "name": "WF Holding Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WFG:CAD",
       "name": "West Fraser Timber CO Ltd",
       "currency": "CAD",
@@ -55965,12 +56025,6 @@
       "isin": null
     },
     {
-      "key": "WIMI:USD",
-      "name": "WiMi Hologram Cloud ADR",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WINA:USD",
       "name": "Winmark Corp",
       "currency": "USD",
@@ -56094,12 +56148,6 @@
       "key": "WLDN:USD",
       "name": "Willdan Group Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "WLF:CAD",
-      "name": "Wolfden Resources Corporation",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -57841,6 +57889,12 @@
       "name": "Zyus Life Sciences Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "ZZBS:SEK",
+      "name": "Zinzino AB",
+      "currency": "SEK",
+      "isin": "SE0002480442"
     }
   ]
 }
