@@ -4809,6 +4809,12 @@
       "isin": null
     },
     {
+      "key": "APMI:CAD",
+      "name": "Apogee Minerals Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "APN:GBP",
       "name": "Applied Nutrition PLC",
       "currency": "GBP",
@@ -7855,6 +7861,12 @@
       "name": "Baillie Gifford China Growth Trust PLC",
       "currency": "GBP",
       "isin": "GB0003656021"
+    },
+    {
+      "key": "BGD:CAD",
+      "name": "Bullion Gold Discoveries Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "BGDE:USD",
@@ -12069,6 +12081,12 @@
       "isin": "GG00BGJYPP46"
     },
     {
+      "key": "CHS:CAD",
+      "name": "Comprehensive Healthcare Systems Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CHT:USD",
       "name": "Chunghwa Telecom Co Ltd",
       "currency": "USD",
@@ -13867,6 +13885,12 @@
       "name": "CRH PLC",
       "currency": "USD",
       "isin": "IE0001827041"
+    },
+    {
+      "key": "CRI:CAD",
+      "name": "Churchill Resources Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "CRI:USD",
@@ -17773,6 +17797,12 @@
       "name": "Endesa SA",
       "currency": "EUR",
       "isin": "ES0130670112"
+    },
+    {
+      "key": "ELEF:CAD",
+      "name": "Silver Elephant Mining Corporation",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "ELF:CAD",
@@ -25895,6 +25925,12 @@
     {
       "key": "HTB:USD",
       "name": "HomeTrust Bancshares Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "HTCO:USD",
+      "name": "Caravelle International Group",
       "currency": "USD",
       "isin": null
     },
