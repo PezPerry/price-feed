@@ -13869,12 +13869,6 @@
       "isin": "IE0001827041"
     },
     {
-      "key": "CRI:CAD",
-      "name": "Churchill Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CRI:USD",
       "name": "Carter's Inc",
       "currency": "USD",
@@ -19639,6 +19633,12 @@
       "name": "Fagerhult Group AB",
       "currency": "SEK",
       "isin": "SE0010048884"
+    },
+    {
+      "key": "FAIR:CAD",
+      "name": "Fairchild Gold Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "FAIR:EUR",
@@ -46327,6 +46327,12 @@
       "name": "Schroder AsiaPacific Fund PLC",
       "currency": "GBP",
       "isin": "GB0007918872"
+    },
+    {
+      "key": "SDR:CAD",
+      "name": "Stroud Resources Ltd.",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "SDRL:USD",
