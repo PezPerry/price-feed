@@ -6945,12 +6945,6 @@
       "isin": null
     },
     {
-      "key": "BANK:GBP",
-      "name": "Fiinu PLC",
-      "currency": "GBP",
-      "isin": "GB0033881904"
-    },
-    {
       "key": "BANM:EUR",
       "name": "BasicNet SpA",
       "currency": "EUR",
@@ -9569,12 +9563,6 @@
     {
       "key": "BRZE:USD",
       "name": "Braze Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BSAA:USD",
-      "name": "BEST SPAC I Acquisition Corp",
       "currency": "USD",
       "isin": null
     },
@@ -12270,12 +12258,6 @@
       "key": "CJMB:USD",
       "name": "Callan JMB Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CJR.B:CAD",
-      "name": "Corus Entertainment Inc., CL.B, NV",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -17373,12 +17355,6 @@
       "isin": null
     },
     {
-      "key": "EDUC:USD",
-      "name": "Educational Development Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "EDV:CAD",
       "name": "Endeavour Mining Plc",
       "currency": "CAD",
@@ -17395,12 +17371,6 @@
       "name": "EDX Medical Group PLC",
       "currency": "GBP",
       "isin": "GB00BNDMJS47"
-    },
-    {
-      "key": "EDY:CAD",
-      "name": "Eddy Smart Home Solutions Ltd",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "EE:USD",
@@ -19609,12 +19579,6 @@
       "name": "Fabasoft AG",
       "currency": "EUR",
       "isin": "AT0000785407"
-    },
-    {
-      "key": "FAB:GBP",
-      "name": "Fusion Antibodies PLC",
-      "currency": "GBP",
-      "isin": "GB00BDQZGK16"
     },
     {
       "key": "FABC:USD",
@@ -34419,12 +34383,6 @@
       "isin": null
     },
     {
-      "key": "MOY:GBP",
-      "name": "Mollyroe PLC",
-      "currency": "GBP",
-      "isin": "GB00BRC0TZ46"
-    },
-    {
       "key": "MOZNZ:CHF",
       "name": "Mobilezone Holding AG",
       "currency": "CHF",
@@ -37813,12 +37771,6 @@
       "name": "Northwest Copper Corp",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "NWT:GBP",
-      "name": "Newmark Security PLC",
-      "currency": "GBP",
-      "isin": "GB00BNYM9W73"
     },
     {
       "key": "NWX:CAD",
@@ -44019,12 +43971,6 @@
       "isin": null
     },
     {
-      "key": "RHAI:GBP",
-      "name": "Roundhouse AI Ltd",
-      "currency": "GBP",
-      "isin": "SGXZ84721265"
-    },
-    {
       "key": "RHI:USD",
       "name": "Robert Half International Inc",
       "currency": "USD",
@@ -46335,12 +46281,6 @@
       "isin": "GB0007918872"
     },
     {
-      "key": "SDR:CAD",
-      "name": "Stroud Resources Ltd.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "SDRL:USD",
       "name": "Seadrill Ltd",
       "currency": "USD",
@@ -48024,12 +47964,6 @@
       "key": "SMXT:USD",
       "name": "SolarMax Technology Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SMY:CAD",
-      "name": "Search Minerals Inc.",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -52839,12 +52773,6 @@
       "isin": "DE000TUAG505"
     },
     {
-      "key": "TULP:USD",
-      "name": "Bloomia Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "TUN:GBP",
       "name": "Tungsten West PLC",
       "currency": "GBP",
@@ -55689,12 +55617,6 @@
       "isin": null
     },
     {
-      "key": "WCT:USD",
-      "name": "Wellchange Holdings Co Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WD:USD",
       "name": "Walker & Dunlop Inc",
       "currency": "USD",
@@ -56029,12 +55951,6 @@
       "name": "Wihlborgs Fastigheter AB",
       "currency": "SEK",
       "isin": "SE0018012635"
-    },
-    {
-      "key": "WIHNZ:CHF",
-      "name": "WISeKey International Holding Ltd",
-      "currency": "CHF",
-      "isin": "CH1276062754"
     },
     {
       "key": "WIITM:EUR",
@@ -56735,12 +56651,6 @@
     {
       "key": "WWW:USD",
       "name": "Wolverine Worldwide Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "WXM:USD",
-      "name": "WF International Ltd",
       "currency": "USD",
       "isin": null
     },
