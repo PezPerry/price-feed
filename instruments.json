@@ -25443,6 +25443,12 @@
       "isin": "GB00B1FW5029"
     },
     {
+      "key": "HODL:GBP",
+      "name": "B HODL PLC",
+      "currency": "GBP",
+      "isin": "IM00BV6P5N30"
+    },
+    {
       "key": "HOFIS:SEK",
       "name": "Hoist Finance AB",
       "currency": "SEK",
@@ -43765,6 +43771,12 @@
       "name": "Retail Estates NV",
       "currency": "EUR",
       "isin": "BE0003720340"
+    },
+    {
+      "key": "REV:GBP",
+      "name": "Reveille Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BXFJC848"
     },
     {
       "key": "REVB:GBP",
