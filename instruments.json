@@ -699,12 +699,6 @@
       "isin": "LU1250154413"
     },
     {
-      "key": "0RA2:EUR",
-      "name": "Poxel SA",
-      "currency": "EUR",
-      "isin": "FR0012432516"
-    },
-    {
       "key": "0RA8:EUR",
       "name": "Elis Services SA",
       "currency": "EUR",
@@ -3213,12 +3207,6 @@
       "isin": "NO0010716582"
     },
     {
-      "key": "AKT.B:CAD",
-      "name": "Akita CL B",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AKTIAH:EUR",
       "name": "Aktia Bank Oyj",
       "currency": "EUR",
@@ -4812,12 +4800,6 @@
       "key": "APMD:USD",
       "name": "Apnimed Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "APMI:CAD",
-      "name": "Apogee Minerals Ltd",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -7867,12 +7849,6 @@
       "name": "Baillie Gifford China Growth Trust PLC",
       "currency": "GBP",
       "isin": "GB0003656021"
-    },
-    {
-      "key": "BGD:CAD",
-      "name": "Bullion Gold Discoveries Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BGDE:USD",
@@ -13923,12 +13899,6 @@
       "isin": null
     },
     {
-      "key": "CRMT:USD",
-      "name": "America's Car-Mart Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "CRN:GBP",
       "name": "Cairn Homes PLC",
       "currency": "GBP",
@@ -18387,12 +18357,6 @@
       "isin": null
     },
     {
-      "key": "ENSC:USD",
-      "name": "Ensysce Biosciences Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "ENSG:USD",
       "name": "Ensign Group Inc (The)",
       "currency": "USD",
@@ -22167,12 +22131,6 @@
       "isin": null
     },
     {
-      "key": "GCV:CAD",
-      "name": "Golden Star Capital Ventures Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GD:USD",
       "name": "General Dynamics Corp",
       "currency": "USD",
@@ -23523,12 +23481,6 @@
       "isin": null
     },
     {
-      "key": "GPS:CAD",
-      "name": "Great Plains Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GPUS:USD",
       "name": "Hyperscale Data Inc",
       "currency": "USD",
@@ -24270,12 +24222,6 @@
       "key": "GYRE:USD",
       "name": "Gyre Therapeutics Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "GZD:CAD",
-      "name": "Grizzly Discoveries Inc.",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -25901,12 +25847,6 @@
     {
       "key": "HTB:USD",
       "name": "HomeTrust Bancshares Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "HTCO:USD",
-      "name": "Caravelle International Group",
       "currency": "USD",
       "isin": null
     },
@@ -41625,12 +41565,6 @@
       "isin": null
     },
     {
-      "key": "POXELP:EUR",
-      "name": "Poxel SA",
-      "currency": "EUR",
-      "isin": "FR0012432516"
-    },
-    {
       "key": "PPC:USD",
       "name": "Pilgrims Pride Corp",
       "currency": "USD",
@@ -43823,12 +43757,6 @@
     {
       "key": "REVX:CAD",
       "name": "REV Exploration Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "REX:CAD",
-      "name": "Orex Minerals Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -47787,12 +47715,6 @@
       "isin": null
     },
     {
-      "key": "SLT.U:USD",
-      "name": "Saltire Capital Ltd USD",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SLVM:USD",
       "name": "Sylvamo Corp",
       "currency": "USD",
@@ -48997,12 +48919,6 @@
       "name": "SRV Group Oyj",
       "currency": "EUR",
       "isin": "FI4000523675"
-    },
-    {
-      "key": "SRVL:GBP",
-      "name": "Serval Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BVRY1W08"
     },
     {
       "key": "SRZN:USD",
