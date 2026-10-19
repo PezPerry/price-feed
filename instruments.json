@@ -8673,6 +8673,12 @@
       "isin": "GB0003656021"
     },
     {
+      "key": "BGD:CAD",
+      "name": "Bullion Gold Discoveries Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BGDE:USD",
       "name": "Big Digital Energy Inc",
       "currency": "USD",
@@ -9823,6 +9829,12 @@
       "name": "Bonava AB",
       "currency": "SEK",
       "isin": "SE0008091581"
+    },
+    {
+      "key": "BONE:CAD",
+      "name": "Boron One Holdings Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "BONEXS:SEK",
@@ -20649,12 +20661,6 @@
       "isin": "SE0010048884"
     },
     {
-      "key": "FAIR:CAD",
-      "name": "Fairchild Gold Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "FAIR:EUR",
       "name": "Fair Oaks Income Ltd",
       "currency": "EUR",
@@ -23238,6 +23244,12 @@
       "key": "GCTS:USD",
       "name": "GCT Semiconductor Holding Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "GCV:CAD",
+      "name": "Golden Star Capital Ventures Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -30030,12 +30042,6 @@
       "key": "JPM:USD",
       "name": "JPMorgan Chase & Co",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "JPWR.H:CAD",
-      "name": "Jade Power Trust",
-      "currency": "CAD",
       "isin": null
     },
     {
