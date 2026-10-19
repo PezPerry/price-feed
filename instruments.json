@@ -699,6 +699,12 @@
       "isin": "LU1250154413"
     },
     {
+      "key": "0RA2:EUR",
+      "name": "Poxel SA",
+      "currency": "EUR",
+      "isin": "FR0012432516"
+    },
+    {
       "key": "0RA8:EUR",
       "name": "Elis Services SA",
       "currency": "EUR",
@@ -903,6 +909,12 @@
       "isin": "GB00BRQMRP25"
     },
     {
+      "key": "1ACNM:EUR",
+      "name": "Accenture PLC",
+      "currency": "EUR",
+      "isin": "IE00B4BNMY34"
+    },
+    {
       "key": "1AIRM:EUR",
       "name": "Airbus SE",
       "currency": "EUR",
@@ -969,6 +981,12 @@
       "isin": "DE0008232125"
     },
     {
+      "key": "1LINUM:EUR",
+      "name": "Linde PLC",
+      "currency": "EUR",
+      "isin": "IE000S9YS762"
+    },
+    {
       "key": "1LOGNM:EUR",
       "name": "Logitech International SA",
       "currency": "EUR",
@@ -1003,6 +1021,18 @@
       "name": "First Tin PLC",
       "currency": "GBP",
       "isin": "GB00BNR45554"
+    },
+    {
+      "key": "1SPOTM:EUR",
+      "name": "Spotify Technology SA",
+      "currency": "EUR",
+      "isin": "LU1778762911"
+    },
+    {
+      "key": "1STXM:EUR",
+      "name": "Seagate Technology Holdings PLC",
+      "currency": "EUR",
+      "isin": "IE00BKVD2N49"
     },
     {
       "key": "1SXPD:EUR",
@@ -1075,6 +1105,18 @@
       "name": "5th Planet Games A/S",
       "currency": "NOK",
       "isin": "DK0060945467"
+    },
+    {
+      "key": "639D:EUR",
+      "name": "Spotify Technology SA",
+      "currency": "EUR",
+      "isin": "LU1778762911"
+    },
+    {
+      "key": "690DD:EUR",
+      "name": "Haier Smart Home Co Ltd",
+      "currency": "EUR",
+      "isin": "CNE1000031C1"
     },
     {
       "key": "80M:GBP",
@@ -2565,6 +2607,12 @@
       "isin": "FR001400J770"
     },
     {
+      "key": "AFP:GBP",
+      "name": "African Pioneer PLC",
+      "currency": "GBP",
+      "isin": "IM00B8C0HK22"
+    },
+    {
       "key": "AFRI:USD",
       "name": "Forafric Global PLC",
       "currency": "USD",
@@ -2987,6 +3035,12 @@
     {
       "key": "AIN:USD",
       "name": "Albany International Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "AIOK:USD",
+      "name": "AI OKTO Corp",
       "currency": "USD",
       "isin": null
     },
@@ -3963,6 +4017,12 @@
       "isin": "LU2458332611"
     },
     {
+      "key": "ALVOS:SEK",
+      "name": "Alvotech SA",
+      "currency": "SEK",
+      "isin": "SE0025011463"
+    },
+    {
       "key": "ALW:GBP",
       "name": "Alliance Witan PLC",
       "currency": "GBP",
@@ -4175,6 +4235,12 @@
     {
       "key": "AMN:USD",
       "name": "AMN Healthcare Services Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "AMOD:USD",
+      "name": "Alpha Modus Holdings Inc",
       "currency": "USD",
       "isin": null
     },
@@ -5293,6 +5359,12 @@
       "name": "The Artisanal Spirits Company PLC",
       "currency": "GBP",
       "isin": "GB00BNXM3P96"
+    },
+    {
+      "key": "ARTC:USD",
+      "name": "Art Technology Acquisition Corp",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "ARTCU:USD",
@@ -6591,6 +6663,12 @@
       "isin": null
     },
     {
+      "key": "AXSA:EUR",
+      "name": "Accsys Technologies PLC",
+      "currency": "EUR",
+      "isin": "GB00BQQFX454"
+    },
+    {
       "key": "AXSM:USD",
       "name": "Axsome Therapeutics Inc",
       "currency": "USD",
@@ -6690,6 +6768,12 @@
       "key": "AZN:USD",
       "name": "AstraZeneca PLC",
       "currency": "USD",
+      "isin": "GB0009895292"
+    },
+    {
+      "key": "AZNS:SEK",
+      "name": "AstraZeneca PLC",
+      "currency": "SEK",
       "isin": "GB0009895292"
     },
     {
@@ -7231,6 +7315,12 @@
       "name": "Best Buy Co Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "BBZAD:EUR",
+      "name": "BB Biotech AG",
+      "currency": "EUR",
+      "isin": "CH0038389992"
     },
     {
       "key": "BC:USD",
@@ -8187,6 +8277,12 @@
       "isin": "DK0064867972"
     },
     {
+      "key": "BIONZ:CHF",
+      "name": "BB Biotech AG",
+      "currency": "CHF",
+      "isin": "CH0038389992"
+    },
+    {
       "key": "BIOPOC:DKK",
       "name": "Bioporto A/S",
       "currency": "DKK",
@@ -8412,6 +8508,12 @@
       "key": "BKY:GBP",
       "name": "Berkeley Energia Ltd",
       "currency": "GBP",
+      "isin": "AU000000BKY0"
+    },
+    {
+      "key": "BKYE:EUR",
+      "name": "Berkeley Energia Ltd",
+      "currency": "EUR",
       "isin": "AU000000BKY0"
     },
     {
@@ -9303,6 +9405,12 @@
       "isin": null
     },
     {
+      "key": "BRCC:USD",
+      "name": "BRC Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BRCK:GBP",
       "name": "BRCK Group PLC",
       "currency": "GBP",
@@ -10157,6 +10265,12 @@
     {
       "key": "BY:USD",
       "name": "Byline Bancorp Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BYAH:USD",
+      "name": "Park Ha Biological Technology Co Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -11473,6 +11587,12 @@
       "name": "Cenergy Holdings SA",
       "currency": "EUR",
       "isin": "BE0974303357"
+    },
+    {
+      "key": "CENN:USD",
+      "name": "Cenntro Inc",
+      "currency": "USD",
+      "isin": "AU0000198582"
     },
     {
       "key": "CENP:EUR",
@@ -13387,6 +13507,12 @@
       "name": "Cosa Resources Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "COSHO:NOK",
+      "name": "Constellation Oil Services Holding SA",
+      "currency": "NOK",
+      "isin": "NO0013597419"
     },
     {
       "key": "COSM:USD",
@@ -15567,6 +15693,12 @@
       "isin": null
     },
     {
+      "key": "DFNS:USD",
+      "name": "T3 Defense Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "DFS:GBP",
       "name": "DFS Furniture PLC",
       "currency": "GBP",
@@ -15865,6 +15997,12 @@
       "name": "Delek US Holdings Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "DKGD:EUR",
+      "name": "Deutsche Konsum Real Estate AG",
+      "currency": "EUR",
+      "isin": "DE000A14KRD3"
     },
     {
       "key": "DKL:USD",
@@ -17241,6 +17379,12 @@
       "isin": null
     },
     {
+      "key": "EDHL:USD",
+      "name": "Everbright Digital Holding Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "EDIN:GBP",
       "name": "Edinburgh Investment Trust (The) PLC",
       "currency": "GBP",
@@ -18353,6 +18497,12 @@
     {
       "key": "ENS:USD",
       "name": "EnerSys",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ENSC:USD",
+      "name": "Ensysce Biosciences Inc",
       "currency": "USD",
       "isin": null
     },
@@ -20061,6 +20211,12 @@
       "isin": null
     },
     {
+      "key": "FERE:EUR",
+      "name": "Ferrovial NV",
+      "currency": "EUR",
+      "isin": "NL0015001FS8"
+    },
+    {
       "key": "FERG:USD",
       "name": "Ferguson PLC",
       "currency": "USD",
@@ -20575,6 +20731,12 @@
       "name": "FLSmidth & Co A/S",
       "currency": "DKK",
       "isin": "DK0010234467"
+    },
+    {
+      "key": "FLSC:USD",
+      "name": "Frazier Life Sciences Acquisition Corp II",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "FLT:CAD",
@@ -22365,6 +22527,12 @@
       "isin": "GG00BMF1JR16"
     },
     {
+      "key": "GENK:USD",
+      "name": "GEN Restaurant Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "GENL:GBP",
       "name": "Genel Energy PLC",
       "currency": "GBP",
@@ -23100,6 +23268,12 @@
       "key": "GMIN:CAD",
       "name": "G Mining Ventures Corp",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "GMM:USD",
+      "name": "Global Mofy Metaverse Ltd",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -26275,6 +26449,12 @@
       "name": "IAMGold Corp",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "IAGE:EUR",
+      "name": "International Consolidated Airlines Group SA",
+      "currency": "EUR",
+      "isin": "ES0177542018"
     },
     {
       "key": "IAM:USD",
@@ -33063,6 +33243,12 @@
       "isin": null
     },
     {
+      "key": "MEDS:USD",
+      "name": "DataMeds AI Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MEDXZ:CHF",
       "name": "Medmix AG",
       "currency": "CHF",
@@ -38145,6 +38331,12 @@
       "isin": "IE0003YHD8K8"
     },
     {
+      "key": "OCTVS:SEK",
+      "name": "Octave Intelligence PLC",
+      "currency": "SEK",
+      "isin": "SE0028329433"
+    },
+    {
       "key": "OCUL:USD",
       "name": "Ocular Therapeutix Inc",
       "currency": "USD",
@@ -40875,6 +41067,12 @@
       "isin": "GB00BP37WF17"
     },
     {
+      "key": "PINE:GBP",
+      "name": "Pinewood Technologies Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BSB7BS06"
+    },
+    {
       "key": "PINE:USD",
       "name": "Alpine Income Property Trust Inc",
       "currency": "USD",
@@ -41563,6 +41761,12 @@
       "name": "Outdoor Holding Co",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "POXELP:EUR",
+      "name": "Poxel SA",
+      "currency": "EUR",
+      "isin": "FR0012432516"
     },
     {
       "key": "PPC:USD",
@@ -42759,6 +42963,12 @@
       "isin": null
     },
     {
+      "key": "QNRX:USD",
+      "name": "Quoin Pharmaceuticals Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "QNST:USD",
       "name": "QuinStreet Inc",
       "currency": "USD",
@@ -43611,6 +43821,12 @@
       "isin": null
     },
     {
+      "key": "REINAA:EUR",
+      "name": "Reinet Investments SCA",
+      "currency": "EUR",
+      "isin": "LU0383812293"
+    },
+    {
       "key": "REJLBS:SEK",
       "name": "Rejlers AB",
       "currency": "SEK",
@@ -43939,6 +44155,12 @@
       "name": "RH",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "RHAI:GBP",
+      "name": "Roundhouse AI Ltd",
+      "currency": "GBP",
+      "isin": "SGXZ84721265"
     },
     {
       "key": "RHI:USD",
@@ -44711,6 +44933,12 @@
     {
       "key": "RRC:USD",
       "name": "Range Resources Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "RREV:USD",
+      "name": "RRE Ventures Acquisition Corp",
       "currency": "USD",
       "isin": null
     },
@@ -46533,6 +46761,12 @@
       "isin": null
     },
     {
+      "key": "SESGP:EUR",
+      "name": "SES SA",
+      "currency": "EUR",
+      "isin": "LU0088087324"
+    },
+    {
       "key": "SESM:EUR",
       "name": "Sesa SpA",
       "currency": "EUR",
@@ -47727,6 +47961,12 @@
       "isin": null
     },
     {
+      "key": "SLYGD:EUR",
+      "name": "Shelly Group SE",
+      "currency": "EUR",
+      "isin": "BG1100003166"
+    },
+    {
       "key": "SM:CAD",
       "name": "Sierra Madre Gold And Silver Ltd",
       "currency": "CAD",
@@ -48085,6 +48325,12 @@
       "name": "Synopsys Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "SNR:GBP",
+      "name": "Senior PLC",
+      "currency": "GBP",
+      "isin": "GB0007958233"
     },
     {
       "key": "SNT:USD",
@@ -48540,6 +48786,12 @@
       "key": "SPMC:CAD",
       "name": "South Pacific Metals Corp",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "SPMC:USD",
+      "name": "Sound Point Meridian Capital Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -50859,6 +51111,12 @@
       "isin": null
     },
     {
+      "key": "TERN:GBP",
+      "name": "Tern PLC",
+      "currency": "GBP",
+      "isin": "GB00BFPMV798"
+    },
+    {
       "key": "TESBB:EUR",
       "name": "Tessenderlo Group SA",
       "currency": "EUR",
@@ -51787,6 +52045,12 @@
       "name": "Tenaz Energy Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "TOBIIS:SEK",
+      "name": "Tobii AB",
+      "currency": "SEK",
+      "isin": "SE0002591420"
     },
     {
       "key": "TOI:CAD",
@@ -53029,6 +53293,12 @@
       "name": "TXT e-solutions SpA",
       "currency": "EUR",
       "isin": "IT0001454435"
+    },
+    {
+      "key": "TY:USD",
+      "name": "Tri-Continental Corp",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "TYGO:USD",
@@ -55305,6 +55575,12 @@
       "isin": null
     },
     {
+      "key": "VULD:EUR",
+      "name": "Vulcan Energy Resources Ltd",
+      "currency": "EUR",
+      "isin": "AU0000066086"
+    },
+    {
       "key": "VUP:EUR",
       "name": "Vusion/France",
       "currency": "EUR",
@@ -57275,6 +57551,12 @@
     {
       "key": "YMM:USD",
       "name": "Full Truck Alliance Co Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "YMT:USD",
+      "name": "Yimutian Inc",
       "currency": "USD",
       "isin": null
     },
