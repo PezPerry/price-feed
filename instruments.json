@@ -18603,6 +18603,12 @@
       "isin": "ES0130670112"
     },
     {
+      "key": "ELEF:CAD",
+      "name": "Silver Elephant Mining Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "ELF:CAD",
       "name": "E-L Financial",
       "currency": "CAD",
@@ -47791,6 +47797,12 @@
       "name": "SGS SA",
       "currency": "CHF",
       "isin": "CH1256740924"
+    },
+    {
+      "key": "SGU:CAD",
+      "name": "Signature Resources Ltd",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "SGU:USD",
