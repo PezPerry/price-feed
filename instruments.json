@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -8169,6 +8169,12 @@
       "isin": null
     },
     {
+      "key": "BCU:CAD",
+      "name": "Bell Copper Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BCVNZ:CHF",
       "name": "Banque Cantonale Vaudoise",
       "currency": "CHF",
@@ -8543,12 +8549,6 @@
     {
       "key": "BFLY:USD",
       "name": "Butterfly Network Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BFRG:USD",
-      "name": "BullFrog AI Holdings Inc",
       "currency": "USD",
       "isin": null
     },
@@ -11511,6 +11511,12 @@
       "isin": null
     },
     {
+      "key": "CAS:GBP",
+      "name": "Candessa Ai PLC",
+      "currency": "GBP",
+      "isin": "GB00BYV31355"
+    },
+    {
       "key": "CASH:USD",
       "name": "Pathward Financial Inc",
       "currency": "USD",
@@ -14457,12 +14463,6 @@
       "isin": null
     },
     {
-      "key": "CPS:CAD",
-      "name": "Canadian Premium Sand Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CPS:USD",
       "name": "Cooper-Standard Holdings Inc",
       "currency": "USD",
@@ -15349,6 +15349,12 @@
       "name": "City of London Investment Trust (The) PLC",
       "currency": "GBP",
       "isin": "GB0001990497"
+    },
+    {
+      "key": "CTY:USD",
+      "name": "City Therapeutics Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "CTY1SH:EUR",
@@ -18225,12 +18231,6 @@
       "isin": "GB00BNDMJS47"
     },
     {
-      "key": "EDY:CAD",
-      "name": "Eddy Smart Home Solutions Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "EE:USD",
       "name": "Excelerate Energy Inc",
       "currency": "USD",
@@ -18601,12 +18601,6 @@
       "name": "Endesa SA",
       "currency": "EUR",
       "isin": "ES0130670112"
-    },
-    {
-      "key": "ELEF:CAD",
-      "name": "Silver Elephant Mining Corporation",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "ELF:CAD",
@@ -24333,12 +24327,6 @@
       "isin": null
     },
     {
-      "key": "GPS:CAD",
-      "name": "Great Plains Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GPUS:USD",
       "name": "Hyperscale Data Inc",
       "currency": "USD",
@@ -26253,6 +26241,12 @@
       "isin": "GB00B1FW5029"
     },
     {
+      "key": "HODL:GBP",
+      "name": "B HODL PLC",
+      "currency": "GBP",
+      "isin": "IM00BV6P5N30"
+    },
+    {
       "key": "HOFIS:SEK",
       "name": "Hoist Finance AB",
       "currency": "SEK",
@@ -26693,6 +26687,12 @@
     {
       "key": "HTB:USD",
       "name": "HomeTrust Bancshares Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "HTCO:USD",
+      "name": "Caravelle International Group",
       "currency": "USD",
       "isin": null
     },
@@ -36693,12 +36693,6 @@
       "isin": null
     },
     {
-      "key": "NCP:CAD",
-      "name": "Nickel Creek Platinum Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "NCPL:USD",
       "name": "Netcapital Inc",
       "currency": "USD",
@@ -41601,6 +41595,12 @@
       "isin": null
     },
     {
+      "key": "PHIO:USD",
+      "name": "Phio Pharmaceuticals Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "PHK:USD",
       "name": "PIMCO High Income Fund",
       "currency": "USD",
@@ -46353,6 +46353,12 @@
       "isin": null
     },
     {
+      "key": "SAGT:USD",
+      "name": "Sagtec Global Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SAGU:USD",
       "name": "Shreya Acquisition Group",
       "currency": "USD",
@@ -46423,6 +46429,12 @@
       "name": "Microsalt PLC",
       "currency": "GBP",
       "isin": "GB00BQB6FF85"
+    },
+    {
+      "key": "SALTBS:SEK",
+      "name": "SaltX Technology Holding AB",
+      "currency": "SEK",
+      "isin": "SE0005308541"
     },
     {
       "key": "SAM:CAD",
@@ -48913,6 +48925,12 @@
       "name": "Smart Sand Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "SNDA:GBP",
+      "name": "Sunda Energy PLC",
+      "currency": "GBP",
+      "isin": "GB00BSHSGY88"
     },
     {
       "key": "SNDA:USD",
@@ -56991,6 +57009,12 @@
       "isin": null
     },
     {
+      "key": "WIMI:USD",
+      "name": "WiMi Hologram Cloud ADR",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "WINA:USD",
       "name": "Winmark Corp",
       "currency": "USD",
@@ -57618,12 +57642,6 @@
       "key": "WVM:CAD",
       "name": "West Vault Mining Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "WVVI:USD",
-      "name": "Willamette Valley Vineyards Inc",
-      "currency": "USD",
       "isin": null
     },
     {
