@@ -3609,6 +3609,12 @@
       "isin": "GB00BF50VS41"
     },
     {
+      "key": "AIEA:GBP",
+      "name": "Airea PLC",
+      "currency": "GBP",
+      "isin": "GB0008123027"
+    },
+    {
       "key": "AIF:CAD",
       "name": "Altus Group Limited",
       "currency": "CAD",
