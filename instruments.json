@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -3951,6 +3951,12 @@
       "isin": "FR0014005AC9"
     },
     {
+      "key": "ALAR:USD",
+      "name": "Alarum Technologies Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ALB:USD",
       "name": "Albemarle Corp",
       "currency": "USD",
@@ -5563,6 +5569,12 @@
       "name": "Apogee Enterprises Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "APOTES:SEK",
+      "name": "Apotea AB",
+      "currency": "SEK",
+      "isin": "SE0023313762"
     },
     {
       "key": "APP:USD",
@@ -7539,6 +7551,12 @@
       "isin": null
     },
     {
+      "key": "BACTBS:SEK",
+      "name": "Bactiguard Holding AB",
+      "currency": "SEK",
+      "isin": "SE0005878741"
+    },
+    {
       "key": "BAER:USD",
       "name": "Bridger Aerospace Group Holdings Inc",
       "currency": "USD",
@@ -8244,6 +8262,12 @@
       "key": "BE:USD",
       "name": "Bloom Energy Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BEA:CAD",
+      "name": "Belmont Resources Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -9541,6 +9565,12 @@
       "name": "Banijay Group NV",
       "currency": "EUR",
       "isin": "NL0015000X07"
+    },
+    {
+      "key": "BNKK:USD",
+      "name": "Bonk Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "BNKR:CAD",
@@ -13229,6 +13259,12 @@
     {
       "key": "CLIR:USD",
       "name": "ClearSign Technologies Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "CLLS:USD",
+      "name": "Cellectis SA",
       "currency": "USD",
       "isin": null
     },
@@ -24285,6 +24321,12 @@
       "isin": null
     },
     {
+      "key": "GPS:CAD",
+      "name": "Great Plains Metals Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GPUS:USD",
       "name": "Hyperscale Data Inc",
       "currency": "USD",
@@ -27859,6 +27901,12 @@
       "name": "Immersion Corp",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "IMMUS:SEK",
+      "name": "Mendus AB",
+      "currency": "SEK",
+      "isin": "SE0022239950"
     },
     {
       "key": "IMMX:USD",
@@ -31479,6 +31527,12 @@
       "isin": null
     },
     {
+      "key": "LCU:USD",
+      "name": "Lion Copper Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "LCUT:USD",
       "name": "Lifetime Brands Inc",
       "currency": "USD",
@@ -32401,6 +32455,12 @@
       "name": "Lords Group Trading PLC",
       "currency": "GBP",
       "isin": "GB00BM9CLS53"
+    },
+    {
+      "key": "LOT:CAD",
+      "name": "Tomagold Corporation",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "LOT:USD",
@@ -34051,6 +34111,12 @@
       "name": "Meta Platforms Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "METAS:SEK",
+      "name": "Metacon AB",
+      "currency": "SEK",
+      "isin": "SE0003086214"
     },
     {
       "key": "METC:USD",
@@ -40539,6 +40605,12 @@
       "isin": "GB0002341666"
     },
     {
+      "key": "PAM:USD",
+      "name": "Pampa Energia SA",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "PAMPAH:EUR",
       "name": "Endomines Finland Oyj",
       "currency": "EUR",
@@ -42319,6 +42391,12 @@
       "name": "Polar Capital Holdings PLC",
       "currency": "GBP",
       "isin": "GB00B1GCLT25"
+    },
+    {
+      "key": "POM:USD",
+      "name": "Pomdoctor Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "PON1VH:EUR",
@@ -44645,12 +44723,6 @@
     {
       "key": "REVX:CAD",
       "name": "REV Exploration Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "REX:CAD",
-      "name": "Orex Minerals Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -49023,6 +49095,12 @@
       "isin": null
     },
     {
+      "key": "SNXS:SEK",
+      "name": "Premium Snacks Nordic AB",
+      "currency": "SEK",
+      "isin": "SE0006260865"
+    },
+    {
       "key": "SNY:USD",
       "name": "Sanofi",
       "currency": "USD",
@@ -52551,6 +52629,12 @@
       "isin": null
     },
     {
+      "key": "TMET:CAD",
+      "name": "Torr Metals Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "TMG:CAD",
       "name": "Thermal Energy International Inc.",
       "currency": "CAD",
@@ -52723,6 +52807,12 @@
       "name": "Tenaz Energy Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "TOBIIS:SEK",
+      "name": "Tobii AB",
+      "currency": "SEK",
+      "isin": "SE0002591420"
     },
     {
       "key": "TOI:CAD",
@@ -52933,12 +53023,6 @@
       "name": "Technoprobe SpA",
       "currency": "EUR",
       "isin": "IT0005482333"
-    },
-    {
-      "key": "TPST:USD",
-      "name": "Tempest Therapeutics Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "TPT:GBP",
@@ -55425,6 +55509,12 @@
       "isin": "GB00BWGBNB23"
     },
     {
+      "key": "VIDA:USD",
+      "name": "VIDA Global Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "VIDE:EUR",
       "name": "Vidrala SA",
       "currency": "EUR",
@@ -57629,6 +57719,12 @@
     {
       "key": "WWW:USD",
       "name": "Wolverine Worldwide Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "WXM:USD",
+      "name": "WF International Ltd",
       "currency": "USD",
       "isin": null
     },
