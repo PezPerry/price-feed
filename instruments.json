@@ -15789,6 +15789,12 @@
       "isin": null
     },
     {
+      "key": "CYM:CAD",
+      "name": "Cymat Technologies Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CYN:GBP",
       "name": "City Natural Resources Growth and Income PLC",
       "currency": "GBP",
@@ -19199,6 +19205,12 @@
     {
       "key": "ENS:USD",
       "name": "EnerSys",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ENSC:USD",
+      "name": "Ensysce Biosciences Inc",
       "currency": "USD",
       "isin": null
     },
@@ -31847,6 +31859,12 @@
     {
       "key": "LHAI:USD",
       "name": "Linkhome Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "LHSW:USD",
+      "name": "Lianhe Sowell International Group Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -48543,6 +48561,12 @@
       "isin": null
     },
     {
+      "key": "SLGB:USD",
+      "name": "Smart Logistics Global Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SLGL:USD",
       "name": "Sol-Gel Technologies Ltd",
       "currency": "USD",
@@ -57891,6 +57915,12 @@
       "isin": null
     },
     {
+      "key": "XHLD:USD",
+      "name": "TEN Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "XHR:USD",
       "name": "Xenia Hotels & Resorts Inc",
       "currency": "USD",
@@ -58548,6 +58578,12 @@
       "key": "ZBIO:USD",
       "name": "Zenas Biopharma Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ZBNI:CAD",
+      "name": "ZEB Nickel Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
