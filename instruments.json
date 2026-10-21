@@ -3237,12 +3237,6 @@
       "isin": "FR001400J770"
     },
     {
-      "key": "AFP:GBP",
-      "name": "African Pioneer PLC",
-      "currency": "GBP",
-      "isin": "IM00B8C0HK22"
-    },
-    {
       "key": "AFRI:USD",
       "name": "Forafric Global PLC",
       "currency": "USD",
@@ -5571,12 +5565,6 @@
       "isin": null
     },
     {
-      "key": "APOTES:SEK",
-      "name": "Apotea AB",
-      "currency": "SEK",
-      "isin": "SE0023313762"
-    },
-    {
       "key": "APP:USD",
       "name": "Applovin Corp",
       "currency": "USD",
@@ -7551,12 +7539,6 @@
       "isin": null
     },
     {
-      "key": "BACTBS:SEK",
-      "name": "Bactiguard Holding AB",
-      "currency": "SEK",
-      "isin": "SE0005878741"
-    },
-    {
       "key": "BAER:USD",
       "name": "Bridger Aerospace Group Holdings Inc",
       "currency": "USD",
@@ -8265,12 +8247,6 @@
       "isin": null
     },
     {
-      "key": "BEA:CAD",
-      "name": "Belmont Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "BEAG:USD",
       "name": "Bold Eagle Acquisition Corp",
       "currency": "USD",
@@ -8605,12 +8581,6 @@
       "name": "Baillie Gifford China Growth Trust PLC",
       "currency": "GBP",
       "isin": "GB0003656021"
-    },
-    {
-      "key": "BGD:CAD",
-      "name": "Bullion Gold Discoveries Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BGDE:USD",
@@ -9763,12 +9733,6 @@
       "name": "Bonava AB",
       "currency": "SEK",
       "isin": "SE0008091581"
-    },
-    {
-      "key": "BONE:CAD",
-      "name": "Boron One Holdings Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BONEXS:SEK",
@@ -11051,12 +11015,6 @@
     {
       "key": "BZFD:USD",
       "name": "BuzzFeed Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BZH:USD",
-      "name": "Beazer Homes USA Inc",
       "currency": "USD",
       "isin": null
     },
@@ -13092,12 +13050,6 @@
       "key": "CJ:CAD",
       "name": "Cardinal Energy Ltd",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "CJMB:USD",
-      "name": "Callan JMB Inc",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -27907,12 +27859,6 @@
       "name": "Immersion Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "IMMUS:SEK",
-      "name": "Mendus AB",
-      "currency": "SEK",
-      "isin": "SE0022239950"
     },
     {
       "key": "IMMX:USD",
@@ -52779,12 +52725,6 @@
       "isin": null
     },
     {
-      "key": "TOBIIS:SEK",
-      "name": "Tobii AB",
-      "currency": "SEK",
-      "isin": "SE0002591420"
-    },
-    {
       "key": "TOI:CAD",
       "name": "Topicus Com Inc",
       "currency": "CAD",
@@ -55483,12 +55423,6 @@
       "name": "Videndum PLC",
       "currency": "GBP",
       "isin": "GB00BWGBNB23"
-    },
-    {
-      "key": "VIDA:USD",
-      "name": "VIDA Global Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "VIDE:EUR",
