@@ -765,6 +765,12 @@
       "isin": "NL0011585146"
     },
     {
+      "key": "0REH:NOK",
+      "name": "Frontline PLC",
+      "currency": "NOK",
+      "isin": "CY0200352116"
+    },
+    {
       "key": "0REQ:DKK",
       "name": "Per Aarsleff Holding AS",
       "currency": "DKK",
@@ -3169,6 +3175,12 @@
       "name": "Air France-KLM",
       "currency": "EUR",
       "isin": "FR001400J770"
+    },
+    {
+      "key": "AFP:GBP",
+      "name": "African Pioneer PLC",
+      "currency": "GBP",
+      "isin": "IM00B8C0HK22"
     },
     {
       "key": "AFRI:USD",
@@ -9873,6 +9885,12 @@
       "isin": null
     },
     {
+      "key": "BPT:GBP",
+      "name": "Bridgepoint Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BND88V85"
+    },
+    {
       "key": "BR:CAD",
       "name": "BIG Rock Brewery Inc.",
       "currency": "CAD",
@@ -15184,7 +15202,7 @@
     },
     {
       "key": "CTUK:GBP",
-      "name": "CT UK Capital And Income Investment Trust PLC",
+      "name": "CT Progressive Income PLC",
       "currency": "GBP",
       "isin": "GB0003463287"
     },
