@@ -765,12 +765,6 @@
       "isin": "NL0011585146"
     },
     {
-      "key": "0REH:NOK",
-      "name": "Frontline PLC",
-      "currency": "NOK",
-      "isin": "CY0200352116"
-    },
-    {
       "key": "0REQ:DKK",
       "name": "Per Aarsleff Holding AS",
       "currency": "DKK",
@@ -909,12 +903,6 @@
       "isin": null
     },
     {
-      "key": "12DAD:EUR",
-      "name": "Dell Technologies Inc",
-      "currency": "EUR",
-      "isin": null
-    },
-    {
       "key": "1947:GBP",
       "name": "1947 Oil & Gas PLC",
       "currency": "GBP",
@@ -1029,12 +1017,6 @@
       "isin": "NL0010273215"
     },
     {
-      "key": "1ASTD:EUR",
-      "name": "ASTA Energy Solutions AG",
-      "currency": "EUR",
-      "isin": "AT100ASTA001"
-    },
-    {
       "key": "1AVGOM:EUR",
       "name": "Broadcom Inc",
       "currency": "EUR",
@@ -1141,12 +1123,6 @@
       "name": "Deutsche Bank AG",
       "currency": "EUR",
       "isin": "DE0005140008"
-    },
-    {
-      "key": "1DELLM:EUR",
-      "name": "Dell Technologies Inc",
-      "currency": "EUR",
-      "isin": null
     },
     {
       "key": "1DISM:EUR",
@@ -1377,18 +1353,6 @@
       "isin": null
     },
     {
-      "key": "1PGM:EUR",
-      "name": "Procter & Gamble Co/The",
-      "currency": "EUR",
-      "isin": null
-    },
-    {
-      "key": "1PLTRM:EUR",
-      "name": "Palantir Technologies Inc",
-      "currency": "EUR",
-      "isin": null
-    },
-    {
       "key": "1PLUGM:EUR",
       "name": "Plug Power Inc",
       "currency": "EUR",
@@ -1483,12 +1447,6 @@
       "name": "Spotify Technology SA",
       "currency": "EUR",
       "isin": "LU1778762911"
-    },
-    {
-      "key": "1STXM:EUR",
-      "name": "Seagate Technology Holdings PLC",
-      "currency": "EUR",
-      "isin": "IE00BKVD2N49"
     },
     {
       "key": "1SXPD:EUR",
@@ -1611,12 +1569,6 @@
       "isin": "DE000A2E4T77"
     },
     {
-      "key": "2OYD:EUR",
-      "name": "Dow Inc",
-      "currency": "EUR",
-      "isin": null
-    },
-    {
       "key": "33LD:EUR",
       "name": "Lululemon Athletica Inc",
       "currency": "EUR",
@@ -1671,12 +1623,6 @@
       "isin": null
     },
     {
-      "key": "5Q5D:EUR",
-      "name": "Snowflake Inc",
-      "currency": "EUR",
-      "isin": null
-    },
-    {
       "key": "639D:EUR",
       "name": "Spotify Technology SA",
       "currency": "EUR",
@@ -1691,12 +1637,6 @@
     {
       "key": "6MKD:EUR",
       "name": "Merck & Co Inc",
-      "currency": "EUR",
-      "isin": null
-    },
-    {
-      "key": "6Z1D:EUR",
-      "name": "Airbnb Inc",
       "currency": "EUR",
       "isin": null
     },
@@ -2751,12 +2691,6 @@
       "isin": null
     },
     {
-      "key": "ADKOV:EUR",
-      "name": "Addiko Bank AG",
-      "currency": "EUR",
-      "isin": "AT000ADDIKO0"
-    },
-    {
       "key": "ADM:GBP",
       "name": "Admiral Group PLC",
       "currency": "GBP",
@@ -3439,12 +3373,6 @@
       "name": "Adecoagro SA",
       "currency": "USD",
       "isin": "LU0584671464"
-    },
-    {
-      "key": "AGRV:EUR",
-      "name": "Agrana Beteiligungs AG",
-      "currency": "EUR",
-      "isin": "AT000AGRANA3"
     },
     {
       "key": "AGSB:EUR",
@@ -5031,12 +4959,6 @@
       "isin": null
     },
     {
-      "key": "AMSZ:CHF",
-      "name": "ams-OSRAM AG",
-      "currency": "CHF",
-      "isin": "AT0000A3EPA4"
-    },
-    {
       "key": "AMT:CAD",
       "name": "Ameritrust Financial Technologies Inc",
       "currency": "CAD",
@@ -5149,12 +5071,6 @@
       "name": "Andersen Group Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "ANDRV:EUR",
-      "name": "ANDRITZ AG",
-      "currency": "EUR",
-      "isin": "AT0000730007"
     },
     {
       "key": "ANEE:EUR",
@@ -6727,12 +6643,6 @@
       "name": "ATS Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "ATSV:EUR",
-      "name": "AT&S Austria Technologie & Systemtechnik AG",
-      "currency": "EUR",
-      "isin": "AT0000969985"
     },
     {
       "key": "ATT:GBP",
@@ -8685,12 +8595,6 @@
       "isin": "GB0007913485"
     },
     {
-      "key": "BGV:EUR",
-      "name": "BAWAG Group AG",
-      "currency": "EUR",
-      "isin": "AT0000BAWAG2"
-    },
-    {
       "key": "BHAV:USD",
       "name": "Bhav Acquisition Corp",
       "currency": "USD",
@@ -9969,12 +9873,6 @@
       "isin": null
     },
     {
-      "key": "BPT:GBP",
-      "name": "Bridgepoint Group PLC",
-      "currency": "GBP",
-      "isin": "GB00BND88V85"
-    },
-    {
       "key": "BR:CAD",
       "name": "BIG Rock Brewery Inc.",
       "currency": "CAD",
@@ -10105,12 +10003,6 @@
       "name": "Blencowe Resources PLC",
       "currency": "GBP",
       "isin": "GB00BFCMVS34"
-    },
-    {
-      "key": "BRFH:USD",
-      "name": "Barfresh Food Group Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "BRFI:GBP",
@@ -11239,12 +11131,6 @@
       "name": "Cairo Communication SpA",
       "currency": "EUR",
       "isin": "IT0004329733"
-    },
-    {
-      "key": "CAIV:EUR",
-      "name": "CA Immobilien Anlagen AG",
-      "currency": "EUR",
-      "isin": "AT0000641352"
     },
     {
       "key": "CAKE:USD",
@@ -13379,12 +13265,6 @@
     {
       "key": "CLW:USD",
       "name": "Clearwater Paper Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "CLWT:USD",
-      "name": "Euro Tech Holdings Co Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -17073,12 +16953,6 @@
       "isin": null
     },
     {
-      "key": "DOCV:EUR",
-      "name": "DO & CO AG",
-      "currency": "EUR",
-      "isin": "AT0000818802"
-    },
-    {
       "key": "DOFGO:NOK",
       "name": "DOF Group ASA",
       "currency": "NOK",
@@ -17911,12 +17785,6 @@
       "name": "Emergent Biosolutions Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "EBSV:EUR",
-      "name": "Erste Group Bank AG",
-      "currency": "EUR",
-      "isin": "AT0000652011"
     },
     {
       "key": "EBUSA:EUR",
@@ -19905,12 +19773,6 @@
       "isin": null
     },
     {
-      "key": "ETSV:EUR",
-      "name": "Eurotelesites AG",
-      "currency": "EUR",
-      "isin": "AT000000ETS9"
-    },
-    {
       "key": "ETSY:USD",
       "name": "Etsy Inc",
       "currency": "USD",
@@ -20053,12 +19915,6 @@
       "name": "EV Nickel Inc",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "EVNV:EUR",
-      "name": "EVN AG",
-      "currency": "EUR",
-      "isin": "AT0000741053"
     },
     {
       "key": "EVO:USD",
@@ -20373,12 +20229,6 @@
       "isin": null
     },
     {
-      "key": "FAAD:EUR",
-      "name": "Fabasoft AG",
-      "currency": "EUR",
-      "isin": "AT0000785407"
-    },
-    {
       "key": "FABC:USD",
       "name": "Fabric.AI Inc",
       "currency": "USD",
@@ -20395,12 +20245,6 @@
       "name": "Factorial Energy Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "FACCV:EUR",
-      "name": "FACC AG",
-      "currency": "EUR",
-      "isin": "AT00000FACC2"
     },
     {
       "key": "FACT:USD",
@@ -21411,12 +21255,6 @@
       "isin": "IE00BWT6H894"
     },
     {
-      "key": "FLUV:EUR",
-      "name": "Flughafen Wien AG",
-      "currency": "EUR",
-      "isin": "AT00000VIE62"
-    },
-    {
       "key": "FLUXB:EUR",
       "name": "Fluxys Belgium SA",
       "currency": "EUR",
@@ -21499,12 +21337,6 @@
       "name": "Fresenius Medical Care AG",
       "currency": "EUR",
       "isin": "DE0005785802"
-    },
-    {
-      "key": "FMET:GBP",
-      "name": "Fulcrum Metals PLC",
-      "currency": "GBP",
-      "isin": "GB00BPCPPZ79"
     },
     {
       "key": "FMM:EUR",
@@ -21871,18 +21703,6 @@
       "name": "FPX Nickel Corp",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "FQTD:EUR",
-      "name": "Frequentis AG",
-      "currency": "EUR",
-      "isin": "ATFREQUENT09"
-    },
-    {
-      "key": "FQTV:EUR",
-      "name": "Frequentis AG",
-      "currency": "EUR",
-      "isin": "ATFREQUENT09"
     },
     {
       "key": "FR:USD",
@@ -31041,12 +30861,6 @@
       "isin": null
     },
     {
-      "key": "KTCGV:EUR",
-      "name": "Kapsch TrafficCom AG",
-      "currency": "EUR",
-      "isin": "AT000KAPSCH9"
-    },
-    {
       "key": "KTF:USD",
       "name": "DWS Municipal Income Trust",
       "currency": "USD",
@@ -31063,12 +30877,6 @@
       "name": "Kootenay Silver Inc",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "KTND:EUR",
-      "name": "Kontron AG",
-      "currency": "EUR",
-      "isin": "AT0000A0E9W5"
     },
     {
       "key": "KTO:CAD",
@@ -32349,12 +32157,6 @@
       "isin": null
     },
     {
-      "key": "LNZV:EUR",
-      "name": "Lenzing AG",
-      "currency": "EUR",
-      "isin": "AT0000644505"
-    },
-    {
       "key": "LOAN:USD",
       "name": "Manhattan Bridge Capital Inc",
       "currency": "USD",
@@ -32739,12 +32541,6 @@
       "isin": "FR0000065484"
     },
     {
-      "key": "LST:GBP",
-      "name": "Light Science Technologies Holdings PLC",
-      "currency": "GBP",
-      "isin": "GB00BNDQJN14"
-    },
-    {
       "key": "LSTA:USD",
       "name": "Lisata Therapeutics Inc",
       "currency": "USD",
@@ -33033,12 +32829,6 @@
       "isin": null
     },
     {
-      "key": "LXE:CAD",
-      "name": "Latin Explore Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "LXEO:USD",
       "name": "Lexeo Therapeutics Inc",
       "currency": "USD",
@@ -33156,12 +32946,6 @@
       "key": "M:USD",
       "name": "Macy's Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "M44D:EUR",
-      "name": "MARA Holdings Inc",
-      "currency": "EUR",
       "isin": null
     },
     {
@@ -33553,12 +33337,6 @@
       "name": "Mobio Technologies Inc",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "MBO:GBP",
-      "name": "MobilityOne Ltd",
-      "currency": "GBP",
-      "isin": "JE00B1Z48326"
     },
     {
       "key": "MBOT:USD",
@@ -34843,12 +34621,6 @@
       "name": "Mobius Investment Trust PLC",
       "currency": "GBP",
       "isin": "GB00BFZ7R980"
-    },
-    {
-      "key": "MMKV:EUR",
-      "name": "Mayr Melnhof Karton AG",
-      "currency": "EUR",
-      "isin": "AT0000938204"
     },
     {
       "key": "MMLP:USD",
@@ -39405,12 +39177,6 @@
       "isin": "GG00BMFG5F62"
     },
     {
-      "key": "OLB:USD",
-      "name": "OLB Group Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "OLED:USD",
       "name": "Universal Display Corp",
       "currency": "USD",
@@ -39565,12 +39331,6 @@
       "name": "Old Mutual Ltd",
       "currency": "GBP",
       "isin": "ZAE000255360"
-    },
-    {
-      "key": "OMVV:EUR",
-      "name": "OMV AG",
-      "currency": "EUR",
-      "isin": "AT0000743059"
     },
     {
       "key": "ON:USD",
@@ -40609,12 +40369,6 @@
       "name": "Paragon Advanced Labs Inc",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "PALV:EUR",
-      "name": "Palfinger AG",
-      "currency": "EUR",
-      "isin": "AT0000758305"
     },
     {
       "key": "PAM:GBP",
@@ -42459,18 +42213,6 @@
       "isin": "FI4000592159"
     },
     {
-      "key": "POSTV:EUR",
-      "name": "Oesterreichische Post AG",
-      "currency": "EUR",
-      "isin": "AT0000APOST4"
-    },
-    {
-      "key": "POSV:EUR",
-      "name": "Porr Ag",
-      "currency": "EUR",
-      "isin": "AT0000609607"
-    },
-    {
       "key": "POU:CAD",
       "name": "Paramount Resources Ltd.",
       "currency": "CAD",
@@ -42708,12 +42450,6 @@
       "key": "PRG:USD",
       "name": "PROG Holdings Common Stock",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "PRGD:EUR",
-      "name": "Procter & Gamble Co/The",
-      "currency": "EUR",
       "isin": null
     },
     {
@@ -43293,12 +43029,6 @@
       "isin": null
     },
     {
-      "key": "PTXD:EUR",
-      "name": "Palantir Technologies Inc",
-      "currency": "EUR",
-      "isin": null
-    },
-    {
       "key": "PTY:USD",
       "name": "PIMCO Corporate & Income Opportunity Fund",
       "currency": "USD",
@@ -43531,12 +43261,6 @@
       "name": "Pyrogenesis Canada Inc",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "PYTV:EUR",
-      "name": "POLYTEC Holding AG",
-      "currency": "EUR",
-      "isin": "AT0000A00XX9"
     },
     {
       "key": "PYXS:USD",
@@ -44161,12 +43885,6 @@
       "name": "Republic Bancorp Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "RBIV:EUR",
-      "name": "Raiffeisen Bank International AG",
-      "currency": "EUR",
-      "isin": "AT0000606306"
     },
     {
       "key": "RBKB:USD",
@@ -44943,12 +44661,6 @@
       "isin": "NL0012650360"
     },
     {
-      "key": "RHIMV:EUR",
-      "name": "RHI Magnesita NV",
-      "currency": "EUR",
-      "isin": "NL0012650360"
-    },
-    {
       "key": "RHKD:EUR",
       "name": "RHOEN-KLINIKUM AG",
       "currency": "EUR",
@@ -45595,12 +45307,6 @@
       "name": "Ross Stores Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "ROSV:EUR",
-      "name": "Rosenbauer International AG",
-      "currency": "EUR",
-      "isin": "AT0000922554"
     },
     {
       "key": "ROVIE:EUR",
@@ -46815,12 +46521,6 @@
       "isin": "NO0010612450"
     },
     {
-      "key": "SBOV:EUR",
-      "name": "SBO AG",
-      "currency": "EUR",
-      "isin": "AT0000946652"
-    },
-    {
       "key": "SBR:USD",
       "name": "Sabine Royalty Trust",
       "currency": "USD",
@@ -47011,12 +46711,6 @@
       "name": "Stepan Co",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "SCLP:GBP",
-      "name": "Scancell Holdings PLC",
-      "currency": "GBP",
-      "isin": "GB00B63D3314"
     },
     {
       "key": "SCLX:USD",
@@ -47413,12 +47107,6 @@
       "name": "Semapa-Sociedade de Investimento e Gestao",
       "currency": "EUR",
       "isin": "PTSEM0AM0004"
-    },
-    {
-      "key": "SEMV:EUR",
-      "name": "Semperit AG Holding",
-      "currency": "EUR",
-      "isin": "AT0000785555"
     },
     {
       "key": "SEND:CAD",
@@ -50265,12 +49953,6 @@
       "isin": null
     },
     {
-      "key": "STG:USD",
-      "name": "Sunlands Online Education Group",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "STGC:DKK",
       "name": "Scandinavian Tobacco Group A/S",
       "currency": "DKK",
@@ -50467,12 +50149,6 @@
       "name": "Strattec Security Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "STRV:EUR",
-      "name": "Strabag SE",
-      "currency": "EUR",
-      "isin": "AT000000STR1"
     },
     {
       "key": "STRW:USD",
@@ -51012,12 +50688,6 @@
       "key": "SXI:USD",
       "name": "Standex International Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SXL:CAD",
-      "name": "Slam Exploration Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -52425,12 +52095,6 @@
       "isin": "DE0007500001"
     },
     {
-      "key": "TKAV:EUR",
-      "name": "Telekom Austria AG",
-      "currency": "EUR",
-      "isin": "AT0000720008"
-    },
-    {
       "key": "TKBPZ:CHF",
       "name": "Thurgauer Kantonalbank",
       "currency": "CHF",
@@ -53637,12 +53301,6 @@
       "isin": "IE00BK9ZQ967"
     },
     {
-      "key": "TT8D:EUR",
-      "name": "Trade Desk Inc/The",
-      "currency": "EUR",
-      "isin": null
-    },
-    {
       "key": "TTALOH:EUR",
       "name": "Terveystalo Oyj",
       "currency": "EUR",
@@ -54219,12 +53877,6 @@
       "isin": null
     },
     {
-      "key": "UBSV:EUR",
-      "name": "UBM Development AG",
-      "currency": "EUR",
-      "isin": "AT0000815402"
-    },
-    {
       "key": "UCB:USD",
       "name": "United Community Banks Inc",
       "currency": "USD",
@@ -54669,12 +54321,6 @@
       "isin": null
     },
     {
-      "key": "UQAV:EUR",
-      "name": "UNIQA Insurance Group AG",
-      "currency": "EUR",
-      "isin": "AT0000821103"
-    },
-    {
       "key": "URB:CAD",
       "name": "Urbana Corporation",
       "currency": "CAD",
@@ -54840,12 +54486,6 @@
       "key": "USS:CAD",
       "name": "Uniserve Communications Corporation",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "UT8D:EUR",
-      "name": "Uber Technologies Inc",
-      "currency": "EUR",
       "isin": null
     },
     {
@@ -55353,12 +54993,6 @@
       "isin": null
     },
     {
-      "key": "VERV:EUR",
-      "name": "Verbund AG",
-      "currency": "EUR",
-      "isin": "AT0000746409"
-    },
-    {
       "key": "VERX:USD",
       "name": "Vertex Common Shares",
       "currency": "USD",
@@ -55549,12 +55183,6 @@
       "name": "Veolia Environnement SA",
       "currency": "EUR",
       "isin": "FR0000124141"
-    },
-    {
-      "key": "VIGV:EUR",
-      "name": "Vienna Insurance Group AG Wiener Versicherung Gruppe",
-      "currency": "EUR",
-      "isin": "AT0000908504"
     },
     {
       "key": "VIH1D:EUR",
@@ -55993,12 +55621,6 @@
       "name": "Vodafone Group PLC",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "VOEV:EUR",
-      "name": "voestalpine AG",
-      "currency": "EUR",
-      "isin": "AT0000937503"
     },
     {
       "key": "VOF:GBP",
@@ -57025,12 +56647,6 @@
       "name": "Western Asset Inflation-Linked Income Fund",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "WIEV:EUR",
-      "name": "Wienerberger AG",
-      "currency": "EUR",
-      "isin": "AT0000831706"
     },
     {
       "key": "WIHLS:SEK",
@@ -58531,12 +58147,6 @@
       "name": "Zacatecas Silver Corp",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "ZAGV:EUR",
-      "name": "Zumtobel Group AG",
-      "currency": "EUR",
-      "isin": "AT0000837307"
     },
     {
       "key": "ZALD:EUR",
