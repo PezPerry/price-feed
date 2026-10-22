@@ -9003,6 +9003,12 @@
       "isin": null
     },
     {
+      "key": "BIRD:CAD",
+      "name": "Thunderbird Minerals Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BIRD:GBP",
       "name": "Blackbird PLC",
       "currency": "GBP",
@@ -9763,6 +9769,12 @@
       "name": "Bonava AB",
       "currency": "SEK",
       "isin": "SE0008091581"
+    },
+    {
+      "key": "BONE:CAD",
+      "name": "Boron One Holdings Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "BONEXS:SEK",
