@@ -37437,6 +37437,12 @@
       "isin": null
     },
     {
+      "key": "NKW.H:CAD",
+      "name": "Oceanic Wind Energy Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "NKX:USD",
       "name": "Nuveen California AMT-Free Municipal Income Fund",
       "currency": "USD",
