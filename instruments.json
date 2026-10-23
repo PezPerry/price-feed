@@ -14835,6 +14835,12 @@
       "isin": null
     },
     {
+      "key": "CSSG:GBP",
+      "name": "Croma Security Solutions Group PLC",
+      "currency": "GBP",
+      "isin": "GB00B5MJV178"
+    },
+    {
       "key": "CSTE:USD",
       "name": "Caesarstone Ltd",
       "currency": "USD",
@@ -49477,6 +49483,12 @@
       "name": "SS Innovations International Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "SSIT:GBP",
+      "name": "Seraphim Space Investment Trust PLC",
+      "currency": "GBP",
+      "isin": "GB00BKPG0138"
     },
     {
       "key": "SSL:USD",
