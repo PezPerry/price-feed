@@ -6105,6 +6105,12 @@
       "isin": null
     },
     {
+      "key": "ASG:CAD",
+      "name": "Aurora Spine Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "ASGI:USD",
       "name": "abrdn Global Infrastructure Income Fund",
       "currency": "USD",
@@ -10021,6 +10027,12 @@
       "name": "Blencowe Resources PLC",
       "currency": "GBP",
       "isin": "GB00BFCMVS34"
+    },
+    {
+      "key": "BRFH:USD",
+      "name": "Barfresh Food Group Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "BRFI:GBP",
@@ -44241,6 +44253,12 @@
       "isin": null
     },
     {
+      "key": "REC:CAD",
+      "name": "Silk Road Energy Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "REC:GBP",
       "name": "Record PLC",
       "currency": "GBP",
@@ -51585,6 +51603,12 @@
       "isin": null
     },
     {
+      "key": "TES:CAD",
+      "name": "Tesoro Minerals Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "TESBB:EUR",
       "name": "Tessenderlo Group SA",
       "currency": "EUR",
@@ -57551,6 +57575,12 @@
     {
       "key": "XHG:USD",
       "name": "XChange TEC.Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "XHLD:USD",
+      "name": "TEN Holdings Inc",
       "currency": "USD",
       "isin": null
     },
