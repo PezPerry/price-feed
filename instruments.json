@@ -5619,6 +5619,12 @@
       "isin": null
     },
     {
+      "key": "ARBB:GBP",
+      "name": "Arbuthnot Banking Group PLC",
+      "currency": "GBP",
+      "isin": "GB0007922338"
+    },
+    {
       "key": "ARBE:USD",
       "name": "Arbe Robotics Ltd",
       "currency": "USD",
@@ -40869,6 +40875,12 @@
       "isin": "AU000000PDI8"
     },
     {
+      "key": "PDL:GBP",
+      "name": "Petra Diamonds Ltd",
+      "currency": "GBP",
+      "isin": null
+    },
+    {
       "key": "PDLB:USD",
       "name": "Ponce Financial Group Inc",
       "currency": "USD",
@@ -55417,6 +55429,12 @@
       "name": "Velos Acquisition I Corp",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "VLRM:GBP",
+      "name": "Valereum PLC",
+      "currency": "GBP",
+      "isin": "GI000A2P2W41"
     },
     {
       "key": "VLRS:USD",
