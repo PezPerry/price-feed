@@ -3765,6 +3765,12 @@
       "isin": null
     },
     {
+      "key": "AJAX:GBP",
+      "name": "Ajax Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BLNBD412"
+    },
+    {
       "key": "AJAXA:EUR",
       "name": "AFC Ajax NV",
       "currency": "EUR",
@@ -17641,6 +17647,12 @@
       "name": "Eutelsat Communications SACA",
       "currency": "EUR",
       "isin": "FR0010221234"
+    },
+    {
+      "key": "EAAS:GBP",
+      "name": "eEnergy Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BJP1KD31"
     },
     {
       "key": "EAF:USD",
@@ -46689,6 +46701,12 @@
       "isin": null
     },
     {
+      "key": "SCLP:GBP",
+      "name": "Scancell Holdings PLC",
+      "currency": "GBP",
+      "isin": "GB00B63D3314"
+    },
+    {
       "key": "SCLX:USD",
       "name": "Scilex Holding Co",
       "currency": "USD",
@@ -47131,6 +47149,12 @@
       "name": "Sequoia Economic Infrastructure Income Fund Ltd",
       "currency": "GBP",
       "isin": "GG00BV54HY67"
+    },
+    {
+      "key": "SER:GBP",
+      "name": "Serica Energy PLC",
+      "currency": "GBP",
+      "isin": "GB00B0CY5V57"
     },
     {
       "key": "SERA:USD",
@@ -49657,6 +49681,12 @@
       "name": "SSH Communications Security Oyj",
       "currency": "EUR",
       "isin": "FI0009008270"
+    },
+    {
+      "key": "SSIC:GBP",
+      "name": "Seraphim Space Investment Trust PLC",
+      "currency": "GBP",
+      "isin": "GB00BW6HS596"
     },
     {
       "key": "SSII:USD",
