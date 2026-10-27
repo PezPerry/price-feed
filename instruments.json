@@ -2247,12 +2247,6 @@
       "isin": null
     },
     {
-      "key": "ACA:USD",
-      "name": "Arcosa Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "ACAA:USD",
       "name": "Averin Capital Acquisition Corp",
       "currency": "USD",
@@ -6885,12 +6879,6 @@
       "isin": null
     },
     {
-      "key": "AUX:CAD",
-      "name": "AUX Resources Corporation",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "AUXX:CAD",
       "name": "Gold X2 Mining Inc",
       "currency": "CAD",
@@ -9663,12 +9651,6 @@
       "isin": "SE0008091581"
     },
     {
-      "key": "BONE:CAD",
-      "name": "Boron One Holdings Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "BONEXS:SEK",
       "name": "BoneSupport Holding AB",
       "currency": "SEK",
@@ -9715,18 +9697,6 @@
       "name": "Boot Barn Holdings Inc",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "BOOZTC:DKK",
-      "name": "Boozt AB",
-      "currency": "DKK",
-      "isin": "SE0009888738"
-    },
-    {
-      "key": "BOOZTS:SEK",
-      "name": "Boozt AB",
-      "currency": "SEK",
-      "isin": "SE0009888738"
     },
     {
       "key": "BOR:GBP",
@@ -15687,12 +15657,6 @@
       "isin": null
     },
     {
-      "key": "CYM:CAD",
-      "name": "Cymat Technologies Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "CYN:GBP",
       "name": "City Natural Resources Growth and Income PLC",
       "currency": "GBP",
@@ -18545,12 +18509,6 @@
     {
       "key": "ELMD:USD",
       "name": "Electromed Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "ELME:USD",
-      "name": "Elme Communities",
       "currency": "USD",
       "isin": null
     },
@@ -23253,12 +23211,6 @@
       "isin": null
     },
     {
-      "key": "GFTA:CAD",
-      "name": "Grafta Nanotech Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GFTD:EUR",
       "name": "GFT Technologies SE",
       "currency": "EUR",
@@ -27849,12 +27801,6 @@
       "isin": null
     },
     {
-      "key": "INAB:USD",
-      "name": "IN8bio Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "INAC:GBP",
       "name": "Investacc Group Ltd",
       "currency": "GBP",
@@ -30817,12 +30763,6 @@
       "name": "Kerry Group PLC",
       "currency": "EUR",
       "isin": "IE0004906560"
-    },
-    {
-      "key": "KSCD:EUR",
-      "name": "KPS AG",
-      "currency": "EUR",
-      "isin": "DE000A1A6V48"
     },
     {
       "key": "KSCP:USD",
@@ -48747,12 +48687,6 @@
       "isin": null
     },
     {
-      "key": "SNG:CAD",
-      "name": "Silver Range Resources Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "SNGD:EUR",
       "name": "Singulus Technologies AG",
       "currency": "EUR",
@@ -56421,12 +56355,6 @@
       "isin": null
     },
     {
-      "key": "WEAV:USD",
-      "name": "Weave Communications Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WEB:CAD",
       "name": "Westbridge Renewable Energy Corp",
       "currency": "CAD",
@@ -56736,12 +56664,6 @@
       "key": "WILD:CAD",
       "name": "Wildbrain Ltd",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "WIMI:USD",
-      "name": "WiMi Hologram Cloud ADR",
-      "currency": "USD",
       "isin": null
     },
     {
@@ -57084,12 +57006,6 @@
       "key": "WPRT:CAD",
       "name": "Westport Fuel Systems Inc",
       "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "WPRT:USD",
-      "name": "Westport Fuel Systems Inc",
-      "currency": "USD",
       "isin": null
     },
     {
