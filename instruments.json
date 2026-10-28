@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -2743,6 +2743,12 @@
       "name": "ADMA Biologics Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "ADMCMH:EUR",
+      "name": "Admicom Oyj",
+      "currency": "EUR",
+      "isin": "FI4000251830"
     },
     {
       "key": "ADN:CAD",
@@ -8082,6 +8088,12 @@
       "key": "BCTX:USD",
       "name": "BriaCell Therapeutics Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BCU:CAD",
+      "name": "Bell Copper Corporation",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -23805,6 +23817,12 @@
       "isin": null
     },
     {
+      "key": "GMM:USD",
+      "name": "Global Mofy Metaverse Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "GMMD:EUR",
       "name": "Grammer AG",
       "currency": "EUR",
@@ -24659,6 +24677,12 @@
     {
       "key": "GSY:CAD",
       "name": "Goeasy Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "GT:CAD",
+      "name": "GT Resources Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -27765,6 +27789,12 @@
       "isin": null
     },
     {
+      "key": "IMNN:USD",
+      "name": "Imunon Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "IMO:CAD",
       "name": "Imperial Oil",
       "currency": "CAD",
@@ -27845,6 +27875,12 @@
     {
       "key": "IMXI:USD",
       "name": "International Money Express Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "INAB:USD",
+      "name": "IN8bio Inc",
       "currency": "USD",
       "isin": null
     },
@@ -28375,6 +28411,12 @@
       "name": "Samsara Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "IOTM:EUR",
+      "name": "Seco SpA",
+      "currency": "EUR",
+      "isin": "IT0005438046"
     },
     {
       "key": "IOVA:USD",
@@ -32637,6 +32679,12 @@
       "isin": null
     },
     {
+      "key": "LTRN:USD",
+      "name": "Lantern Pharma",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "LTRX:USD",
       "name": "Lantronix Inc",
       "currency": "USD",
@@ -35493,6 +35541,12 @@
       "isin": null
     },
     {
+      "key": "MSGR:USD",
+      "name": "MSG Rangers Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MSGS:USD",
       "name": "Madison Square Garden Sports Corp",
       "currency": "USD",
@@ -37603,6 +37657,12 @@
       "name": "Norconsult Norge AS",
       "currency": "NOK",
       "isin": "NO0013052209"
+    },
+    {
+      "key": "NORDHO:NOK",
+      "name": "Nordhealth AS",
+      "currency": "NOK",
+      "isin": "NO0011002651"
     },
     {
       "key": "NORSEO:NOK",
@@ -48813,6 +48873,12 @@
       "isin": null
     },
     {
+      "key": "SNG:CAD",
+      "name": "Silver Range Resources Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SNGD:EUR",
       "name": "Singulus Technologies AG",
       "currency": "EUR",
@@ -58313,6 +58379,12 @@
     {
       "key": "ZD:USD",
       "name": "Ziff Davis Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ZDAI:USD",
+      "name": "DirectBooking Technology Co Ltd",
       "currency": "USD",
       "isin": null
     },
