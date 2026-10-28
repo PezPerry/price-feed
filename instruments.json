@@ -34995,6 +34995,12 @@
       "isin": "GB00BMT9K014"
     },
     {
+      "key": "MOREA:EUR",
+      "name": "MOREFIELD GROUP NV",
+      "currency": "EUR",
+      "isin": null
+    },
+    {
       "key": "MORGO:NOK",
       "name": "Sparebanken More",
       "currency": "NOK",
@@ -39771,6 +39777,12 @@
       "isin": null
     },
     {
+      "key": "ORM:GBP",
+      "name": "Ormonde Mining PLC",
+      "currency": "GBP",
+      "isin": "IE00BF0MZF04"
+    },
+    {
       "key": "ORMP:USD",
       "name": "Oramed Pharmaceuticals Inc",
       "currency": "USD",
@@ -44023,6 +44035,12 @@
       "name": "Avita Medical Ltd",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "RCGH:GBP",
+      "name": "Rc365 Holding PLC",
+      "currency": "GBP",
+      "isin": "GB00BMG8BL95"
     },
     {
       "key": "RCH:CAD",
@@ -51511,6 +51529,12 @@
       "name": "TAG Immobilien AG",
       "currency": "EUR",
       "isin": "DE0008303504"
+    },
+    {
+      "key": "TEK4:GBP",
+      "name": "Tek4 Group PLC",
+      "currency": "GBP",
+      "isin": "GB00C089J669"
     },
     {
       "key": "TEKNAO:NOK",
