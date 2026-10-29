@@ -13341,6 +13341,12 @@
       "isin": null
     },
     {
+      "key": "CLWT:USD",
+      "name": "Euro Tech Holdings Co Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CLX:GBP",
       "name": "Calnex Solutions PLC",
       "currency": "GBP",
@@ -57625,6 +57631,12 @@
       "name": "Connecting Excellence Group PLC",
       "currency": "GBP",
       "isin": "GB00BVBHDF21"
+    },
+    {
+      "key": "XCH:USD",
+      "name": "XCHG Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "XE:USD",
