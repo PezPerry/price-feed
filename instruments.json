@@ -2001,6 +2001,12 @@
       "isin": null
     },
     {
+      "key": "ABT:GBP",
+      "name": "Abenojar Tungsten SA",
+      "currency": "GBP",
+      "isin": "ES0106088000"
+    },
+    {
       "key": "ABT:USD",
       "name": "Abbott Laboratories",
       "currency": "USD",
@@ -4495,6 +4501,12 @@
       "name": "Arizona Metals Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "AMC:GBP",
+      "name": "Airtel Mobile Commerce NV",
+      "currency": "GBP",
+      "isin": "NL0015074C60"
     },
     {
       "key": "AMC:USD",
