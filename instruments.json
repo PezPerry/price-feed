@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -18939,12 +18939,6 @@
       "isin": "ES0130625512"
     },
     {
-      "key": "ENDR:CAD",
-      "name": "Enduro Metals Corporation",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "ENDURO:NOK",
       "name": "Endur ASA",
       "currency": "NOK",
@@ -24689,12 +24683,6 @@
     {
       "key": "GSY:CAD",
       "name": "Goeasy Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "GT:CAD",
-      "name": "GT Resources Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -38193,6 +38181,12 @@
       "isin": null
     },
     {
+      "key": "NUR:USD",
+      "name": "Nuran Wireless Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "NURS:CAD",
       "name": "Hydreight Technologies Inc",
       "currency": "CAD",
@@ -40649,12 +40643,6 @@
     {
       "key": "PBI:USD",
       "name": "Pitney Bowes Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "PBK:USD",
-      "name": "PowerBank Corp",
       "currency": "USD",
       "isin": null
     },
@@ -44649,12 +44637,6 @@
       "isin": null
     },
     {
-      "key": "RGNT:USD",
-      "name": "Regentis Biomaterials Ltd",
-      "currency": "USD",
-      "isin": "IL0012190968"
-    },
-    {
       "key": "RGNX:USD",
       "name": "REGENXBIO Inc",
       "currency": "USD",
@@ -48333,6 +48315,12 @@
       "isin": null
     },
     {
+      "key": "SLGB:USD",
+      "name": "Smart Logistics Global Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SLGL:USD",
       "name": "Sol-Gel Technologies Ltd",
       "currency": "USD",
@@ -48702,6 +48690,12 @@
       "key": "SMXT:USD",
       "name": "SolarMax Technology Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SMY:CAD",
+      "name": "Search Minerals Inc.",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -52779,6 +52773,12 @@
       "isin": "DE0007461006"
     },
     {
+      "key": "TPET:USD",
+      "name": "Trio Petroleum Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "TPFG:GBP",
       "name": "Property Franchise Group (The) PLC",
       "currency": "GBP",
@@ -53550,12 +53550,6 @@
       "key": "TTWO:USD",
       "name": "Take-Two Interactive Software Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "TTZ:CAD",
-      "name": "Total Telcom Inc.",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -56147,12 +56141,6 @@
     {
       "key": "VVX:USD",
       "name": "V2X Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "VWAV:USD",
-      "name": "VisionWave Holdings Inc",
       "currency": "USD",
       "isin": null
     },
