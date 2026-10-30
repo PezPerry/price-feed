@@ -6159,6 +6159,12 @@
       "isin": null
     },
     {
+      "key": "ASG:CAD",
+      "name": "Aurora Spine Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "ASGI:USD",
       "name": "abrdn Global Infrastructure Income Fund",
       "currency": "USD",
@@ -8115,12 +8121,6 @@
       "isin": null
     },
     {
-      "key": "BCU:CAD",
-      "name": "Bell Copper Corporation",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "BCVNZ:CHF",
       "name": "Banque Cantonale Vaudoise",
       "currency": "CHF",
@@ -9251,12 +9251,6 @@
     {
       "key": "BLRK:USD",
       "name": "Bluerock Acquisition Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BLRX:USD",
-      "name": "BioLine RX Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -11951,12 +11945,6 @@
     {
       "key": "CCMC:CAD",
       "name": "Core Critical Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "CCMI:CAD",
-      "name": "Canadian Critical Minerals Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -24237,12 +24225,6 @@
       "isin": null
     },
     {
-      "key": "GPS:CAD",
-      "name": "Great Plains Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GPUS:USD",
       "name": "Hyperscale Data Inc",
       "currency": "USD",
@@ -27615,12 +27597,6 @@
       "isin": null
     },
     {
-      "key": "IIG:GBP",
-      "name": "Intuitive Investments Group PLC",
-      "currency": "GBP",
-      "isin": "GB00BNGFMW59"
-    },
-    {
       "key": "III:CAD",
       "name": "Imperial Metals Corp",
       "currency": "CAD",
@@ -27899,12 +27875,6 @@
     {
       "key": "IMXI:USD",
       "name": "International Money Express Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "INAB:USD",
-      "name": "IN8bio Inc",
       "currency": "USD",
       "isin": null
     },
@@ -30651,12 +30621,6 @@
       "isin": null
     },
     {
-      "key": "KORE:CAD",
-      "name": "Kore Mining Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "KOS:GBP",
       "name": "Kosmos Energy Ltd",
       "currency": "GBP",
@@ -30709,12 +30673,6 @@
       "name": "Koninklijke KPN NV",
       "currency": "EUR",
       "isin": "NL0000009082"
-    },
-    {
-      "key": "KPRX:USD",
-      "name": "Kiora Pharmaceuticals Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "KPT:CAD",
@@ -33325,12 +33283,6 @@
       "name": "Maruwa Co. Ltd Jpy50",
       "currency": "JPY",
       "isin": "JP3879250003"
-    },
-    {
-      "key": "MAX:CAD",
-      "name": "MAX Resource Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "MAX:USD",
@@ -39297,12 +39249,6 @@
       "isin": null
     },
     {
-      "key": "OMAB:USD",
-      "name": "Grupo Aeroportuario del Centro Norte SAB de CV",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "OMASPH:EUR",
       "name": "Oma Saastopankki Oyj",
       "currency": "EUR",
@@ -39329,12 +39275,6 @@
     {
       "key": "OMER:USD",
       "name": "Omeros Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "OMEX:USD",
-      "name": "Odyssey Marine Exploration Inc",
       "currency": "USD",
       "isin": null
     },
@@ -41469,12 +41409,6 @@
       "isin": null
     },
     {
-      "key": "PHIO:USD",
-      "name": "Phio Pharmaceuticals Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "PHK:USD",
       "name": "PIMCO High Income Fund",
       "currency": "USD",
@@ -42241,12 +42175,6 @@
       "name": "Polar Capital Holdings PLC",
       "currency": "GBP",
       "isin": "GB00B1GCLT25"
-    },
-    {
-      "key": "POM:USD",
-      "name": "Pomdoctor Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "PON1VH:EUR",
@@ -55341,12 +55269,6 @@
       "isin": "GB00BWGBNB23"
     },
     {
-      "key": "VIDA:USD",
-      "name": "VIDA Global Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "VIDE:EUR",
       "name": "Vidrala SA",
       "currency": "EUR",
@@ -58501,12 +58423,6 @@
       "name": "ZIM Integrated Shipping Services Ltd",
       "currency": "USD",
       "isin": "IL0065100930"
-    },
-    {
-      "key": "ZIN:GBP",
-      "name": "Zinc Media Group PLC",
-      "currency": "GBP",
-      "isin": "GB00BJVLR251"
     },
     {
       "key": "ZIOC:GBP",
