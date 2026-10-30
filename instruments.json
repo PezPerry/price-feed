@@ -8121,6 +8121,12 @@
       "isin": null
     },
     {
+      "key": "BCU:CAD",
+      "name": "Bell Copper Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "BCVNZ:CHF",
       "name": "Banque Cantonale Vaudoise",
       "currency": "CHF",
@@ -8939,6 +8945,12 @@
     {
       "key": "BIR:CAD",
       "name": "Birchcliff Energy Ltd.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "BIRD:CAD",
+      "name": "Thunderbird Minerals Corp",
       "currency": "CAD",
       "isin": null
     },
@@ -11949,6 +11961,12 @@
       "isin": null
     },
     {
+      "key": "CCMI:CAD",
+      "name": "Canadian Critical Minerals Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CCNE:USD",
       "name": "CNB Financial Corp",
       "currency": "USD",
@@ -14461,6 +14479,12 @@
       "name": "Crane Harbor Acquisition Corp II",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "CRAPP:EUR",
+      "name": "Caisse Regionale de Credit Agricole Mutuel Alpes Provence",
+      "currency": "EUR",
+      "isin": "FR0000044323"
     },
     {
       "key": "CRAQ:USD",
@@ -29745,12 +29769,6 @@
       "isin": null
     },
     {
-      "key": "KAPA:CAD",
-      "name": "Kapa Gold Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "KARD:USD",
       "name": "Kardigan Inc",
       "currency": "USD",
@@ -34125,6 +34143,12 @@
       "isin": null
     },
     {
+      "key": "MGN:USD",
+      "name": "Megan Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MGNI:USD",
       "name": "Magnite Inc",
       "currency": "USD",
@@ -35421,6 +35445,12 @@
       "isin": null
     },
     {
+      "key": "MSC:CAD",
+      "name": "Millennium Silver Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "MSC:USD",
       "name": "Studio City International Holdings Ltd",
       "currency": "USD",
@@ -36216,6 +36246,12 @@
       "key": "NAQD:EUR",
       "name": "Nasdaq Inc",
       "currency": "EUR",
+      "isin": null
+    },
+    {
+      "key": "NAR:CAD",
+      "name": "North Arrow Minerals Inc.",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -38917,6 +38953,12 @@
       "name": "Orion Engineered Carbons SA",
       "currency": "USD",
       "isin": "LU1092234845"
+    },
+    {
+      "key": "OEG.H:CAD",
+      "name": "Onenergy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "OEMBS:SEK",
@@ -43158,6 +43200,12 @@
       "key": "PVH:USD",
       "name": "Phillips-Van Heusen Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PVIS:CAD",
+      "name": "Parvis Invest Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -57924,6 +57972,12 @@
       "key": "Y:CAD",
       "name": "Yellow Pages Limited",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "Y5CD:EUR",
+      "name": "GE Vernova Inc",
+      "currency": "EUR",
       "isin": null
     },
     {
