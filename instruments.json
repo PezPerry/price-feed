@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-09",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -1163,6 +1163,12 @@
     {
       "key": "1FBM:EUR",
       "name": "Meta Platforms Inc",
+      "currency": "EUR",
+      "isin": null
+    },
+    {
+      "key": "1FEY2M:EUR",
+      "name": "FuelCell Energy Inc",
       "currency": "EUR",
       "isin": null
     },
@@ -2701,6 +2707,12 @@
       "name": "Facilities By ADF PLC",
       "currency": "GBP",
       "isin": "GB00BNZGNM64"
+    },
+    {
+      "key": "ADGM:USD",
+      "name": "Adagio Medical Holdings Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "ADI:USD",
@@ -9753,6 +9765,18 @@
       "isin": null
     },
     {
+      "key": "BOOZTC:DKK",
+      "name": "Boozt AB",
+      "currency": "DKK",
+      "isin": "SE0009888738"
+    },
+    {
+      "key": "BOOZTS:SEK",
+      "name": "Boozt AB",
+      "currency": "SEK",
+      "isin": "SE0009888738"
+    },
+    {
       "key": "BOR:GBP",
       "name": "Borders & Southern Petroleum PLC",
       "currency": "GBP",
@@ -15261,6 +15285,12 @@
       "isin": "GB0003463287"
     },
     {
+      "key": "CTV:CAD",
+      "name": "Cleantech Vanadium Mining Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "CTVA:USD",
       "name": "Corteva Inc",
       "currency": "USD",
@@ -17571,6 +17601,12 @@
       "isin": "DE000A0HN5C6"
     },
     {
+      "key": "DWS:CAD",
+      "name": "Diamond Estates Wines And Spirits Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "DWSD:EUR",
       "name": "DWS Group GmbH & Co KGaA",
       "currency": "EUR",
@@ -18931,6 +18967,12 @@
       "name": "Ence Energia y Celulosa SA",
       "currency": "EUR",
       "isin": "ES0130625512"
+    },
+    {
+      "key": "ENDR:CAD",
+      "name": "Enduro Metals Corporation",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "ENDURO:NOK",
@@ -23835,6 +23877,12 @@
       "isin": null
     },
     {
+      "key": "GMM:USD",
+      "name": "Global Mofy Metaverse Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "GMMD:EUR",
       "name": "Grammer AG",
       "currency": "EUR",
@@ -24204,6 +24252,12 @@
       "key": "GPRO:USD",
       "name": "GoPro Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "GPS:CAD",
+      "name": "Great Plains Metals Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -27861,6 +27915,12 @@
       "isin": null
     },
     {
+      "key": "INAB:USD",
+      "name": "IN8bio Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "INAC:GBP",
       "name": "Investacc Group Ltd",
       "currency": "GBP",
@@ -28631,6 +28691,12 @@
     {
       "key": "IRIX:USD",
       "name": "IRIDEX Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "IRLA:USD",
+      "name": "IRulya Therapeutics Inc",
       "currency": "USD",
       "isin": null
     },
@@ -32865,6 +32931,12 @@
       "isin": "GB00BNK03D49"
     },
     {
+      "key": "LXM:CAD",
+      "name": "LUX Metals Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "LXP:USD",
       "name": "LXP Industrial Trust",
       "currency": "USD",
@@ -35781,6 +35853,12 @@
       "isin": null
     },
     {
+      "key": "MTVA:USD",
+      "name": "MetaVia Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MTVW:GBP",
       "name": "Mountview Estates PLC",
       "currency": "GBP",
@@ -36985,6 +37063,12 @@
       "name": "National Grid PLC",
       "currency": "GBP",
       "isin": "GB00BDR05C01"
+    },
+    {
+      "key": "NGC:CAD",
+      "name": "Northern Graphite Corporation",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "NGEN:USD",
@@ -43531,6 +43615,12 @@
       "name": "Quantum BioPharma Ltd",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "QPR1VH:EUR",
+      "name": "QPR Software Oyj",
+      "currency": "EUR",
+      "isin": "FI0009008668"
     },
     {
       "key": "QQ.:GBP",
@@ -50151,6 +50241,12 @@
       "isin": "CH1175448666"
     },
     {
+      "key": "STMP:CAD",
+      "name": "Stamper Oil And Gas Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "STN:CAD",
       "name": "Stantec Inc",
       "currency": "CAD",
@@ -50160,6 +50256,12 @@
       "key": "STN:USD",
       "name": "Stantec Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "STND:CAD",
+      "name": "Standard Uranium Ltd",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -55071,6 +55173,12 @@
       "isin": "FI4000049812"
     },
     {
+      "key": "VERS:SEK",
+      "name": "Verve Group Media SE",
+      "currency": "SEK",
+      "isin": "IE000ZVY0237"
+    },
+    {
       "key": "VERU:USD",
       "name": "Veru Inc",
       "currency": "USD",
@@ -56549,6 +56657,12 @@
     {
       "key": "WETH:USD",
       "name": "Wetouch Technology Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "WETO:USD",
+      "name": "Wetour Robotics Ltd",
       "currency": "USD",
       "isin": null
     },
