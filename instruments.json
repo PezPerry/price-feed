@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-06",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -2997,6 +2997,18 @@
       "isin": null
     },
     {
+      "key": "AEM:CAD",
+      "name": "Agnico Eagle Mines Limited",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "AEM:USD",
+      "name": "Agnico Eagle Mines Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AENAE:EUR",
       "name": "Aena SME SA",
       "currency": "EUR",
@@ -3349,6 +3361,12 @@
       "name": "Austral Gold Limited",
       "currency": "CAD",
       "isin": "AU000000AGD4"
+    },
+    {
+      "key": "AGLT:USD",
+      "name": "Agility Robotics Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "AGLXO:NOK",
@@ -4125,6 +4143,12 @@
       "isin": null
     },
     {
+      "key": "ALHAFP:EUR",
+      "name": "Haffner Energy SA",
+      "currency": "EUR",
+      "isin": "FR0014007ND6"
+    },
+    {
       "key": "ALHC:USD",
       "name": "Alignment Healthcare Inc",
       "currency": "USD",
@@ -4207,6 +4231,12 @@
       "name": "Alkermes Inc",
       "currency": "USD",
       "isin": "IE00B56GVS15"
+    },
+    {
+      "key": "ALKT:USD",
+      "name": "Alkami Technology Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "ALL:GBP",
@@ -6039,6 +6069,12 @@
       "isin": null
     },
     {
+      "key": "ARXS:USD",
+      "name": "Arxis Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ARYNZ:CHF",
       "name": "Aryzta AG",
       "currency": "CHF",
@@ -6299,6 +6335,12 @@
     {
       "key": "ASTI:USD",
       "name": "Ascent Solar Technologies Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ASTL:USD",
+      "name": "Algoma Steel Group",
       "currency": "USD",
       "isin": null
     },
@@ -8601,6 +8643,18 @@
       "isin": null
     },
     {
+      "key": "BHC:CAD",
+      "name": "Bausch Health Companies Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "BHC:USD",
+      "name": "Bausch Health Cos Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "BHE:USD",
       "name": "Benchmark Electronics Inc",
       "currency": "USD",
@@ -9997,6 +10051,12 @@
       "name": "Blencowe Resources PLC",
       "currency": "GBP",
       "isin": "GB00BFCMVS34"
+    },
+    {
+      "key": "BREZ:USD",
+      "name": "Breeze Acquisition Corp II",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "BRFI:GBP",
@@ -12004,7 +12064,7 @@
     },
     {
       "key": "CDLR:USD",
-      "name": "Cadeler A/S",
+      "name": "Cadeler PLC",
       "currency": "USD",
       "isin": null
     },
@@ -12083,6 +12143,12 @@
     {
       "key": "CDXS:USD",
       "name": "Codexis Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "CDZI:USD",
+      "name": "Cadiz Inc",
       "currency": "USD",
       "isin": null
     },
@@ -13101,6 +13167,12 @@
       "isin": null
     },
     {
+      "key": "CLGN:USD",
+      "name": "CollPlant Biotechnologies Ltd",
+      "currency": "USD",
+      "isin": "IL0004960188"
+    },
+    {
       "key": "CLH:USD",
       "name": "Clean Harbors Inc",
       "currency": "USD",
@@ -13423,6 +13495,12 @@
       "name": "CML Microsystems PLC",
       "currency": "GBP",
       "isin": "GB0001602944"
+    },
+    {
+      "key": "CMMB:USD",
+      "name": "Chemomab Therapeutics Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "CMP:USD",
@@ -17625,6 +17703,12 @@
       "isin": "FR0010221234"
     },
     {
+      "key": "EAAS:GBP",
+      "name": "eEnergy Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BJP1KD31"
+    },
+    {
       "key": "EAF:USD",
       "name": "GrafTech International Ltd",
       "currency": "USD",
@@ -17797,6 +17881,12 @@
       "name": "Ecolab Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "ECMPAA:EUR",
+      "name": "Eurocommercial Properties NV",
+      "currency": "EUR",
+      "isin": "NL0015000K93"
     },
     {
       "key": "ECNLM:EUR",
@@ -18357,6 +18447,18 @@
       "isin": "SE0000119299"
     },
     {
+      "key": "ELBM:CAD",
+      "name": "Electra Battery Materials Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "ELBM:USD",
+      "name": "Electra Battery Materials Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ELC:CAD",
       "name": "Elysee Development Corp",
       "currency": "CAD",
@@ -18415,6 +18517,12 @@
       "name": "Endesa SA",
       "currency": "EUR",
       "isin": "ES0130670112"
+    },
+    {
+      "key": "ELEF:CAD",
+      "name": "Silver Elephant Mining Corporation",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "ELF:CAD",
@@ -18732,6 +18840,12 @@
       "key": "EMN:CAD",
       "name": "Euro Manganese Inc",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "EMN:USD",
+      "name": "Eastman Chemical Company",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -20025,6 +20139,12 @@
       "isin": null
     },
     {
+      "key": "EXG:CAD",
+      "name": "Exgen Resources Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "EXK:USD",
       "name": "Endeavor Silver Corp",
       "currency": "USD",
@@ -20592,6 +20712,12 @@
       "key": "FDXD:EUR",
       "name": "FedEx Corp",
       "currency": "EUR",
+      "isin": null
+    },
+    {
+      "key": "FDXF:USD",
+      "name": "Fedex Freight Holding Company Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -21307,6 +21433,12 @@
       "name": "FM Mattsson AB",
       "currency": "SEK",
       "isin": "SE0018040883"
+    },
+    {
+      "key": "FMN:CAD",
+      "name": "Fidelity Minerals Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "FMNB:USD",
@@ -22621,6 +22753,12 @@
       "name": "Games Workshop Group PLC",
       "currency": "GBP",
       "isin": "GB0003718474"
+    },
+    {
+      "key": "GBC:USD",
+      "name": "Georgia Banking Co Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "GBCI:USD",
@@ -25804,7 +25942,7 @@
     },
     {
       "key": "HLT:USD",
-      "name": "Hilton Inc",
+      "name": "Hilton Worldwide Holdings Inc",
       "currency": "USD",
       "isin": null
     },
@@ -26533,6 +26671,12 @@
       "name": "Huhtamaki Oyj",
       "currency": "EUR",
       "isin": "FI0009000459"
+    },
+    {
+      "key": "HUHU:USD",
+      "name": "HUHUTECH International Group Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "HUI:GBP",
@@ -28755,6 +28899,12 @@
       "isin": "SE0009607252"
     },
     {
+      "key": "IVAI:USD",
+      "name": "Ives Ultra AI Opportunities Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "IVAP:EUR",
       "name": "Inventiva SACA",
       "currency": "EUR",
@@ -30963,6 +31113,12 @@
       "isin": null
     },
     {
+      "key": "LAES:USD",
+      "name": "SEALSQ Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "LAF:CAD",
       "name": "Lithium Africa Corp",
       "currency": "CAD",
@@ -31042,7 +31198,7 @@
     },
     {
       "key": "LASE:USD",
-      "name": "Laser Photonics Corp",
+      "name": "LASE Corp",
       "currency": "USD",
       "isin": null
     },
@@ -32598,6 +32754,12 @@
       "key": "LUNR:CAD",
       "name": "Lunr Royalties Corp",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "LUNR:USD",
+      "name": "Intuitive Machines LLC",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -35253,6 +35415,12 @@
       "isin": null
     },
     {
+      "key": "MSC:CAD",
+      "name": "Millennium Silver Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "MSC:USD",
       "name": "Studio City International Holdings Ltd",
       "currency": "USD",
@@ -35423,6 +35591,12 @@
     {
       "key": "MTC:USD",
       "name": "MMTEC Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "MTCH:USD",
+      "name": "Match Group Inc",
       "currency": "USD",
       "isin": null
     },
@@ -36033,6 +36207,12 @@
       "isin": null
     },
     {
+      "key": "NANOFH:EUR",
+      "name": "Nanoform Finland Plc",
+      "currency": "EUR",
+      "isin": "FI4000330972"
+    },
+    {
       "key": "NANOP:EUR",
       "name": "Nanobiotix SA",
       "currency": "EUR",
@@ -36054,6 +36234,12 @@
       "key": "NAR:CAD",
       "name": "North Arrow Minerals Inc.",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "NARA:USD",
+      "name": "Narragansett Bancorp Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -36627,6 +36813,12 @@
       "isin": "SE0000366098"
     },
     {
+      "key": "NEU:USD",
+      "name": "NewMarket Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "NEUP:USD",
       "name": "Neuphoria Therapeutics Inc",
       "currency": "USD",
@@ -36863,6 +37055,12 @@
     {
       "key": "NHIV:USD",
       "name": "Newhold Investment Corp IV",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "NHP:USD",
+      "name": "National Healthcare Properties Inc",
       "currency": "USD",
       "isin": null
     },
@@ -37408,9 +37606,15 @@
     },
     {
       "key": "NORCOO:NOK",
-      "name": "Norconsult Norge ASA",
+      "name": "Norconsult ASA",
       "currency": "NOK",
       "isin": "NO0013052209"
+    },
+    {
+      "key": "NORD:USD",
+      "name": "Nordicus Partners Corp",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "NORDHO:NOK",
@@ -38213,6 +38417,12 @@
     {
       "key": "NWG:USD",
       "name": "NatWest Group PLC",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "NWGL:USD",
+      "name": "CL Workshop Group Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -39059,6 +39269,12 @@
     {
       "key": "OM:USD",
       "name": "Outset Medical Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "OMAB:USD",
+      "name": "Grupo Aeroportuario del Centro Norte SAB de CV",
       "currency": "USD",
       "isin": null
     },
@@ -40743,6 +40959,12 @@
       "isin": "SE0008294953"
     },
     {
+      "key": "PDYN:USD",
+      "name": "Palladyne AI Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "PEABBS:SEK",
       "name": "Peab AB",
       "currency": "SEK",
@@ -40781,6 +41003,12 @@
     {
       "key": "PEBK:USD",
       "name": "Peoples Bancorp of North Carolina Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PEBO:USD",
+      "name": "Peoples Bancorp Inc",
       "currency": "USD",
       "isin": null
     },
@@ -44121,6 +44349,12 @@
       "isin": null
     },
     {
+      "key": "REG1VH:EUR",
+      "name": "Revenio Group Oyj",
+      "currency": "EUR",
+      "isin": "FI0009010912"
+    },
+    {
       "key": "REGN:USD",
       "name": "Regeneron Pharmaceuticals Inc",
       "currency": "USD",
@@ -45423,6 +45657,12 @@
       "isin": "GB00B082RF11"
     },
     {
+      "key": "RTO:USD",
+      "name": "Rentokil Initial PLC",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "RTSN:USD",
       "name": "Retension Pharmaceuticals Inc",
       "currency": "USD",
@@ -45843,8 +46083,14 @@
       "isin": null
     },
     {
+      "key": "SAE:CAD",
+      "name": "Sable Resources Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SAEN:USD",
-      "name": "Saentra Forge",
+      "name": "Genenta Science SpA",
       "currency": "USD",
       "isin": null
     },
@@ -46461,6 +46707,12 @@
       "isin": "FI4000029905"
     },
     {
+      "key": "SCAT:USD",
+      "name": "Southern Cross Acquisition II Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SCATCO:NOK",
       "name": "Scatec ASA",
       "currency": "NOK",
@@ -46803,6 +47055,12 @@
       "isin": "GB00BKFW2482"
     },
     {
+      "key": "SEAT:USD",
+      "name": "Vivid Seats Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "SEBAS:SEK",
       "name": "Skandinaviska Enskilda Banken AB",
       "currency": "SEK",
@@ -46878,12 +47136,6 @@
       "key": "SEG:USD",
       "name": "Seaport Entertainment Group Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SEGN:CAD",
-      "name": "Seegnal Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -48060,6 +48312,12 @@
       "key": "SLDP:USD",
       "name": "Solid Power Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SLF:CAD",
+      "name": "SUN Life Financial Inc.",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -49941,6 +50199,12 @@
       "isin": null
     },
     {
+      "key": "STRL:USD",
+      "name": "Sterling Construction Co Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "STRM:CAD",
       "name": "Storm Exploration Inc",
       "currency": "CAD",
@@ -50214,6 +50478,12 @@
       "key": "SURG:CAD",
       "name": "Surge Copper Corp",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "SURG:USD",
+      "name": "SurgePays Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -51181,6 +51451,12 @@
       "name": "Bio-Techne Corp",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "TECHO:NOK",
+      "name": "Techstep ASA",
+      "currency": "NOK",
+      "isin": "NO0012916131"
     },
     {
       "key": "TECK:USD",
@@ -54027,6 +54303,12 @@
       "isin": "ES0180907000"
     },
     {
+      "key": "UNIM:EUR",
+      "name": "Unipol Assicurazioni SpA",
+      "currency": "EUR",
+      "isin": "IT0004810054"
+    },
+    {
       "key": "UNIT:USD",
       "name": "Uniti Group Inc",
       "currency": "USD",
@@ -54547,6 +54829,12 @@
       "name": "Van de Velde NV",
       "currency": "EUR",
       "isin": "BE0003839561"
+    },
+    {
+      "key": "VAND:CAD",
+      "name": "Largo Physical Vanadium Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "VANI:USD",
@@ -56325,6 +56613,18 @@
       "isin": null
     },
     {
+      "key": "WFG:CAD",
+      "name": "West Fraser Timber CO Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "WFG:USD",
+      "name": "West Fraser Timber Co Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "WFRD:USD",
       "name": "Weatherford International PLC",
       "currency": "USD",
@@ -56497,6 +56797,12 @@
       "name": "M Winkworth PLC",
       "currency": "GBP",
       "isin": "GB00B4TT7L53"
+    },
+    {
+      "key": "WISAH:EUR",
+      "name": "Wisa Group Oyj",
+      "currency": "EUR",
+      "isin": "FI4000603345"
     },
     {
       "key": "WISE:GBP",
