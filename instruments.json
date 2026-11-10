@@ -18867,6 +18867,12 @@
       "isin": "IT0003895668"
     },
     {
+      "key": "ETHY:GBP",
+      "name": "Ethtry PLC",
+      "currency": "GBP",
+      "isin": "GB00BM9CKV18"
+    },
+    {
       "key": "ETL:CAD",
       "name": "E3 Lithium Ltd",
       "currency": "CAD",
@@ -41499,6 +41505,12 @@
       "isin": null
     },
     {
+      "key": "QHE:GBP",
+      "name": "Quantum Helium Ltd",
+      "currency": "GBP",
+      "isin": "AU0000473282"
+    },
+    {
       "key": "QIAD:EUR",
       "name": "QIAGEN NV",
       "currency": "EUR",
@@ -41707,6 +41719,12 @@
       "name": "Quad Graphics Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "QUBE:GBP",
+      "name": "Quantum Base Holdings PLC",
+      "currency": "GBP",
+      "isin": "GB00BTXYPJ53"
     },
     {
       "key": "QUBT:USD",
@@ -42619,6 +42637,12 @@
       "name": "RF Acquisition Corp III",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "RFG:GBP",
+      "name": "Roebuck Food Group PLC",
+      "currency": "GBP",
+      "isin": "IE0006447985"
     },
     {
       "key": "RFIL:USD",
@@ -51901,6 +51925,12 @@
       "name": "Unity Bancorp Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "UOG:GBP",
+      "name": "United Oil & Gas PLC",
+      "currency": "GBP",
+      "isin": "GB00BYX0MB92"
     },
     {
       "key": "UONEK:USD",
