@@ -20355,6 +20355,12 @@
       "isin": null
     },
     {
+      "key": "FBF:CAD",
+      "name": "Fab-form Industries Ltd.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "FBIN:USD",
       "name": "Fortune Brands Innovations Inc",
       "currency": "USD",
@@ -22879,6 +22885,12 @@
       "name": "Ramsay Generale de Sante SA",
       "currency": "EUR",
       "isin": "FR0000044471"
+    },
+    {
+      "key": "GDTC:USD",
+      "name": "CytoMed Therapeutics Ltd",
+      "currency": "USD",
+      "isin": "SGXZ17669631"
     },
     {
       "key": "GDWN:GBP",
@@ -26199,6 +26211,12 @@
       "isin": null
     },
     {
+      "key": "HPM:CAD",
+      "name": "Halcones Precious Metals Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "HPOLBS:SEK",
       "name": "Hexpol AB",
       "currency": "SEK",
@@ -27623,6 +27641,12 @@
     {
       "key": "IMG:CAD",
       "name": "Iamgold Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "IMI:CAD",
+      "name": "Ironman International Ltd",
       "currency": "CAD",
       "isin": null
     },
@@ -40893,6 +40917,12 @@
       "isin": null
     },
     {
+      "key": "PEI:CAD",
+      "name": "Prospera Energy Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "PEMB:GBP",
       "name": "Pembroke VCT PLC B",
       "currency": "GBP",
@@ -48603,6 +48633,12 @@
       "isin": null
     },
     {
+      "key": "SNG:CAD",
+      "name": "Silver Range Resources Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "SNGD:EUR",
       "name": "Singulus Technologies AG",
       "currency": "EUR",
@@ -49817,6 +49853,12 @@
     {
       "key": "STFS:USD",
       "name": "Star Fashion Culture Holdings Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "STG:USD",
+      "name": "Sunlands Online Education Group",
       "currency": "USD",
       "isin": null
     },
@@ -55885,12 +55927,6 @@
       "name": "Vusion/France",
       "currency": "EUR",
       "isin": "FR0010282822"
-    },
-    {
-      "key": "VUX:CAD",
-      "name": "Vital Energy Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "VUZI:USD",
