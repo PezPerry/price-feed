@@ -31701,6 +31701,12 @@
       "isin": "JP3984070007"
     },
     {
+      "key": "LGVN:USD",
+      "name": "Longeveron Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "LH:USD",
       "name": "Laboratory Corp",
       "currency": "USD",
@@ -41817,6 +41823,12 @@
       "isin": null
     },
     {
+      "key": "PLSM:USD",
+      "name": "Pulsenmore Ltd",
+      "currency": "USD",
+      "isin": "IL0011767006"
+    },
+    {
       "key": "PLSR:CAD",
       "name": "Pulsar Helium Inc",
       "currency": "CAD",
@@ -49997,12 +50009,6 @@
     {
       "key": "STFS:USD",
       "name": "Star Fashion Culture Holdings Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "STG:USD",
-      "name": "Sunlands Online Education Group",
       "currency": "USD",
       "isin": null
     },
@@ -58325,6 +58331,12 @@
     {
       "key": "ZENB:USD",
       "name": "Zenith Bank PLC",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ZEO:USD",
+      "name": "Zeo Energy Corp",
       "currency": "USD",
       "isin": null
     },
