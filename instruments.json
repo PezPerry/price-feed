@@ -3207,6 +3207,12 @@
       "isin": "FR001400J770"
     },
     {
+      "key": "AFP:GBP",
+      "name": "African Pioneer PLC",
+      "currency": "GBP",
+      "isin": "IM00B8C0HK22"
+    },
+    {
       "key": "AFRI:USD",
       "name": "Forafric Global PLC",
       "currency": "USD",
@@ -31437,6 +31443,12 @@
       "isin": null
     },
     {
+      "key": "LGEN:GBP",
+      "name": "Legal & General Group PLC",
+      "currency": "GBP",
+      "isin": "GB0005603997"
+    },
+    {
       "key": "LGI:USD",
       "name": "Lazard Global Total",
       "currency": "USD",
@@ -34123,6 +34135,12 @@
       "name": "Mikron Holding AG",
       "currency": "CHF",
       "isin": "CH0003390066"
+    },
+    {
+      "key": "MILA:GBP",
+      "name": "Mila Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BD4FCK53"
     },
     {
       "key": "MILDES:SEK",
@@ -51565,6 +51583,12 @@
       "name": "Target Hospitality Corp",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "THAT:GBP",
+      "name": "Thalia Therapeutics PLC",
+      "currency": "GBP",
+      "isin": "GB00BYW8QM32"
     },
     {
       "key": "THC:USD",
