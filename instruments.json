@@ -2403,12 +2403,6 @@
       "isin": null
     },
     {
-      "key": "ACHV:USD",
-      "name": "Achieve Life Sciences Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "ACI:USD",
       "name": "Albertsons Companies Inc",
       "currency": "USD",
@@ -2646,12 +2640,6 @@
       "key": "ADC:USD",
       "name": "Agree Realty Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "ADCO:CAD",
-      "name": "Adcore Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -3783,12 +3771,6 @@
       "isin": null
     },
     {
-      "key": "AJAX:GBP",
-      "name": "Ajax Resources PLC",
-      "currency": "GBP",
-      "isin": "GB00BLNBD412"
-    },
-    {
       "key": "AJAXA:EUR",
       "name": "AFC Ajax NV",
       "currency": "EUR",
@@ -4525,12 +4507,6 @@
       "name": "Altri SGPS SA",
       "currency": "EUR",
       "isin": "PTALT0AE0002"
-    },
-    {
-      "key": "ALTU:CAD",
-      "name": "Altura Energy Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "ALU:GBP",
@@ -5641,12 +5617,6 @@
       "name": "Aramis Group SAS",
       "currency": "EUR",
       "isin": "FR0014003U94"
-    },
-    {
-      "key": "ARAY:USD",
-      "name": "Accuray Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "ARBB:GBP",
@@ -7657,12 +7627,6 @@
       "name": "Bassac SA",
       "currency": "EUR",
       "isin": "FR0004023208"
-    },
-    {
-      "key": "BAT:CAD",
-      "name": "Batero Gold Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "BATL:USD",
@@ -9717,18 +9681,6 @@
       "isin": null
     },
     {
-      "key": "BOOZTC:DKK",
-      "name": "Boozt AB",
-      "currency": "DKK",
-      "isin": "SE0009888738"
-    },
-    {
-      "key": "BOOZTS:SEK",
-      "name": "Boozt AB",
-      "currency": "SEK",
-      "isin": "SE0009888738"
-    },
-    {
       "key": "BOR:GBP",
       "name": "Borders & Southern Petroleum PLC",
       "currency": "GBP",
@@ -11151,12 +11103,6 @@
       "isin": null
     },
     {
-      "key": "CALC:USD",
-      "name": "CalciMedica Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "CALM:USD",
       "name": "Cal-Maine Foods Inc",
       "currency": "USD",
@@ -11891,12 +11837,6 @@
     {
       "key": "CCMC:CAD",
       "name": "Core Critical Metals Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "CCMI:CAD",
-      "name": "Canadian Critical Minerals Inc",
       "currency": "CAD",
       "isin": null
     },
@@ -12763,12 +12703,6 @@
       "name": "Chrysalis Investment Ltd",
       "currency": "GBP",
       "isin": "GG00BGJYPP46"
-    },
-    {
-      "key": "CHS:CAD",
-      "name": "Comprehensive Healthcare Systems Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "CHT:USD",
@@ -23025,12 +22959,6 @@
       "isin": null
     },
     {
-      "key": "GENF:GBP",
-      "name": "Genflow Biosciences PLC",
-      "currency": "GBP",
-      "isin": "GB00BP2C3V08"
-    },
-    {
       "key": "GENI:USD",
       "name": "Genius Sports Ltd",
       "currency": "USD",
@@ -24849,12 +24777,6 @@
       "isin": null
     },
     {
-      "key": "GX:CAD",
-      "name": "Guardian Exploration Inc.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "GXID:EUR",
       "name": "Gerresheimer AG",
       "currency": "EUR",
@@ -26613,12 +26535,6 @@
       "isin": null
     },
     {
-      "key": "HUI:GBP",
-      "name": "Hydrogen Utopia International PLC",
-      "currency": "GBP",
-      "isin": "GB00BMFR8J48"
-    },
-    {
       "key": "HUIZ:USD",
       "name": "Huize Holding Ltd",
       "currency": "USD",
@@ -28031,12 +27947,6 @@
     {
       "key": "INNV:USD",
       "name": "InnovAge Holding Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "INO:USD",
-      "name": "Inovio Pharmaceuticals Inc",
       "currency": "USD",
       "isin": null
     },
@@ -33165,12 +33075,6 @@
       "isin": "JP3879250003"
     },
     {
-      "key": "MAX:CAD",
-      "name": "MAX Resource Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "MAX:USD",
       "name": "MediaAlpha Inc",
       "currency": "USD",
@@ -36419,12 +36323,6 @@
     {
       "key": "NCPL:USD",
       "name": "Netcapital Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "NCT:USD",
-      "name": "Intercont (Cayman) Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -41295,12 +41193,6 @@
       "isin": null
     },
     {
-      "key": "PHIO:USD",
-      "name": "Phio Pharmaceuticals Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "PHK:USD",
       "name": "PIMCO High Income Fund",
       "currency": "USD",
@@ -43383,12 +43275,6 @@
       "isin": null
     },
     {
-      "key": "QPR1VH:EUR",
-      "name": "QPR Software Oyj",
-      "currency": "EUR",
-      "isin": "FI0009008668"
-    },
-    {
       "key": "QQ.:GBP",
       "name": "QinetiQ Group PLC",
       "currency": "GBP",
@@ -44377,12 +44263,6 @@
       "name": "Revo Insurance SpA",
       "currency": "EUR",
       "isin": "IT0005513202"
-    },
-    {
-      "key": "REVX:CAD",
-      "name": "REV Exploration Corp",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "REX:USD",
@@ -53289,12 +53169,6 @@
       "isin": "FR0000120271"
     },
     {
-      "key": "TTG:CAD",
-      "name": "Trans Canada Gold Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "TTG:GBP",
       "name": "TT Electronics PLC",
       "currency": "GBP",
@@ -56373,12 +56247,6 @@
       "isin": null
     },
     {
-      "key": "WETO:USD",
-      "name": "Wetour Robotics Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WETTEH:EUR",
       "name": "Wetteri Oyj",
       "currency": "EUR",
@@ -58065,12 +57933,6 @@
       "isin": null
     },
     {
-      "key": "ZBNI:CAD",
-      "name": "ZEB Nickel Corp",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "ZBRA:USD",
       "name": "Zebra Technologies Corp",
       "currency": "USD",
@@ -58145,12 +58007,6 @@
     {
       "key": "ZENB:USD",
       "name": "Zenith Bank PLC",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "ZEO:USD",
-      "name": "Zeo Energy Corp",
       "currency": "USD",
       "isin": null
     },
