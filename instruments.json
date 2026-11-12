@@ -4551,6 +4551,12 @@
       "isin": null
     },
     {
+      "key": "ALTAIP:EUR",
+      "name": "LightOn SAS",
+      "currency": "EUR",
+      "isin": "FR0013230950"
+    },
+    {
       "key": "ALTAP:EUR",
       "name": "Altarea SCA",
       "currency": "EUR",
@@ -15708,6 +15714,12 @@
       "key": "CYH:USD",
       "name": "Community Health Systems Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "CYM:CAD",
+      "name": "Cymat Technologies Ltd",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -45573,6 +45585,12 @@
       "isin": null
     },
     {
+      "key": "RTH:CAD",
+      "name": "Rathdowney Resources Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "RTO:GBP",
       "name": "Rentokil Initial PLC",
       "currency": "GBP",
@@ -52542,6 +52560,12 @@
       "key": "TOL:USD",
       "name": "Toll Brothers Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "TOM:CAD",
+      "name": "Trinity Silver Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
