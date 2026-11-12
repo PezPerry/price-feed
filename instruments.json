@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -1723,6 +1723,12 @@
       "name": "80 Mile PLC",
       "currency": "GBP",
       "isin": "GB00BFD3VF20"
+    },
+    {
+      "key": "82WD:EUR",
+      "name": "Hims & Hers Health Inc",
+      "currency": "EUR",
+      "isin": null
     },
     {
       "key": "88E:GBP",
@@ -5703,16 +5709,16 @@
       "isin": null
     },
     {
+      "key": "ARAI:USD",
+      "name": "Arrive AI Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ARAMIP:EUR",
       "name": "Aramis Group SAS",
       "currency": "EUR",
       "isin": "FR0014003U94"
-    },
-    {
-      "key": "ARAY:USD",
-      "name": "Accuray Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "ARBB:GBP",
@@ -6463,12 +6469,6 @@
       "name": "Atlas Copco AB",
       "currency": "SEK",
       "isin": "SE0017486897"
-    },
-    {
-      "key": "ATCX:USD",
-      "name": "Atlas Critical Minerals Corp",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "ATD:CAD",
@@ -14667,6 +14667,12 @@
       "isin": null
     },
     {
+      "key": "CRMN:USD",
+      "name": "Kaz Resources Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CRN:GBP",
       "name": "Cairn Homes PLC",
       "currency": "GBP",
@@ -16267,6 +16273,12 @@
       "name": "Dottikon Es Holding AG",
       "currency": "CHF",
       "isin": "CH0582581713"
+    },
+    {
+      "key": "DETX:USD",
+      "name": "Liberty Defense Holdings Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "DEX:CAD",
@@ -27195,6 +27207,12 @@
       "isin": null
     },
     {
+      "key": "ICMB:USD",
+      "name": "Investcorp Credit Management BDC Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ICOPM:EUR",
       "name": "ICOP SpA",
       "currency": "EUR",
@@ -29607,6 +29625,12 @@
       "isin": null
     },
     {
+      "key": "JYD:USD",
+      "name": "Jayud Global Logistics Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "JYNT:USD",
       "name": "Joint Corp (The)",
       "currency": "USD",
@@ -30567,12 +30591,6 @@
       "isin": null
     },
     {
-      "key": "KORE:CAD",
-      "name": "Kore Mining Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "KOS:GBP",
       "name": "Kosmos Energy Ltd",
       "currency": "GBP",
@@ -30787,6 +30805,12 @@
       "name": "Kerry Group PLC",
       "currency": "EUR",
       "isin": "IE0004906560"
+    },
+    {
+      "key": "KSCP:USD",
+      "name": "Knightscope Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "KSPI:USD",
@@ -41373,12 +41397,6 @@
       "isin": null
     },
     {
-      "key": "PHIO:USD",
-      "name": "Phio Pharmaceuticals Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "PHK:USD",
       "name": "PIMCO High Income Fund",
       "currency": "USD",
@@ -41681,6 +41699,12 @@
     {
       "key": "PLBY:USD",
       "name": "PLBY Group Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "PLCE:USD",
+      "name": "The Children's Place Retail Stores Inc",
       "currency": "USD",
       "isin": null
     },
@@ -53427,6 +53451,12 @@
       "isin": null
     },
     {
+      "key": "TTZ:CAD",
+      "name": "Total Telcom Inc.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "TU:USD",
       "name": "TELUS Corp",
       "currency": "USD",
@@ -56469,12 +56499,6 @@
       "isin": null
     },
     {
-      "key": "WETO:USD",
-      "name": "Wetour Robotics Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "WETTEH:EUR",
       "name": "Wetteri Oyj",
       "currency": "EUR",
@@ -57969,12 +57993,6 @@
       "isin": null
     },
     {
-      "key": "YMT:USD",
-      "name": "Yimutian Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "YNGA:GBP",
       "name": "Young & Co's Brewery PLC",
       "currency": "GBP",
@@ -57985,6 +58003,12 @@
       "name": "Young & Co's Brewery PLC",
       "currency": "GBP",
       "isin": "GB00B2NDK989"
+    },
+    {
+      "key": "YOCD:EUR",
+      "name": "YOC AG",
+      "currency": "EUR",
+      "isin": "DE0005932735"
     },
     {
       "key": "YORW:USD",
