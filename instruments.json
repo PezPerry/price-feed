@@ -2715,12 +2715,6 @@
       "isin": "CH0012138605"
     },
     {
-      "key": "ADF:GBP",
-      "name": "Facilities By ADF PLC",
-      "currency": "GBP",
-      "isin": "GB00BNZGNM64"
-    },
-    {
       "key": "ADGM:USD",
       "name": "Adagio Medical Holdings Inc",
       "currency": "USD",
@@ -5577,12 +5571,6 @@
       "isin": null
     },
     {
-      "key": "APOTES:SEK",
-      "name": "Apotea AB",
-      "currency": "SEK",
-      "isin": "SE0023313762"
-    },
-    {
       "key": "APP:USD",
       "name": "Applovin Corp",
       "currency": "USD",
@@ -7527,12 +7515,6 @@
       "isin": null
     },
     {
-      "key": "BACTBS:SEK",
-      "name": "Bactiguard Holding AB",
-      "currency": "SEK",
-      "isin": "SE0005878741"
-    },
-    {
       "key": "BAER:USD",
       "name": "Bridger Aerospace Group Holdings Inc",
       "currency": "USD",
@@ -8407,12 +8389,6 @@
       "name": "BE Semiconductor Industries NV",
       "currency": "EUR",
       "isin": "NL0012866412"
-    },
-    {
-      "key": "BESQAS:SEK",
-      "name": "Besqab AB",
-      "currency": "SEK",
-      "isin": "SE0010547786"
     },
     {
       "key": "BETA:USD",
@@ -9377,12 +9353,6 @@
     {
       "key": "BMEZ:USD",
       "name": "BlackRock Health Sciences Trust II",
-      "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BMGL:USD",
-      "name": "Basel Medical Group Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -18795,18 +18765,6 @@
       "isin": "AU000000EMH5"
     },
     {
-      "key": "EMILBS:SEK",
-      "name": "Fastighetsbolaget Emilshus AB",
-      "currency": "SEK",
-      "isin": "SE0016785786"
-    },
-    {
-      "key": "EMILPS:SEK",
-      "name": "Fastighetsbolaget Emilshus AB",
-      "currency": "SEK",
-      "isin": "SE0016785794"
-    },
-    {
       "key": "EMIS:USD",
       "name": "Emmis Acquisition Corp",
       "currency": "USD",
@@ -21735,12 +21693,6 @@
       "isin": "GB00BCKFY513"
     },
     {
-      "key": "FOXX:USD",
-      "name": "Foxx Development Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "FPARAS:SEK",
       "name": "FastPartner AB",
       "currency": "SEK",
@@ -23125,12 +23077,6 @@
       "name": "Genius Sports Ltd",
       "currency": "USD",
       "isin": "GG00BMF1JR16"
-    },
-    {
-      "key": "GENK:USD",
-      "name": "GEN Restaurant Group Inc",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "GENL:GBP",
@@ -26715,12 +26661,6 @@
       "isin": "FI0009000459"
     },
     {
-      "key": "HUHU:USD",
-      "name": "HUHUTECH International Group Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "HUIZ:USD",
       "name": "Huize Holding Ltd",
       "currency": "USD",
@@ -27799,12 +27739,6 @@
       "name": "Immersion Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "IMMUS:SEK",
-      "name": "Mendus AB",
-      "currency": "SEK",
-      "isin": "SE0022239950"
     },
     {
       "key": "IMMX:USD",
@@ -29667,12 +29601,6 @@
       "isin": null
     },
     {
-      "key": "JYD:USD",
-      "name": "Jayud Global Logistics Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "JYNT:USD",
       "name": "Joint Corp (The)",
       "currency": "USD",
@@ -29707,12 +29635,6 @@
       "name": "Kinross Gold Corp.",
       "currency": "CAD",
       "isin": null
-    },
-    {
-      "key": "K2ABS:SEK",
-      "name": "K2A Knaust & Andersson Fastigheter AB",
-      "currency": "SEK",
-      "isin": "SE0010520254"
     },
     {
       "key": "K33S:SEK",
@@ -43827,12 +43749,6 @@
       "isin": null
     },
     {
-      "key": "RAMP:CAD",
-      "name": "Ramp Metals Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RANDA:EUR",
       "name": "Randstad NV",
       "currency": "EUR",
@@ -43991,12 +43907,6 @@
     {
       "key": "RBY:CAD",
       "name": "Rubellite Energy Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
-      "key": "RBZ:CAD",
-      "name": "Arya Resources Ltd",
       "currency": "CAD",
       "isin": null
     },
@@ -52575,12 +52485,6 @@
       "isin": null
     },
     {
-      "key": "TOBIIS:SEK",
-      "name": "Tobii AB",
-      "currency": "SEK",
-      "isin": "SE0002591420"
-    },
-    {
       "key": "TOI:CAD",
       "name": "Topicus Com Inc",
       "currency": "CAD",
@@ -53509,12 +53413,6 @@
       "name": "TELUS Corp",
       "currency": "USD",
       "isin": null
-    },
-    {
-      "key": "TUBB:EUR",
-      "name": "Financiere de Tubize SA",
-      "currency": "EUR",
-      "isin": "BE0003823409"
     },
     {
       "key": "TUBE:EUR",
@@ -55825,12 +55723,6 @@
       "name": "Koninklijke Vopak NV",
       "currency": "EUR",
       "isin": "NL0009432491"
-    },
-    {
-      "key": "VPLABS:SEK",
-      "name": "Viaplay Group AB",
-      "currency": "SEK",
-      "isin": "SE0012116390"
     },
     {
       "key": "VPT:CAD",
