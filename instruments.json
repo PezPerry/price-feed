@@ -5607,6 +5607,12 @@
       "isin": null
     },
     {
+      "key": "APTA:GBP",
+      "name": "Aptamer Group PLC",
+      "currency": "GBP",
+      "isin": "GB00BNRRP542"
+    },
+    {
       "key": "APTD:GBP",
       "name": "Aptitude Software Group PLC",
       "currency": "GBP",
@@ -31473,6 +31479,12 @@
       "isin": null
     },
     {
+      "key": "LEX:GBP",
+      "name": "Lexington Gold Ltd",
+      "currency": "GBP",
+      "isin": null
+    },
+    {
       "key": "LFAC:USD",
       "name": "Leapfrog Acquisition Corp",
       "currency": "USD",
@@ -49579,6 +49591,12 @@
       "name": "SRV Group Oyj",
       "currency": "EUR",
       "isin": "FI4000523675"
+    },
+    {
+      "key": "SRVL:GBP",
+      "name": "Serval Resources PLC",
+      "currency": "GBP",
+      "isin": "GB00BVRY1W08"
     },
     {
       "key": "SRZN:USD",
