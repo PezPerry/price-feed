@@ -48579,6 +48579,12 @@
       "isin": null
     },
     {
+      "key": "SNDA:GBP",
+      "name": "Sunda Energy PLC",
+      "currency": "GBP",
+      "isin": "GB00BSHSGY88"
+    },
+    {
       "key": "SNDA:USD",
       "name": "Sonida Senior Living Inc",
       "currency": "USD",
