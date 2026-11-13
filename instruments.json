@@ -3693,6 +3693,12 @@
       "isin": null
     },
     {
+      "key": "AIMD:USD",
+      "name": "Ainos Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AIN:USD",
       "name": "Albany International Corp",
       "currency": "USD",
@@ -51671,6 +51677,12 @@
     {
       "key": "TGE:USD",
       "name": "The Generation Essentials Group",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "TGHL:USD",
+      "name": "The Growhub Ltd",
       "currency": "USD",
       "isin": null
     },
