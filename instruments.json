@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -5583,6 +5583,12 @@
       "isin": null
     },
     {
+      "key": "APOTES:SEK",
+      "name": "Apotea AB",
+      "currency": "SEK",
+      "isin": "SE0023313762"
+    },
+    {
       "key": "APP:USD",
       "name": "Applovin Corp",
       "currency": "USD",
@@ -7371,6 +7377,12 @@
       "isin": null
     },
     {
+      "key": "AZIO:USD",
+      "name": "Azio AI Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AZM:CAD",
       "name": "Azimut Exploration Inc.",
       "currency": "CAD",
@@ -7410,6 +7422,12 @@
       "key": "AZR:CAD",
       "name": "Azarga Metals Corp",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "AZR:USD",
+      "name": "Azora Therapeutics Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -7513,6 +7531,12 @@
       "name": "Verizon Communications Inc",
       "currency": "EUR",
       "isin": null
+    },
+    {
+      "key": "BACTBS:SEK",
+      "name": "Bactiguard Holding AB",
+      "currency": "SEK",
+      "isin": "SE0005878741"
     },
     {
       "key": "BAER:USD",
@@ -10455,12 +10479,6 @@
       "isin": "GB0030913577"
     },
     {
-      "key": "BTBD:USD",
-      "name": "BT Brands Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "BTBT:USD",
       "name": "Bit Digital Inc",
       "currency": "USD",
@@ -11112,6 +11130,18 @@
       "key": "CADY:CAD",
       "name": "Cadillac Mines Corporation",
       "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "CAE:CAD",
+      "name": "CAE Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "CAE:USD",
+      "name": "CAE Inc",
+      "currency": "USD",
       "isin": null
     },
     {
@@ -12787,6 +12817,12 @@
       "name": "Chrysalis Investment Ltd",
       "currency": "GBP",
       "isin": "GG00BGJYPP46"
+    },
+    {
+      "key": "CHS:CAD",
+      "name": "Comprehensive Healthcare Systems Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "CHT:USD",
@@ -15297,6 +15333,12 @@
       "isin": null
     },
     {
+      "key": "CUPR:USD",
+      "name": "Cuprina Holdings (Cayman) Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CURA:CAD",
       "name": "Curaleaf Holdings Inc",
       "currency": "CAD",
@@ -16249,12 +16291,6 @@
       "name": "Dottikon Es Holding AG",
       "currency": "CHF",
       "isin": "CH0582581713"
-    },
-    {
-      "key": "DETX:USD",
-      "name": "Liberty Defense Holdings Ltd",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "DEX:CAD",
@@ -17521,12 +17557,6 @@
       "name": "Deutsche Wohnen SE",
       "currency": "EUR",
       "isin": "DE000A0HN5C6"
-    },
-    {
-      "key": "DWS:CAD",
-      "name": "Diamond Estates Wines And Spirits Inc",
-      "currency": "CAD",
-      "isin": null
     },
     {
       "key": "DWSD:EUR",
@@ -24879,6 +24909,12 @@
       "isin": null
     },
     {
+      "key": "GX:CAD",
+      "name": "Guardian Exploration Inc.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "GXID:EUR",
       "name": "Gerresheimer AG",
       "currency": "EUR",
@@ -26244,6 +26280,12 @@
       "key": "HPK:USD",
       "name": "HighPeak Energy Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "HPM:CAD",
+      "name": "Halcones Precious Metals Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -27765,6 +27807,12 @@
       "isin": null
     },
     {
+      "key": "IMR:CAD",
+      "name": "Imetal Resources Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "IMRX:USD",
       "name": "Immuneering Corp",
       "currency": "USD",
@@ -28043,6 +28091,12 @@
     {
       "key": "INNV:USD",
       "name": "InnovAge Holding Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "INO:USD",
+      "name": "Inovio Pharmaceuticals Inc",
       "currency": "USD",
       "isin": null
     },
@@ -31809,12 +31863,6 @@
       "isin": "FR0000121964"
     },
     {
-      "key": "LIQT:USD",
-      "name": "LiqTech International Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "LIT:CAD",
       "name": "Argentina Lithium And Energy Corp",
       "currency": "CAD",
@@ -33171,6 +33219,12 @@
       "isin": "JP3879250003"
     },
     {
+      "key": "MAX:CAD",
+      "name": "MAX Resource Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "MAX:USD",
       "name": "MediaAlpha Inc",
       "currency": "USD",
@@ -33513,6 +33567,12 @@
       "isin": null
     },
     {
+      "key": "MDBH:USD",
+      "name": "MDB Capital Holdings LLC",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "MDFE:EUR",
       "name": "Duro Felguera SA",
       "currency": "EUR",
@@ -33762,12 +33822,6 @@
       "key": "MERC:USD",
       "name": "Mercer International Inc",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "MERG:CAD",
-      "name": "Metal Energy Corp",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -36879,12 +36933,6 @@
       "isin": "GB00BDR05C01"
     },
     {
-      "key": "NGC:CAD",
-      "name": "Northern Graphite Corporation",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "NGEN:USD",
       "name": "NervGen Pharma Corp",
       "currency": "USD",
@@ -39459,6 +39507,12 @@
       "isin": null
     },
     {
+      "key": "OPHI:USD",
+      "name": "CollPlant Biotechnologies Ltd",
+      "currency": "USD",
+      "isin": "IL0004960188"
+    },
+    {
       "key": "OPI:USD",
       "name": "Office Properties Income Trust Shares of Beneficial Interest",
       "currency": "USD",
@@ -41613,12 +41667,6 @@
       "isin": null
     },
     {
-      "key": "PLCE:USD",
-      "name": "The Children's Place Retail Stores Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "PLCI:USD",
       "name": "Pelican Acquisition II Corp",
       "currency": "USD",
@@ -42061,6 +42109,12 @@
       "name": "Polar Capital Holdings PLC",
       "currency": "GBP",
       "isin": "GB00B1GCLT25"
+    },
+    {
+      "key": "POM:USD",
+      "name": "Pomdoctor Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "PON1VH:EUR",
@@ -45633,6 +45687,12 @@
       "isin": null
     },
     {
+      "key": "RW:CAD",
+      "name": "Renoworks Software Inc.",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "RWA:GBP",
       "name": "Robert Walters PLC",
       "currency": "GBP",
@@ -45906,6 +45966,12 @@
       "key": "SACH:USD",
       "name": "Sachem Capital Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "SAE:CAD",
+      "name": "Sable Resources Ltd",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -46503,12 +46569,6 @@
       "isin": "SE0000112724"
     },
     {
-      "key": "SCAN:CAD",
-      "name": "Liberty Defense Holdings Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "SCANAO:NOK",
       "name": "Scana ASA",
       "currency": "NOK",
@@ -46945,6 +47005,12 @@
       "name": "Seeing Machines Ltd",
       "currency": "GBP",
       "isin": "AU0000XINAJ0"
+    },
+    {
+      "key": "SEED:USD",
+      "name": "Origin Agritech Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "SEER:USD",
@@ -52411,6 +52477,12 @@
       "name": "Tenaz Energy Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "TOBIIS:SEK",
+      "name": "Tobii AB",
+      "currency": "SEK",
+      "isin": "SE0002591420"
     },
     {
       "key": "TOI:CAD",
@@ -58257,6 +58329,12 @@
       "isin": null
     },
     {
+      "key": "ZLAB:USD",
+      "name": "Zai Lab Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "ZM:USD",
       "name": "Zoom Video Communications",
       "currency": "USD",
@@ -58421,6 +58499,12 @@
     {
       "key": "ZYME:USD",
       "name": "Zymeworks Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "ZYN:USD",
+      "name": "PTL Ltd",
       "currency": "USD",
       "isin": null
     },
