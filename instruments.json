@@ -3051,6 +3051,12 @@
       "isin": null
     },
     {
+      "key": "AEO:GBP",
+      "name": "Aeorema Communications PLC",
+      "currency": "GBP",
+      "isin": "GB00B4QHH456"
+    },
+    {
       "key": "AEO:USD",
       "name": "American Eagle Outfitters Inc",
       "currency": "USD",
@@ -10575,6 +10581,12 @@
       "isin": null
     },
     {
+      "key": "BUC:GBP",
+      "name": "Built Cybernetics PLC",
+      "currency": "GBP",
+      "isin": "GB0000617950"
+    },
+    {
       "key": "BUCNZ:CHF",
       "name": "Bucher Industries AG",
       "currency": "CHF",
@@ -14086,7 +14098,7 @@
     },
     {
       "key": "CORD:GBP",
-      "name": "Cordiant Digital Infrastructure Ltd",
+      "name": "Corilis Digital Infrastructure Ltd",
       "currency": "GBP",
       "isin": "GG00BMC7TM77"
     },
@@ -21355,6 +21367,12 @@
       "name": "Fresenius Medical Care AG",
       "currency": "EUR",
       "isin": "DE0005785802"
+    },
+    {
+      "key": "FMET:GBP",
+      "name": "Fulcrum Metals PLC",
+      "currency": "GBP",
+      "isin": "GB00BPCPPZ79"
     },
     {
       "key": "FMM:EUR",
@@ -38281,6 +38299,12 @@
       "name": "Northwest Copper Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "NWT:GBP",
+      "name": "Newmark Security PLC",
+      "currency": "GBP",
+      "isin": "GB00BNYM9W73"
     },
     {
       "key": "NWTD:EUR",
