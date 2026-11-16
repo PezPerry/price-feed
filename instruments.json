@@ -6903,6 +6903,12 @@
       "isin": "NO0010073489"
     },
     {
+      "key": "AUST:USD",
+      "name": "Austin Gold Corp",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "AUTL:USD",
       "name": "Autolus Therapeutics Ltd",
       "currency": "USD",
@@ -8208,6 +8214,12 @@
       "key": "BE:USD",
       "name": "Bloom Energy Corp",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "BEA:CAD",
+      "name": "Belmont Resources Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -32187,6 +32199,12 @@
       "isin": "GB00BM9CLS53"
     },
     {
+      "key": "LOT:CAD",
+      "name": "Tomagold Corporation",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "LOT:USD",
       "name": "Lotus Technology Inc",
       "currency": "USD",
@@ -42097,6 +42115,12 @@
       "name": "Outdoor Holding Co",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "POXELP:EUR",
+      "name": "Poxel SA",
+      "currency": "EUR",
+      "isin": "FR0012432516"
     },
     {
       "key": "PPC:USD",
