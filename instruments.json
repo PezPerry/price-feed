@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-16",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -7353,12 +7353,6 @@
       "isin": null
     },
     {
-      "key": "AZIO:USD",
-      "name": "Azio AI Holdings Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AZM:CAD",
       "name": "Azimut Exploration Inc.",
       "currency": "CAD",
@@ -7717,6 +7711,12 @@
       "name": "Bassac SA",
       "currency": "EUR",
       "isin": "FR0004023208"
+    },
+    {
+      "key": "BAT:CAD",
+      "name": "Batero Gold Corp",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "BATL:USD",
@@ -8208,12 +8208,6 @@
       "key": "BE:USD",
       "name": "Bloom Energy Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BEA:CAD",
-      "name": "Belmont Resources Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -17517,6 +17511,12 @@
       "isin": "DE000A0HN5C6"
     },
     {
+      "key": "DWS:CAD",
+      "name": "Diamond Estates Wines And Spirits Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "DWSD:EUR",
       "name": "DWS Group GmbH & Co KGaA",
       "currency": "EUR",
@@ -18025,6 +18025,12 @@
       "name": "eDreams ODIGEO SA",
       "currency": "EUR",
       "isin": "LU1048328220"
+    },
+    {
+      "key": "EDRY:USD",
+      "name": "EuroDry Ltd",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "EDSA:USD",
@@ -26205,12 +26211,6 @@
       "isin": null
     },
     {
-      "key": "HPAI:USD",
-      "name": "Helport AI Ltd",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "HPE:USD",
       "name": "Hewlett Packard Enterprise Company",
       "currency": "USD",
@@ -26389,6 +26389,12 @@
       "name": "HSBC Holdings PLC",
       "currency": "GBP",
       "isin": "GB0005405286"
+    },
+    {
+      "key": "HSBC:USD",
+      "name": "HSBC Holdings PLC",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "HSBK:USD",
@@ -26857,6 +26863,12 @@
       "name": "Hypoport SE",
       "currency": "EUR",
       "isin": "DE0005493365"
+    },
+    {
+      "key": "HZN:USD",
+      "name": "Bright Horizon Energy Corp",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "HZO:USD",
@@ -27645,12 +27657,6 @@
       "isin": null
     },
     {
-      "key": "IMI:CAD",
-      "name": "Ironman International Ltd",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "IMI:GBP",
       "name": "IMI PLC",
       "currency": "GBP",
@@ -27691,6 +27697,12 @@
       "name": "Immersion Corp",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "IMMUS:SEK",
+      "name": "Mendus AB",
+      "currency": "SEK",
+      "isin": "SE0022239950"
     },
     {
       "key": "IMMX:USD",
@@ -30729,6 +30741,12 @@
       "isin": "IE0004906560"
     },
     {
+      "key": "KSCP:USD",
+      "name": "Knightscope Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "KSS:USD",
       "name": "Kohls Corp",
       "currency": "USD",
@@ -32712,12 +32730,6 @@
       "key": "LX:USD",
       "name": "LexinFintech Holdings Ltd",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "LXE:CAD",
-      "name": "Latin Explore Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -36069,6 +36081,12 @@
       "isin": "FI4000330972"
     },
     {
+      "key": "NANOFS:SEK",
+      "name": "Nanoform Finland Plc",
+      "currency": "SEK",
+      "isin": "FI4000330972"
+    },
+    {
       "key": "NANOP:EUR",
       "name": "Nanobiotix SA",
       "currency": "EUR",
@@ -38121,12 +38139,6 @@
       "isin": "PTPTI0AM0006"
     },
     {
-      "key": "NVLH:CAD",
-      "name": "Nevada Lithium Resources Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "NVMD:EUR",
       "name": "Novem Group SA",
       "currency": "EUR",
@@ -39357,12 +39369,6 @@
       "isin": null
     },
     {
-      "key": "OPAD:USD",
-      "name": "Offerpad Solutions Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "OPAL:USD",
       "name": "OPAL Fuels Inc",
       "currency": "USD",
@@ -39491,6 +39497,18 @@
     {
       "key": "OPY:USD",
       "name": "Oppenheimer Holdings Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "OR:CAD",
+      "name": "Osisko Gold Royalties Ltd",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
+      "key": "OR:USD",
+      "name": "Osisko Gold Royalties Ltd",
       "currency": "USD",
       "isin": null
     },
@@ -40857,12 +40875,6 @@
       "isin": null
     },
     {
-      "key": "PEI:CAD",
-      "name": "Prospera Energy Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "PEMB:GBP",
       "name": "Pembroke VCT PLC B",
       "currency": "GBP",
@@ -41611,6 +41623,12 @@
       "name": "Pulse Biosciences Inc",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "PLSM:USD",
+      "name": "Pulsenmore Ltd",
+      "currency": "USD",
+      "isin": "IL0011767006"
     },
     {
       "key": "PLSR:CAD",
@@ -43309,6 +43327,12 @@
       "name": "Quantum BioPharma Ltd",
       "currency": "USD",
       "isin": null
+    },
+    {
+      "key": "QPR1VH:EUR",
+      "name": "QPR Software Oyj",
+      "currency": "EUR",
+      "isin": "FI0009008668"
     },
     {
       "key": "QQ.:GBP",
@@ -45543,12 +45567,6 @@
       "isin": null
     },
     {
-      "key": "RW:CAD",
-      "name": "Renoworks Software Inc.",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "RWA:GBP",
       "name": "Robert Walters PLC",
       "currency": "GBP",
@@ -45822,12 +45840,6 @@
       "key": "SACH:USD",
       "name": "Sachem Capital Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SAE:CAD",
-      "name": "Sable Resources Ltd",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -46531,12 +46543,6 @@
       "name": "Scancell Holdings PLC",
       "currency": "GBP",
       "isin": "GB00B63D3314"
-    },
-    {
-      "key": "SCLX:USD",
-      "name": "Scilex Holding Co",
-      "currency": "USD",
-      "isin": null
     },
     {
       "key": "SCM:USD",
@@ -48015,12 +48021,6 @@
       "isin": null
     },
     {
-      "key": "SKYQ:USD",
-      "name": "Sky Quarry Inc",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "SKYW:USD",
       "name": "SkyWest Inc",
       "currency": "USD",
@@ -48552,12 +48552,6 @@
       "key": "SNFCA:USD",
       "name": "Security National Financial Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "SNG:CAD",
-      "name": "Silver Range Resources Ltd",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -54561,6 +54555,12 @@
       "isin": "BE0003839561"
     },
     {
+      "key": "VAND:CAD",
+      "name": "Largo Physical Vanadium Corp",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "VANI:USD",
       "name": "Vivani Medical Inc",
       "currency": "USD",
@@ -57785,6 +57785,12 @@
     {
       "key": "YMM:USD",
       "name": "Full Truck Alliance Co Ltd",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "YMT:USD",
+      "name": "Yimutian Inc",
       "currency": "USD",
       "isin": null
     },
