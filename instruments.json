@@ -43455,6 +43455,12 @@
       "isin": null
     },
     {
+      "key": "RCGH:GBP",
+      "name": "Rc365 Holding PLC",
+      "currency": "GBP",
+      "isin": "GB00BMG8BL95"
+    },
+    {
       "key": "RCH:CAD",
       "name": "Richelieu Hardware Ltd",
       "currency": "CAD",
