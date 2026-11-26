@@ -19941,6 +19941,12 @@
       "isin": null
     },
     {
+      "key": "EVRL:USD",
+      "name": "Everli Global Holdings",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "EVSB:EUR",
       "name": "EVS SA",
       "currency": "EUR",
@@ -21619,6 +21625,12 @@
       "name": "Foxtons Group PLC",
       "currency": "GBP",
       "isin": "GB00BCKFY513"
+    },
+    {
+      "key": "FOXX:USD",
+      "name": "Foxx Development Holdings Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "FPARAS:SEK",
@@ -29035,6 +29047,12 @@
       "name": "Jacquet Metals SACA",
       "currency": "EUR",
       "isin": "FR0000033904"
+    },
+    {
+      "key": "JCTC:USD",
+      "name": "Jewett-Cameron Trading Co",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "JD:USD",
@@ -43503,6 +43521,12 @@
       "isin": null
     },
     {
+      "key": "RAMP:CAD",
+      "name": "Ramp Metals Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "RANDA:EUR",
       "name": "Randstad NV",
       "currency": "EUR",
@@ -52194,6 +52218,12 @@
       "key": "TOL:USD",
       "name": "Toll Brothers Inc",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "TOM:CAD",
+      "name": "Trinity Silver Corp",
+      "currency": "CAD",
       "isin": null
     },
     {
