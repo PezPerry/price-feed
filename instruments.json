@@ -6933,12 +6933,6 @@
       "isin": "NO0010073489"
     },
     {
-      "key": "AUST:USD",
-      "name": "Austin Gold Corp",
-      "currency": "USD",
-      "isin": null
-    },
-    {
       "key": "AUTL:USD",
       "name": "Autolus Therapeutics Ltd",
       "currency": "USD",
@@ -29949,6 +29943,12 @@
       "isin": "SE0012904803"
     },
     {
+      "key": "KEEK:CAD",
+      "name": "Keek Social Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "KEEL:USD",
       "name": "Keel Infrastructure Corp",
       "currency": "USD",
@@ -32814,6 +32814,12 @@
       "key": "LX:USD",
       "name": "LexinFintech Holdings Ltd",
       "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "LXE:CAD",
+      "name": "Latin Explore Inc",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -38869,6 +38875,12 @@
       "name": "Orion Engineered Carbons SA",
       "currency": "USD",
       "isin": "LU1092234845"
+    },
+    {
+      "key": "OEG.H:CAD",
+      "name": "Onenergy Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "OEMBS:SEK",
@@ -46983,12 +46995,6 @@
       "isin": null
     },
     {
-      "key": "SEGN:CAD",
-      "name": "Seegnal Inc",
-      "currency": "CAD",
-      "isin": null
-    },
-    {
       "key": "SEI:CAD",
       "name": "Sintana Energy Inc",
       "currency": "CAD",
@@ -49171,6 +49177,12 @@
       "name": "Saipem SpA",
       "currency": "EUR",
       "isin": "IT0005495657"
+    },
+    {
+      "key": "SPN:CAD",
+      "name": "Snipp Interactive Inc",
+      "currency": "CAD",
+      "isin": null
     },
     {
       "key": "SPNT:USD",
