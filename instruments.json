@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "as_of": "2026-11-26",
+  "as_of": "2026-11-27",
   "instruments": [
     {
       "key": "0A2Z:USD",
@@ -1449,6 +1449,12 @@
       "isin": null
     },
     {
+      "key": "1RTXM:EUR",
+      "name": "RTX Corp",
+      "currency": "EUR",
+      "isin": null
+    },
+    {
       "key": "1SAPM:EUR",
       "name": "SAP SE",
       "currency": "EUR",
@@ -1667,6 +1673,12 @@
     {
       "key": "5Q5D:EUR",
       "name": "Snowflake Inc",
+      "currency": "EUR",
+      "isin": null
+    },
+    {
+      "key": "5URD:EUR",
+      "name": "RTX Corp",
       "currency": "EUR",
       "isin": null
     },
@@ -8082,12 +8094,6 @@
       "key": "BE:USD",
       "name": "Bloom Energy Corp",
       "currency": "USD",
-      "isin": null
-    },
-    {
-      "key": "BEA:CAD",
-      "name": "Belmont Resources Inc",
-      "currency": "CAD",
       "isin": null
     },
     {
@@ -14979,6 +14985,12 @@
       "isin": null
     },
     {
+      "key": "CTRM:USD",
+      "name": "Castor Maritime Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
       "key": "CTRN:USD",
       "name": "Citi Trends Inc",
       "currency": "USD",
@@ -20275,6 +20287,12 @@
       "name": "Full Circle Lithium Corp",
       "currency": "CAD",
       "isin": null
+    },
+    {
+      "key": "FCM:GBP",
+      "name": "First Class Metals PLC",
+      "currency": "GBP",
+      "isin": "GB00BPJGTF16"
     },
     {
       "key": "FCN:USD",
@@ -32739,6 +32757,12 @@
       "isin": "IT0000062957"
     },
     {
+      "key": "MBO:CAD",
+      "name": "Mobio Technologies Inc",
+      "currency": "CAD",
+      "isin": null
+    },
+    {
       "key": "MBOT:USD",
       "name": "Microbot Medical Inc",
       "currency": "USD",
@@ -35538,6 +35562,12 @@
       "key": "NAQD:EUR",
       "name": "Nasdaq Inc",
       "currency": "EUR",
+      "isin": null
+    },
+    {
+      "key": "NAR:CAD",
+      "name": "North Arrow Minerals Inc.",
+      "currency": "CAD",
       "isin": null
     },
     {
@@ -38817,6 +38847,12 @@
       "isin": null
     },
     {
+      "key": "OPHI:USD",
+      "name": "CollPlant Biotechnologies Ltd",
+      "currency": "USD",
+      "isin": "IL0004960188"
+    },
+    {
       "key": "OPI:USD",
       "name": "Office Properties Income Trust Shares of Beneficial Interest",
       "currency": "USD",
@@ -39751,6 +39787,12 @@
       "name": "Patrimoine et Commerce",
       "currency": "EUR",
       "isin": "FR0011027135"
+    },
+    {
+      "key": "PAVM:USD",
+      "name": "PAVmed Inc",
+      "currency": "USD",
+      "isin": null
     },
     {
       "key": "PAX:USD",
@@ -55439,6 +55481,12 @@
     {
       "key": "WETH:USD",
       "name": "Wetouch Technology Inc",
+      "currency": "USD",
+      "isin": null
+    },
+    {
+      "key": "WETO:USD",
+      "name": "Wetour Robotics Ltd",
       "currency": "USD",
       "isin": null
     },
